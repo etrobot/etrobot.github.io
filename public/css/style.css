@@ -524,7 +524,7 @@ code {
 .search-form-input.st-default-search-input {
   -webkit-appearance: textarea;
   padding: 0;
-  width: 100px;
+  width: 30px;
   height: auto !important;
   border: none !important;
   outline: none !important;
@@ -2032,76 +2032,52 @@ i.icon:before {
   }
   #header .nav-container {
     padding: 0px;
-  }
-  #header .nav-container #main-nav-toggle {
-    float: none;
-    display: block;
-  }
-  #header .nav-container .nav-container-inner {
-    display: none;
-  }
-  #header .nav-container #main-nav {
-    display: block;
-    float: none;
-  }
-  #header .nav-container #main-nav .main-nav-list-item,
-  #header .nav-container #main-nav .main-nav-list-link {
-    display: block;
-    float: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    font-size: 14px;
-  }
-  #header .nav-container #main-nav .main-nav-list-item:before,
-  #header .nav-container #main-nav .main-nav-list-link:before,
-  #header .nav-container #main-nav .main-nav-list-item:after,
-  #header .nav-container #main-nav .main-nav-list-link:after {
-    content: "";
-    display: table;
-  }
-  #header .nav-container #main-nav .main-nav-list-item:after,
-  #header .nav-container #main-nav .main-nav-list-link:after {
-    clear: both;
-  }
-  #header .nav-container #main-nav .main-nav-list-item.top-level-menu > a {
-    position: relative;
-  }
-  #header .nav-container #main-nav .main-nav-list-item.top-level-menu > a:after {
-    display: none;
-  }
-  #header .nav-container #main-nav .main-nav-list-item.top-level-menu:hover > a {
-    background: none;
-    color: rgba(255,255,255,0.7);
-  }
-  #header .nav-container #main-nav .main-nav-list-item.top-level-menu > a:hover {
-    color: #fff;
-    background: rgba(0,0,0,0.1);
-  }
-  #header .nav-container #main-nav .main-nav-list-item .main-nav-list-child {
-    display: block !important;
-    position: relative;
-    width: 100%;
-    padding: 0px;
-    background: none;
-  }
-  #header .nav-container #main-nav .main-nav-list-item .main-nav-list-child .main-nav-list-link {
-    padding-left: 30px;
-  }
-  #header .nav-container #main-nav a {
-    border-bottom: 1px solid rgba(255,255,255,0.06);
-  }
-  #header .nav-container #sub-nav {
-    float: none;
-  }
-  #header .nav-container #sub-nav .search-form:before {
-    font-size: 14px;
-  }
-  #header .nav-container #sub-nav .search-form-input {
-    font-size: 14px;
-    width: 90%;
+/* #main-nav-toggle
+                float: none
+                display: block
+            .nav-container-inner
+                display: none
+            #main-nav
+                display: block
+                float: none
+                .main-nav-list-item,
+                .main-nav-list-link
+                    clearfix()
+                    display: block
+                    float: none
+                    box-shadow: none
+                    box-sizing: border-box
+                    font-size: font-size
+                .main-nav-list-item
+                    &.top-level-menu
+                        & > a
+                            position: relative
+                            &:after
+                                display: none
+                        &:hover > a
+                            background: none
+                            color: color-nav-foreground
+                        & > a:hover
+                            color: #fff
+                            background: color-nav-hover-background
+                    .main-nav-list-child
+                        display: block !important
+                        position: relative
+                        width: 100%
+                        padding: 0px
+                        background: none
+                        .main-nav-list-link
+                            padding-left: 30px 
+                a
+                    border-bottom: 1px solid rgba(255,255,255,0.06)
+            #sub-nav
+                float: none
+                .search-form
+                    &:before
+                        font-size: font-size
+                .search-form-input
+                    font-size: font-size
+                    width: 90%*/
   }
   .main-body-inner {
     padding: 0px;
