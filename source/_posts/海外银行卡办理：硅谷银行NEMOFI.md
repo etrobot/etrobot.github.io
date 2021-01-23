@@ -1,5 +1,6 @@
 ---
 title: 海外银行卡办理：硅谷银行NEMOFI
+urlname: bank_nemofi
 categories: 
 - 资讯
 tags:

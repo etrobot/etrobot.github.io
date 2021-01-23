@@ -1,5 +1,6 @@
 ---
 title: 海外银行卡办理：神州数字国际银行
+urlname: bank_cbi
 categories: 
 - 资讯
 tags:
