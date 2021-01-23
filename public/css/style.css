@@ -1052,7 +1052,7 @@ code {
 }
 .article-title {
   text-decoration: none;
-  font-size: 38px;
+  font-size: 40px;
   letter-spacing: -1px;
   color: #cfcfcf;
   line-height: 1.3em;
@@ -1712,7 +1712,7 @@ i.icon:before {
   box-shadow: none;
   font-weight: 200;
   border-radius: 0;
-  background: #e0e0e0;
+  background: #fff;
   line-height: 20px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;

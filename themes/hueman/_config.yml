@@ -29,7 +29,7 @@ widgets:
     - catalog
     - tag
     - recent_posts
-    - category
+    # - category
     - google_adsense
     # - archive
     # - tagcloud
