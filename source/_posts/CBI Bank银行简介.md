@@ -9,7 +9,7 @@ tags:
 
 CBI Bank银行简介
 
-神州数字国际银行（https://www.cbibank.com/）是一家持牌经营的美国商业银行，接受波多黎各银行监管部门OCIF（Office of the Commissioner of Financial Institutions）的直接监管和审计，该机构隶属美国联邦储备系统（Fed Reserve System）。
+神州数字国际银行（[www.cbibank.com](https://www.cbibank.com/)）是一家持牌经营的美国商业银行，接受波多黎各银行监管部门OCIF（Office of the Commissioner of Financial Institutions）的直接监管和审计，该机构隶属美国联邦储备系统（Fed Reserve System）。
 
 CBiBank由香港上市公司神州数字新金融集团(08255.HK)和IDG资本联合投资，有效集合了双方在科技创新和全球化运营等方面的优势，总部位于美国波多黎各首府圣胡安，在香港、欧洲设立研发中心，在亚太区提供账户开立、转账汇款、投资理财等国际银行金融服务。
 

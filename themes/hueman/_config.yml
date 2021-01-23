@@ -27,12 +27,12 @@ customize:
 # Widgets
 widgets:
     - catalog
-    - recent_posts
-    - category
-    - archive
     - tag
-    - tagcloud
+    - category
+    - recent_posts
+    - archive
     - links
+    - tagcloud
     - google_adsense
 
 # Search
