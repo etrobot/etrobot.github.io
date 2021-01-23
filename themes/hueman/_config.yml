@@ -28,11 +28,11 @@ customize:
 widgets:
     - catalog
     - tag
-    - google_adsense
     - recent_posts
     - category
-    - archive
-    - tagcloud
+    - google_adsense
+    # - archive
+    # - tagcloud
     # - links
 
 # Search
