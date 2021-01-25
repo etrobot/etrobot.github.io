@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://finan.club/2021/17b6a8a3ae5b/</loc>
+    <loc>https://finan.club/2021/note_The_Man_Who_Solved_the_Market_tw.html</loc>
+    
+    <lastmod>2021-01-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://finan.club/2021/bank_nemofi.html</loc>
     
     <lastmod>2021-01-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://finan.club/2021/c2c9428d24f2/</loc>
+    <loc>https://finan.club/2021/bankcard_hongkong.html</loc>
     
     <lastmod>2021-01-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://finan.club/2021/6b803a8068a5/</loc>
-    
-    <lastmod>2021-01-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://finan.club/2021/ec94b025933a/</loc>
+    <loc>https://finan.club/2021/bank_cbi.html</loc>
     
     <lastmod>2021-01-23</lastmod>
     
@@ -32,7 +32,7 @@
 
   <url>
     <loc>https://finan.club/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,28 +40,35 @@
   
   <url>
     <loc>https://finan.club/tags/%E6%B5%B7%E5%A4%96%E9%93%B6%E8%A1%8C%E5%8D%A1/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://finan.club/tags/%E6%B8%AF%E7%BE%8E%E8%82%A1%E5%85%A5%E9%87%91/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://finan.club/tags/%E9%A6%99%E6%B8%AF%E9%93%B6%E8%A1%8C%E5%8D%A1/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://finan.club/tags/%E8%AF%BB%E4%B9%A6/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finan.club/tags/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,14 +77,14 @@
   
   <url>
     <loc>https://finan.club/categories/%E8%B5%84%E8%AE%AF/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://finan.club/categories/%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2021-01-23</lastmod>
+    <loc>https://finan.club/categories/%E8%AF%BB%E4%B9%A6/</loc>
+    <lastmod>2021-01-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
