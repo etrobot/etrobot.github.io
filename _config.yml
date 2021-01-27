@@ -69,6 +69,8 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  资讯: info
+  读书: reading
 tag_map:
 
 # Metadata elements
