@@ -9,6 +9,7 @@ body {
     border-collapse: collapse; 
     background: #33363b; 
     color: #cfcfcf;
+    font-size: 12px;
   }
   
   td, th { 
