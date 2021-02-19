@@ -1,0 +1,30 @@
+body {
+    background: #33363b;
+    font-family: "Open Sans";
+  }
+  
+  /*Responsive table*/
+  table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    background: #33363b; 
+    color: #cfcfcf;
+  }
+  
+  td, th { 
+    padding: 8px; 
+    text-align: left; 
+  }
+  
+  /* Zebra striping */
+  tr:nth-of-type(odd) { 
+    background: #25262a; 
+  }
+  
+  th { 
+    background: #33363b; 
+  }
+
+  a {
+    color: #9fa5ff;
+}
