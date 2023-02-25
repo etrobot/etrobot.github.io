@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://finan.club/2023/chatgpt_html.html</loc>
+    <loc>https://finan.club/2020/bankcard_hongkong.html</loc>
     
     <lastmod>2023-02-14</lastmod>
     
   </url>
   
   <url>
-    <loc>https://finan.club/2020/bankcard_hongkong.html</loc>
+    <loc>https://finan.club/2023/chatgpt_html.html</loc>
     
     <lastmod>2023-02-14</lastmod>
     
@@ -60,13 +60,6 @@
   </url>
   
   <url>
-    <loc>https://finan.club/tags/ChatGPT/</loc>
-    <lastmod>2023-02-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://finan.club/tags/%E9%A6%99%E6%B8%AF%E9%93%B6%E8%A1%8C%E5%8D%A1/</loc>
     <lastmod>2023-02-25</lastmod>
     <changefreq>daily</changefreq>
@@ -75,6 +68,13 @@
   
   <url>
     <loc>https://finan.club/tags/%E6%B8%AF%E7%BE%8E%E8%82%A1%E5%85%A5%E9%87%91/</loc>
+    <lastmod>2023-02-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://finan.club/tags/ChatGPT/</loc>
     <lastmod>2023-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
