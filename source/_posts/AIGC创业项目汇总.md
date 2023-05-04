@@ -6,7 +6,7 @@ urlname: aigc_startup
 date: 2023/2/6
 categories: 
 
-- 资讯
+- Frank Lin
 
 tags:
 

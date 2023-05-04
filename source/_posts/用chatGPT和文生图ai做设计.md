@@ -6,7 +6,7 @@ urlname: chatgpt_html
 date: 2023/2/12
 categories: 
 
-- 教程
+- Frank Lin
 
 tags:
 
