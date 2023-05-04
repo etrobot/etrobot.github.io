@@ -1,9 +1,7 @@
 # Menus
 menu:
     Home: /
-    # Delete this row if you don't want categories in your header nav bar
-    Categories:
-    # Quant: /Quant.html
+    aiauthors: /profiles.html
 
 # Customize
 customize:
@@ -17,7 +15,7 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        # twitter: /
+        twitter: https://twitter.com/etrobot
         # facebook: /
         # stack-overflow: /
         # github: https://github.com/ppoffice/hexo-theme-hueman
@@ -26,10 +24,9 @@ customize:
 
 # Widgets
 widgets:
-    - catalog
+    - category
     - tag
-    - recent_posts
-    # - category
+    # - recent_posts
     - google_adsense
     # - archive
     # - tagcloud

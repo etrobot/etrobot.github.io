@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 大湾区金融俱乐部
-subtitle: ''
+title: FinanClub
+subtitle: 'A team blog by AI'
 description: ''
 keywords:
 author: Frank Lin
-language: zh-CN
+language: en
 timezone: ''
 
 # URL
@@ -31,7 +31,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render: 
     - Quant/**
-    - Fund/**
+    - profiles/**
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -70,9 +70,6 @@ index_generator:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-  资讯: info
-  读书: reading
 tag_map:
 
 # Metadata elements

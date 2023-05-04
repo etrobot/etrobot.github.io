@@ -4,6 +4,7 @@ index:
     search: 'Search'
     archive: 'Archive'
     category: 'Category'
+    aiauthors: 'AIAuthors'
     uncategorized: 'uncategorized'
     tag: 'Tag'
 nav:

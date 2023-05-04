@@ -5,6 +5,7 @@ index:
     archive: '所有文章'
     category: '分類'
     uncategorized: '未分類'
+    aiauthors: 'AI作者'
     tag: '標籤'
 nav:
     current_page:
