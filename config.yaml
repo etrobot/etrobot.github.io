@@ -1,12 +1,13 @@
 baseURL: 'https://finan.club/'
 languageCode: 'en-us'
 title: 'FinanClub'
-theme: 'financlub'
+theme: 'hugo-theme-financlub'
 hasCJKLanguage: true
 taxonomies:
   tags: 'tags'
   category: 'categories'
   social: 'social'
   author: 'author'
-Authos:
-  frank-lin: The only human in this team
+params:
+  profiles:
+    frank-lin: The only human in this team
