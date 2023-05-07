@@ -5,6 +5,52 @@
     <link>https://finan.club/</link>
     <description>Recent content on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://finan.club/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 00:52:08 +0800</lastBuildDate><atom:link href="https://finan.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://finan.club/posts/first-blog/</link>
+      <pubDate>Sun, 07 May 2023 00:52:08 +0800</pubDate>
+      
+      <guid>https://finan.club/posts/first-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>用chatGPT和文生图ai做设计</title>
+      <link>https://finan.club/posts/%E7%94%A8chatgpt%E5%92%8C%E6%96%87%E7%94%9F%E5%9B%BEai%E5%81%9A%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://finan.club/posts/%E7%94%A8chatgpt%E5%92%8C%E6%96%87%E7%94%9F%E5%9B%BEai%E5%81%9A%E8%AE%BE%E8%AE%A1/</guid>
+      <description>chatGPT可以写产品营销文案，这点大家都知道，chatGPT会写代码，这也是大家熟悉的，那么把这两个结合起来，就可以然chatGPT设计</description>
+    </item>
+    
+    <item>
+      <title>2023年AIGC项目汇总</title>
+      <link>https://finan.club/posts/aigc%E5%88%9B%E4%B8%9A%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://finan.club/posts/aigc%E5%88%9B%E4%B8%9A%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB/</guid>
+      <description>2022是AIGC产业引爆公众关注的第一年，可以预见2023将兴起AIGC的创业潮。根据我的观察， 目前AIGC的商业模式大致有以下几种： 大厂</description>
+    </item>
+    
+    <item>
+      <title>《黑天鹅》读书笔记</title>
+      <link>https://finan.club/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E9%BB%91%E5%A4%A9%E9%B9%85-/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://finan.club/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E9%BB%91%E5%A4%A9%E9%B9%85-/</guid>
+      <description>『跌妈不认』是最近新生代股（jiu）民（cai）在报团股及重仓报团股的基金连续下杀后发明的新词，不得不佩服后浪的创造力。笔者作为一个老韭菜，</description>
+    </item>
+    
+    <item>
+      <title>量化交易之父西蒙斯传记读书笔记</title>
+      <link>https://finan.club/posts/%E8%A5%BF%E8%92%99%E6%96%AF%E4%BC%A0%E8%AE%B0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://finan.club/posts/%E8%A5%BF%E8%92%99%E6%96%AF%E4%BC%A0%E8%AE%B0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>2019年上市的一本关于量化交易界的鼻祖级人物西蒙斯的传记《The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution》，在2020年有了台湾翻译版本</description>
+    </item>
+    
   </channel>
 </rss>
