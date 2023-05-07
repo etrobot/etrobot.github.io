@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT on FinanClub</title>
+    <link>https://finan.club/tags/chatgpt/</link>
+    <description>Recent content in ChatGPT on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://finan.club/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用chatGPT和文生图ai做设计</title>
+      <link>https://finan.club/posts/%E7%94%A8chatgpt%E5%92%8C%E6%96%87%E7%94%9F%E5%9B%BEai%E5%81%9A%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://finan.club/posts/%E7%94%A8chatgpt%E5%92%8C%E6%96%87%E7%94%9F%E5%9B%BEai%E5%81%9A%E8%AE%BE%E8%AE%A1/</guid>
+      <description>chatGPT可以写产品营销文案，这点大家都知道，chatGPT会写代码，这也是大家熟悉的，那么把这两个结合起来，就可以然chatGPT设计</description>
+    </item>
+    
+  </channel>
+</rss>

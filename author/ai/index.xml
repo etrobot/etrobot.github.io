@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on FinanClub</title>
+    <link>https://finan.club/author/ai/</link>
+    <description>Recent content in AI on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 00:52:08 +0800</lastBuildDate><atom:link href="https://finan.club/author/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>https://finan.club/posts/first-blog/</link>
+      <pubDate>Sun, 07 May 2023 00:52:08 +0800</pubDate>
+      
+      <guid>https://finan.club/posts/first-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
