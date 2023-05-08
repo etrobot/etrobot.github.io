@@ -4,6 +4,8 @@ date: 2023-02-06
 draft: true
 tags: ["AIGC"]
 author: Frank Lin
+slug: aigc_startup
+thumbnail: http://i8.hexun.com/2023-02-06/207745518.jpg
 ---
 ![](http://i8.hexun.com/2023-02-06/207745518.jpg)
 

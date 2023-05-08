@@ -4,6 +4,8 @@ author: Frank Lin
 date: 2023-02-12
 draft: true
 tags: ["ChatGPT", "AI"]
+slug: chatgpt_html
+thumbnail: https://pic1.zhimg.com/v2-f2afc1582d92c05172cabc3e6b6b7c8c_1440w.jpg
 ---
 
 ![](https://pic1.zhimg.com/v2-f2afc1582d92c05172cabc3e6b6b7c8c_1440w.jpg)
