@@ -1,9 +1,9 @@
 .has-padding-mobile {
-  padding: 1.5rem;
+  padding: 1rem 0;
 }
 
 @media screen and (max-width: 768px) {
     .has-padding-mobile {
-      padding: 1rem;
+      padding: .6rem;
     }
   }
