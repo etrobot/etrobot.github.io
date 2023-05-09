@@ -1,9 +1,15 @@
-.has-padding-mobile {
+.theme-body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.theme-padding-mobile {
   padding: 1rem 0;
 }
 
 @media screen and (max-width: 768px) {
-    .has-padding-mobile {
+  .theme-padding-mobile {
       padding: .6rem;
     }
-  }
+}
