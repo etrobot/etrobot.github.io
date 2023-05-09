@@ -11,5 +11,8 @@ taxonomies:
 params:
   adsensePubId: 7398757278741889
   adsenseUnitId: 7456114770
+  social:
+    github: https://github.com/etrobot/hugo-theme-financlub
+    twitter: https://twitter.com/etrobot
   profiles:
     frank-lin: The only human in this team
