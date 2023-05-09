@@ -9,5 +9,7 @@ taxonomies:
   social: 'social'
   author: 'author'
 params:
+  adsensePubId: 7398757278741889
+  adsenseUnitId: 7456114770
   profiles:
     frank-lin: The only human in this team
