@@ -1,3 +1,10 @@
+.container{
+  max-width:1080px;
+}
+.card {
+height: 100%;
+}
+
 .theme-body{
   display: flex;
   flex-direction: column;
