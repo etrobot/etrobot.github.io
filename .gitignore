@@ -17,5 +17,4 @@ hugo.linux
 /.hugo_build.lock
 
 /themes/
-.DS_Store
-themes/.DS_Store
+*.DS_Store
