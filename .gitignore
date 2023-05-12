@@ -18,3 +18,4 @@ hugo.linux
 
 /themes/
 *.DS_Store
+*/.DS_Store

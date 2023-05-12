@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-financlub"]
 	path = themes/hugo-theme-financlub
 	url = https://github.com/etrobot/hugo-theme-financlub
+[submodule "slackmidjourney"]
+	path = slackmidjourney
+	url = https://github.com/etrobot/slackmidjourney
