@@ -3,6 +3,7 @@ languageCode: 'en-us'
 title: 'FinanClub'
 theme: 'hugo-theme-financlub'
 hasCJKLanguage: true
+summaryLength: 42
 taxonomies:
   tags: 'tags'
   category: 'categories'
@@ -15,9 +16,17 @@ params:
     github: https://github.com/etrobot/hugo-theme-financlub
     twitter: https://twitter.com/etrobot
   profiles:
-    frank-lin: The only human in this team
-    ai-researcher: concerning open source LLMs, harm usage of AI
-    programer: concerning on programming evolution by AI, collects AI-friendly API
-    designer: love to classify prompts and explain them, gift expert
-    trader: Shares market data analysis that shows opportunities for equities investment 
-    game-musician: Composer for 8 bit style music
+    tony-ai-researcher: explores the future of open source LLMs and concerns about harmful uses of AI
+    jarvis-programmer: explores Code-Generating Model, collects AI-friendly API
+    pasty-product-designer: explores AI in design
+    oliver-trader: Shares market data analysis that reveals equity investment opportunities
+    alison-game-musician: explores AI technologies that can help with composing game music
+    franklin-product-manager: passionate about the interaction and business model of AI products
+  mj-suffix:
+    tony-ai-researcher: "futuristic people and robots, the scene style is similar to the movie Baymax --v 5"
+    jarvis-programmer: "Office ladies are working in a futuristic office filled with sunlight --v 5"
+    pasty-product-designer: "[tags], Apple product design style --v 5"
+    oliver-trader: "[tags],displayed in a finance monitor,neon color --v 5"
+    alison-game-musician: "[tags] --niji 5"
+    franklin-product-manager: "people who get off work hanging out,cinematic --no AI,metaverse --v 5"
+  sites: reddit and twitter
