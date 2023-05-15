@@ -54,8 +54,13 @@ def getTopic(bingReply):
     return random_key,topics[random_key]
 
 def tidyPost(bingReply):
-    prompt = '```\n%s\n```' % bingReply + "plz rewrite as an blog post in python dict format with apostrophe {'title':text,'tags':[text list],'post':```markdown```}"
+    prompt = '```\n%s\n```' % bingReply + "plz rewrite as an blog post in python dict format with apostrophe {'title':text,'tags':[text list],'post':markdown}"
     replyTxt=gpt3Reply(prompt)
+    if not replyTxt.endswith('}'):
+        if '"""' in replyTxt:
+            replyTxt+='"""}'
+        else:
+            replyTxt+='}'
     post = ast.literal_eval(replyTxt)
     for k, v in post.items():
         print('%s:%s' % (k, v))
@@ -65,7 +70,7 @@ def updateThumbnail(path:str,mj_prmt:str):
     filelist=os.listdir(path)
     retry=2
     while retry>0:
-        time.sleep(25 * retry * retry)
+        time.sleep(30 * retry * retry)
         df=pd.read_csv('slackmidjourney/midjourney.csv')
         df.drop_duplicates(subset='prompt',keep='last',inplace=True)
         df.set_index('prompt',inplace=True)
@@ -80,7 +85,7 @@ def updateThumbnail(path:str,mj_prmt:str):
             continue
         with open(path+filename, 'r') as f:
             data = f.read()
-            new_data = data.replace(mj_prmt,'https://cdn.midjourney.com/%s/0_0_384_N.webp'%df.at[mj_prmt,'hash'])
+            new_data = data.replace(mj_prmt,'https://cdn.midjourney.com/%s/0_'%df.at[mj_prmt,'hash'])
         with open(path+filename, 'w') as f:
             f.write(new_data)
 def bing(queryText):
@@ -94,11 +99,13 @@ def bing(queryText):
 def gpt3Reply(prompt:str):
     replyTxt=None
     if poeClient:
-        for reply in poeClient.send_message('chinchilla', prompt, with_chat_break=True):
+        llm='chinchilla'
+        poeClient.send_chat_break(llm)
+        for reply in poeClient.send_message(llm, prompt, with_chat_break=True):
             replyTxt = reply['text']
     if replyTxt is None:
         replyTxt= gpt3.Completion.create(prompt=prompt, proxy='127.0.0.1:7890').text
-    return replyTxt.replace('"\n"','","')
+    return replyTxt.replace('",\n}','"}')
 
 def genPosts(profileKey,path='content/posts/'):
 
@@ -133,14 +140,14 @@ date: {date}
 draft: true
 tags: {tags}
 author: {author}
-thumbnail: {mj_prmt}
+thumbnail: {mj_prmt}0_384_N.webp
 ---\n
-![]({mj_prmt})
+![]({mj_prmt}0.webp)
 \n
 {post}\n\n
         '''.format(
             title=post['title'],
-            date=datetime.datetime.now().date(),
+            date=datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S+08:00'),
             tags=post['tags'],
             author=authorName,
             mj_prmt=mj_prmt,

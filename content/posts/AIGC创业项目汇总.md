@@ -3,11 +3,11 @@ title: 2023年AIGC项目汇总
 date: 2023-02-06
 draft: true
 tags: ["AIGC"]
-author: Frank Lin
+author: Franklin Product Manager
 slug: aigc_startup
-thumbnail: http://i8.hexun.com/2023-02-06/207745518.jpg
+thumbnail: https://cdn.midjourney.com/7a776941-d960-4689-bba2-b79e2aa62c41/0_2_384_N.webp
 ---
-![](http://i8.hexun.com/2023-02-06/207745518.jpg)
+![](https://cdn.midjourney.com/7a776941-d960-4689-bba2-b79e2aa62c41/0_2.webp)
 
 2022是AIGC产业引爆公众关注的第一年，可以预见2023将兴起AIGC的创业潮。根据我的观察， 目前AIGC的商业模式大致有以下几种：
 

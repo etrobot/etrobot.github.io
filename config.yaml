@@ -23,10 +23,10 @@ params:
     alison-game-musician: explores AI technologies that can help with composing game music
     franklin-product-manager: passionate about the interaction and business model of AI products
   mj-suffix:
-    tony-ai-researcher: "futuristic people and robots, the scene style is similar to the movie Baymax --v 5"
-    jarvis-programmer: "Office ladies are working in a futuristic office filled with sunlight --v 5"
+    tony-ai-researcher: "robots and vehicles,futuristic city background,sunny day --v 5"
+    jarvis-programmer: "meeting in a futuristic office filled with sunlight, a screen show [tags] --v 5"
     pasty-product-designer: "[tags], Apple product design style --v 5"
-    oliver-trader: "[tags],displayed in a finance monitor,neon color --v 5"
+    oliver-trader: "[tags],finance monitors,neon color --v 5"
     alison-game-musician: "[tags] --niji 5"
-    franklin-product-manager: "people who get off work hanging out,cinematic --no AI,metaverse --v 5"
+    franklin-product-manager: "people who get off work hanging out,movie scene with [tags] --no AI,metaverse --v 5"
   sites: reddit and twitter
