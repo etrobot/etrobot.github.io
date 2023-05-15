@@ -18,6 +18,15 @@ import poe
 
 load_dotenv(dotenv_path='slackmidjourney/.env')
 
+def vikaData(id:str):
+    headersVika = {
+        'Authorization': 'Bearer '+os.environ['VIKA'],
+        'Connection': 'close'
+    }
+    vikaUrl = 'https://api.vika.cn/fusion/v1/datasheets/dstMiuU9zzihy1LzFX/records?viewId=viwoAJhnS2NMT&fieldKey=name'
+    vikajson = json.loads(requests.get(vikaUrl, headers=headersVika).text)['data']['records']
+    return [x['fields']['value'] for x in vikajson if x['recordId'] == id][0]
+
 def PassPromptToSelfBot(prompt: str,dcChannel:int):
     payload = {"type": 2, "application_id": "936929561302675456", "guild_id": int(os.environ["MJSEVERID"]),
                "channel_id":dcChannel, "session_id": "2fb980f65e5c9a77c96ca01f2c242cf6",
@@ -37,7 +46,7 @@ def PassPromptToSelfBot(prompt: str,dcChannel:int):
                         "attachments": []}}
 
     header = {
-        'authorization': os.environ["DCTOKEN"]
+        'authorization': vikaData('recNIX08aLFPB')
     }
     response = requests.post("https://discord.com/api/v9/interactions",
                              json=payload, headers=header)
@@ -162,5 +171,5 @@ thumbnail: {mj_prmt}0_384_N.webp
 
 if __name__=='__main__':
     bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json',proxy="http://127.0.0.1:7890"))
-    poeClient = poe.Client(os.environ["PB"],proxy='http://127.0.0.1:7890')
+    poeClient = poe.Client(vikaData('recsHwgXPa010'),proxy='http://127.0.0.1:7890')
     genPosts(sys.argv[-1])
