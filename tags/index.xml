@@ -6,13 +6,130 @@
     <description>Recent content in Tags on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 17:33:48 +0800</lastBuildDate><atom:link href="https://finan.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 May 2023 17:48:01 +0800</lastBuildDate><atom:link href="https://finan.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://finan.club/tags/ai/</link>
-      <pubDate>Mon, 15 May 2023 17:33:48 +0800</pubDate>
+      <pubDate>Tue, 16 May 2023 17:48:01 +0800</pubDate>
       
       <guid>https://finan.club/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecrett Music</title>
+      <link>https://finan.club/tags/ecrett-music/</link>
+      <pubDate>Tue, 16 May 2023 17:48:01 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/ecrett-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game music</title>
+      <link>https://finan.club/tags/game-music/</link>
+      <pubDate>Tue, 16 May 2023 17:48:01 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/game-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Startups</title>
+      <link>https://finan.club/tags/ai-startups/</link>
+      <pubDate>Tue, 16 May 2023 17:44:12 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/ai-startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crunchbase Megadeals Board</title>
+      <link>https://finan.club/tags/crunchbase-megadeals-board/</link>
+      <pubDate>Tue, 16 May 2023 17:44:12 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/crunchbase-megadeals-board/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investment</title>
+      <link>https://finan.club/tags/investment/</link>
+      <pubDate>Tue, 16 May 2023 17:44:12 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VC Funding</title>
+      <link>https://finan.club/tags/vc-funding/</link>
+      <pubDate>Tue, 16 May 2023 17:44:12 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/vc-funding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copilot</title>
+      <link>https://finan.club/tags/copilot/</link>
+      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/copilot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://finan.club/tags/github/</link>
+      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>https://finan.club/tags/openai/</link>
+      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://finan.club/tags/programming/</link>
+      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLMs</title>
+      <link>https://finan.club/tags/llms/</link>
+      <pubDate>Tue, 16 May 2023 17:34:45 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural language processing</title>
+      <link>https://finan.club/tags/natural-language-processing/</link>
+      <pubDate>Tue, 16 May 2023 17:34:45 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://finan.club/tags/open-source/</link>
+      <pubDate>Tue, 16 May 2023 17:34:45 +0800</pubDate>
+      
+      <guid>https://finan.club/tags/open-source/</guid>
       <description></description>
     </item>
     
@@ -80,15 +197,6 @@
     </item>
     
     <item>
-      <title>investment</title>
-      <link>https://finan.club/tags/investment/</link>
-      <pubDate>Mon, 15 May 2023 17:26:29 +0800</pubDate>
-      
-      <guid>https://finan.club/tags/investment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>market data</title>
       <link>https://finan.club/tags/market-data/</link>
       <pubDate>Mon, 15 May 2023 17:26:29 +0800</pubDate>
@@ -143,15 +251,6 @@
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://finan.club/tags/programming/</link>
-      <pubDate>Mon, 15 May 2023 17:19:16 +0800</pubDate>
-      
-      <guid>https://finan.club/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ChatGPT</title>
       <link>https://finan.club/tags/chatgpt/</link>
       <pubDate>Mon, 15 May 2023 17:15:25 +0800</pubDate>
@@ -166,33 +265,6 @@
       <pubDate>Mon, 15 May 2023 17:15:25 +0800</pubDate>
       
       <guid>https://finan.club/tags/gpt-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLMs</title>
-      <link>https://finan.club/tags/llms/</link>
-      <pubDate>Mon, 15 May 2023 17:15:25 +0800</pubDate>
-      
-      <guid>https://finan.club/tags/llms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://finan.club/tags/natural-language-processing/</link>
-      <pubDate>Mon, 15 May 2023 17:15:25 +0800</pubDate>
-      
-      <guid>https://finan.club/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open-Source</title>
-      <link>https://finan.club/tags/open-source/</link>
-      <pubDate>Mon, 15 May 2023 17:15:25 +0800</pubDate>
-      
-      <guid>https://finan.club/tags/open-source/</guid>
       <description></description>
     </item>
     
