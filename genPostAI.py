@@ -46,7 +46,7 @@ def PassPromptToSelfBot(prompt: str,dcChannel:int):
                         "attachments": []}}
 
     header = {
-        'authorization': vikaData('recNIX08aLFPB')
+        'authorization': dcToken
     }
     response = requests.post("https://discord.com/api/v9/interactions",
                              json=payload, headers=header)
@@ -130,13 +130,13 @@ def genPosts(profileKey,path='content/posts/'):
         career=' '.join(author[1:])
         authorName=' '.join(x.capitalize() for x in author)
 
-        selfintro='I am a {career},I am making a blog that {intro}, '.format(career=career,intro=v)
-        blogDiscription = selfintro + " please help me to find recent hot topics on sites {sites} .".format(sites=config['params']['sites'])
+        selfintro='You are a {career} making a blog that {intro}, '.format(career=career,intro=v)
+        blogDiscription = selfintro + " please find May-2023 hot topics on sites {sites} .".format(sites=config['params']['sites'])
         print(authorName,'\n',blogDiscription)
         replyTxt1 = bing(blogDiscription)
         topic,topicIntro=getTopic(replyTxt1)
 
-        postDiscription = selfintro + "plz help me to write a blog post about {topic}({intro})".format(career=career,topic=topic,intro=topicIntro)
+        postDiscription = selfintro + "plz write a blog post about {topic}({intro})".format(career=career,topic=topic,intro=topicIntro)
         print(authorName,'\n',postDiscription)
         replyTxt2 = bing(postDiscription)
         post = tidyPost(replyTxt2)
@@ -149,7 +149,7 @@ date: {date}
 draft: true
 tags: {tags}
 author: {author}
-thumbnail: {mj_prmt}0_384_N.webp
+thumbnail: {mj_prmt}{imgNum}_384_N.webp
 ---\n
 ![]({mj_prmt}0.webp)
 \n
@@ -160,16 +160,22 @@ thumbnail: {mj_prmt}0_384_N.webp
             tags=post['tags'],
             author=authorName,
             mj_prmt=mj_prmt,
+            imgNum=random.randint(0, 3),
             post=post['post']
         )
         with open(path+'/%s.md'%post['title'], 'w') as f:
             f.write(template)
-        if PassPromptToSelfBot(mj_prmt,int(os.environ["MJCHNSAVE"])).status_code==204:
-            updateThumbnail(path,mj_prmt)
+        df=pd.read_csv('slackmidjourney/midjourney.csv',index_col='prompt')
+        if not mj_prmt in df.index:
+            mj=PassPromptToSelfBot(mj_prmt,int(os.environ["MJCHNSAVE"]))
+            if mj.status_code!=204:
+                continue
+        updateThumbnail(path,mj_prmt)
     with open('slackmidjourney/midjourney.csv','') as f:
         f.write('prompt,hash')
 
 if __name__=='__main__':
     bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json',proxy="http://127.0.0.1:7890"))
+    dcToken =  vikaData('recNIX08aLFPB')
     poeClient = poe.Client(vikaData('recsHwgXPa010'),proxy='http://127.0.0.1:7890')
     genPosts(sys.argv[-1])

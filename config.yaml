@@ -19,7 +19,7 @@ params:
     tony-ai-researcher: explores the future of open source LLMs and concerns about harmful uses of AI
     jarvis-programmer: explores Code-Generating Model, collects AI-friendly API
     pasty-product-designer: explores AI in design
-    oliver-trader: Shares market data analysis that reveals equity investment opportunities
+    oliver-trader: analyzes VC funding AI startup events this year(2023)
     alison-game-musician: explores AI technologies that can help with composing game music
     franklin-product-manager: passionate about the interaction and business model of AI products
   mj-suffix:
@@ -29,4 +29,4 @@ params:
     oliver-trader: "[tags],finance monitors,neon color --v 5"
     alison-game-musician: "[tags] --niji 5"
     franklin-product-manager: "people who get off work hanging out,movie scene with [tags] --no AI,metaverse --v 5"
-  sites: reddit and twitter
+  sites: reddit.com and twitter.com
