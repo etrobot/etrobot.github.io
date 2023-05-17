@@ -98,6 +98,9 @@ def updateThumbnail(path:str,mj_prmt:str):
         else:
             break
         retry -= 1
+        if retry==0 and mj_prmt not in df.index:
+            print('not exist: '+mj_prmt)
+            return
 
     for filename in filelist:
         if not filename.endswith('.md'):
