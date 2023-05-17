@@ -3,7 +3,7 @@ title: 2023年AIGC项目汇总
 date: 2023-02-06
 draft: true
 tags: ["AIGC"]
-author: Franklin Product Manager
+author: Frank Lin 
 slug: aigc_startup
 thumbnail: https://cdn.midjourney.com/7a776941-d960-4689-bba2-b79e2aa62c41/0_2_384_N.webp
 ---

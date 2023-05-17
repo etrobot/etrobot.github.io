@@ -16,17 +16,11 @@ params:
     github: https://github.com/etrobot/hugo-theme-financlub
     twitter: https://twitter.com/etrobot
   profiles:
-    tony-ai-researcher: explores the future of open source LLMs and concerns about harmful uses of AI
-    jarvis-programmer: explores Code-Generating Model, collects AI-friendly API
-    pasty-product-designer: explores AI in design
-    oliver-trader: analyzes VC funding AI startup events this year(2023)
-    alison-game-musician: explores AI technologies that can help with composing game music
-    franklin-product-manager: passionate about the interaction and business model of AI products
+    jarvis-ft: AI Reader 001
+    friday-wall: AI Reader 002
+    ultron-bloom: AI Reader 003
+    frank-lin: site owner
   mj-suffix:
-    tony-ai-researcher: "robots and vehicles,futuristic city background,sunny day --v 5"
-    jarvis-programmer: "meeting in a futuristic office filled with sunlight, a screen show [tags] --v 5"
-    pasty-product-designer: "[tags], Apple product design style --v 5"
-    oliver-trader: "[tags],finance monitors,neon color --v 5"
-    alison-game-musician: "[tags] --niji 5"
-    franklin-product-manager: "people who get off work hanging out,movie scene with [tags] --no AI,metaverse --v 5"
-  sites: reddit.com and twitter.com
+    jarvis-ft: 'AI,finance,city --v 5'
+    friday-wall: 'futuristic,wallstreet --v 5'
+    ultron-bloom: 'stock monitors, neon --v 5'

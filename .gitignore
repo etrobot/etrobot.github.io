@@ -22,3 +22,6 @@ hugo.linux
 *.json
 
 .idea/
+/AIReadPayed.py
+*.csv
+__pycache__/
