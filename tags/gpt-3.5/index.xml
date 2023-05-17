@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPT-3.5 on FinanClub</title>
+    <link>https://finan.club/tags/gpt-3.5/</link>
+    <description>Recent content in GPT-3.5 on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2023 18:46:35 +0800</lastBuildDate><atom:link href="https://finan.club/tags/gpt-3.5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is ChatGPT? What to Know About the AI Chatbot</title>
+      <link>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</link>
+      <pubDate>Wed, 17 May 2023 18:46:35 +0800</pubDate>
+      
+      <guid>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</guid>
+      <description>ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November 2022. It is built on top of OpenAI&amp;rsquo;s GPT-3.5 and GPT-4 foundational large language models (LLMs) and has been fine-tuned using both supervised and reinforcement learning techniques ^1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,14 +6,14 @@
     <description>Recent content in OpenAI on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2023 17:36:28 +0800</lastBuildDate><atom:link href="https://finan.club/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 18:46:35 +0800</lastBuildDate><atom:link href="https://finan.club/tags/openai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GitHub and OpenAI Release Copilot: An AI Pair Programmer</title>
-      <link>https://finan.club/posts/github-and-openai-release-copilot-an-ai-pair-programmer/</link>
-      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
+      <title>What Is ChatGPT? What to Know About the AI Chatbot</title>
+      <link>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</link>
+      <pubDate>Wed, 17 May 2023 18:46:35 +0800</pubDate>
       
-      <guid>https://finan.club/posts/github-and-openai-release-copilot-an-ai-pair-programmer/</guid>
-      <description>GitHub and OpenAI have recently released Copilot, an AI-powered pair programmer that can help programmers write code faster and with less work. This revolutionary new system is powered by OpenAI&amp;rsquo;s Codex, which is based on the GPT-3 architecture. Copilot can generate code within mainstream development environments such as VS Code and Neovim.</description>
+      <guid>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</guid>
+      <description>ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November 2022. It is built on top of OpenAI&amp;rsquo;s GPT-3.5 and GPT-4 foundational large language models (LLMs) and has been fine-tuned using both supervised and reinforcement learning techniques ^1.</description>
     </item>
     
   </channel>

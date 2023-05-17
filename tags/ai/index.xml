@@ -6,50 +6,14 @@
     <description>Recent content in AI on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 May 2023 17:48:01 +0800</lastBuildDate><atom:link href="https://finan.club/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 18:46:35 +0800</lastBuildDate><atom:link href="https://finan.club/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ecrett Music: Using AI for Composing Game Music</title>
-      <link>https://finan.club/posts/ecrett-music-using-ai-for-composing-game-music/</link>
-      <pubDate>Tue, 16 May 2023 17:48:01 +0800</pubDate>
+      <title>What Is ChatGPT? What to Know About the AI Chatbot</title>
+      <link>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</link>
+      <pubDate>Wed, 17 May 2023 18:46:35 +0800</pubDate>
       
-      <guid>https://finan.club/posts/ecrett-music-using-ai-for-composing-game-music/</guid>
-      <description>Introduction Ecrett Music is a service that uses simple inputs to create tracks that fit the exact type of mood required. It is re-defining the generation of functional music that enhances another medium. The service is equipped to deliver royalty-free background music for videos, games and podcasts.</description>
-    </item>
-    
-    <item>
-      <title>GitHub and OpenAI Release Copilot: An AI Pair Programmer</title>
-      <link>https://finan.club/posts/github-and-openai-release-copilot-an-ai-pair-programmer/</link>
-      <pubDate>Tue, 16 May 2023 17:36:28 +0800</pubDate>
-      
-      <guid>https://finan.club/posts/github-and-openai-release-copilot-an-ai-pair-programmer/</guid>
-      <description>GitHub and OpenAI have recently released Copilot, an AI-powered pair programmer that can help programmers write code faster and with less work. This revolutionary new system is powered by OpenAI&amp;rsquo;s Codex, which is based on the GPT-3 architecture. Copilot can generate code within mainstream development environments such as VS Code and Neovim.</description>
-    </item>
-    
-    <item>
-      <title>Open-Source LLMs: Benefits and Concerns</title>
-      <link>https://finan.club/posts/open-source-llms-benefits-and-concerns/</link>
-      <pubDate>Tue, 16 May 2023 17:34:45 +0800</pubDate>
-      
-      <guid>https://finan.club/posts/open-source-llms-benefits-and-concerns/</guid>
-      <description>Introduction The topic of open-source LLMs (large language models) has been gaining attention on social media platforms like Twitter and Reddit. The push for open-source LLMs to become the dominant product is aimed at preventing a future where one or two companies control the information the world receives.</description>
-    </item>
-    
-    <item>
-      <title>The Impact of AI on Reddit: A Look at AI Interaction and Business Models</title>
-      <link>https://finan.club/posts/the-impact-of-ai-on-reddit-a-look-at-ai-interaction-and-business-models/</link>
-      <pubDate>Mon, 15 May 2023 17:33:48 +0800</pubDate>
-      
-      <guid>https://finan.club/posts/the-impact-of-ai-on-reddit-a-look-at-ai-interaction-and-business-models/</guid>
-      <description>As AI technology continues to advance, it is having a significant impact on various industries, including social media. One platform that has been influenced by AI is Reddit. In this blog post, we will examine how AI is changing the way users interact on Reddit and how it is affecting the platform&amp;rsquo;s business model.</description>
-    </item>
-    
-    <item>
-      <title>Code-Generating AI Models and APIs: A Hot Topic in Programming</title>
-      <link>https://finan.club/posts/code-generating-ai-models-and-apis-a-hot-topic-in-programming/</link>
-      <pubDate>Mon, 15 May 2023 17:19:16 +0800</pubDate>
-      
-      <guid>https://finan.club/posts/code-generating-ai-models-and-apis-a-hot-topic-in-programming/</guid>
-      <description>Code-generating AI models and AI-friendly APIs are gaining popularity in the programming community. Forbes recently published an article discussing five AI tools that can generate code to assist programmers. These tools are designed to help developers automate repetitive coding tasks and improve productivity.</description>
+      <guid>https://finan.club/posts/what-is-chatgpt-what-to-know-about-the-ai-chatbot/</guid>
+      <description>ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November 2022. It is built on top of OpenAI&amp;rsquo;s GPT-3.5 and GPT-4 foundational large language models (LLMs) and has been fine-tuned using both supervised and reinforcement learning techniques ^1.</description>
     </item>
     
   </channel>
