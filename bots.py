@@ -113,7 +113,7 @@ def updateThumbnail(path:str,mj_prmt:str):
 
 class Bot():
     def __init__(self):
-        self.poeClient = poe.Client(vikaData('recsHwgXPa010'), proxy=PROXY)
+        self.poeClient = None
         self.bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json', proxy=PROXY))
 
     def bing(self,queryText:str):
@@ -125,19 +125,26 @@ class Bot():
             reply_text = reply["item"]["messages"][1]["adaptiveCards"][0]["body"][0]["text"]
         return reply_text.replace('"',' ')
 
-    def gpt3Reply(self,prompt:str):
+    def poeReply(self,prompt:str):
+        if self.poeClient is None:
+            self.poeClient = poe.Client(vikaData('recsHwgXPa010'), proxy=PROXY)
         replyTxt=None
         llm='chinchilla'
         self.poeClient.send_chat_break(llm)
         for reply in self.poeClient.send_message(llm, prompt, with_chat_break=True):
             replyTxt = reply['text']
-        # if replyTxt is None:
-        #     replyTxt= gpt3.Completion.create(prompt=prompt, proxy=PROXY).text
         return replyTxt.replace('",\n}','"}')
 
-    def tidyPost(self,bingReply):
+    def youReply(self,prompt:str):
+        replyTxt= gpt3.Completion.create(prompt=prompt, proxy=PROXY).text
+        return replyTxt.replace('",\n}', '"}')
+
+    def tidyPost(self,bingReply,gpt='poe'):
         prompt = "```\n%s\n```" % bingReply + "plz rewrite as an blog post and output python dict format with tripple apostrophe {'title'':'''text''','tags':[text list],'post':'''markdown'''}"
-        replyTxt = self.gpt3Reply(prompt)
+        if gpt=='poe':
+            replyTxt = self.poeReply(prompt)
+        else:
+            replyTxt = self.youReply(prompt)
         if not replyTxt.endswith('}'):
             if '"""' in replyTxt:
                 replyTxt += '"""}'
