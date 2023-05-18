@@ -7,6 +7,7 @@ import time
 import ast
 from datetime import datetime
 from EdgeGPT import Chatbot, ConversationStyle
+from Bard import Chatbot as bardChatbot
 from freeGPT import gpt3
 import requests
 import pandas as pd
@@ -114,11 +115,19 @@ def updateThumbnail(path:str,mj_prmt:str):
 class Bot():
     def __init__(self):
         self.poeClient = None
-        self.bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json', proxy=PROXY))
+        self.bardBot=None
+        self.bingBot = None
+
+    def bard(self,queryText:str):
+        if self.bardBot is None:
+            self.bardBot = bardChatbot(vikaData('recrhOrBcIgNl'))
+        reply = self.bardBot.ask(queryText)
+        return reply['content']
 
     def bing(self,queryText:str):
         reply_text = None
-        self.bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json', proxy=PROXY))
+        if self.bingBot is None:
+            self.bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json', proxy=PROXY))
         reply = asyncio.run(self.bingBot.ask(prompt=queryText, conversation_style=ConversationStyle.balanced,
                                          wss_link="wss://sydney.bing.com/sydney/ChatHub"))
         if reply:
@@ -139,17 +148,19 @@ class Bot():
         replyTxt= gpt3.Completion.create(prompt=prompt, proxy=PROXY).text
         return replyTxt.replace('",\n}', '"}')
 
-    def tidyPost(self,bingReply,gpt='poe'):
+    def tidyPost(self,bingReply,gpt='bard'):
         prompt = "```\n%s\n```" % bingReply + "plz rewrite as an blog post and output python dict format with tripple apostrophe {'title'':'''text''','tags':[text list],'post':'''markdown'''}"
         if gpt=='poe':
             replyTxt = self.poeReply(prompt)
-        else:
+            if not replyTxt.endswith('}'):
+                if '"""' in replyTxt:
+                    replyTxt += '"""}'
+                else:
+                    replyTxt += '}'
+        elif gpt == 'you':
             replyTxt = self.youReply(prompt)
-        if not replyTxt.endswith('}'):
-            if '"""' in replyTxt:
-                replyTxt += '"""}'
-            else:
-                replyTxt += '}'
+        else:
+            replyTxt = self.bard(prompt)
         match = re.findall(r'{[^{}]*}', replyTxt)
         content = match[-1]
         post = ast.literal_eval(content)
