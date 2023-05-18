@@ -107,7 +107,7 @@ def updateThumbnail(path:str,mj_prmt:str):
             continue
         with open(path+filename, 'r') as f:
             data = f.read()
-            new_data = data.replace(mj_prmt,'https://cdn.midjourney.com/%s/0_'%df.at[mj_prmt,'hash'])
+            new_data = data.replace(mj_prmt,df.at[mj_prmt,'url'])
         with open(path+filename, 'w') as f:
             f.write(new_data)
 
