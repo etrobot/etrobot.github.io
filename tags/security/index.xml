@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on FinanClub</title>
+    <link>https://finan.club/tags/security/</link>
+    <description>Recent content in security on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 23:35:00 -0600</lastBuildDate><atom:link href="https://finan.club/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Restricts Employee Use of ChatGPT, Wary of Leaks</title>
+      <link>https://finan.club/posts/apple-restricts-employee-use-of-chatgpt-wary-of-leaks/</link>
+      <pubDate>Thu, 18 May 2023 23:35:00 -0600</pubDate>
+      
+      <guid>https://finan.club/posts/apple-restricts-employee-use-of-chatgpt-wary-of-leaks/</guid>
+      <description>Apple Restricts Employee Use of ChatGPT Apple has restricted employee use of ChatGPT, a large language model developed by OpenAI. The restriction is reportedly due to Apple&amp;rsquo;s concern that employees could use ChatGPT to release confidential data as the company develops its own similar technology.</description>
+    </item>
+    
+  </channel>
+</rss>
