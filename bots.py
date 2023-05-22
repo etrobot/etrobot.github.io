@@ -49,7 +49,6 @@ thumbnail: {mj_prmt}{imgNum}_384_N.webp
         mj = PassPromptToSelfBot(mj_prmt, int(os.environ["MJCHNSAVE"]))
         if mj.status_code != 204:
             pass
-    updateThumbnail(path, mj_prmt)
     return True
 
 def vikaData(id:str):
@@ -85,32 +84,6 @@ def PassPromptToSelfBot(prompt: str,dcChannel:int):
     response = requests.post("https://discord.com/api/v9/interactions",
                              json=payload, headers=header)
     return response
-
-def updateThumbnail(path:str,mj_prmt:str):
-    filelist=os.listdir(path)
-    retry=2
-    while retry>0:
-        time.sleep(30 * retry * retry)
-        df=pd.read_csv('slackmidjourney/midjourney.csv')
-        df.drop_duplicates(subset='prompt',keep='last',inplace=True)
-        df.set_index('prompt',inplace=True)
-        if not mj_prmt in df.index:
-            print('retry to read prompt '+mj_prmt)
-        else:
-            break
-        retry -= 1
-        if retry==0 and mj_prmt not in df.index:
-            print('not exist: '+mj_prmt)
-            return
-
-    for filename in filelist:
-        if not filename.endswith('.md'):
-            continue
-        with open(path+filename, 'r') as f:
-            data = f.read()
-            new_data = data.replace(mj_prmt,df.at[mj_prmt,'url'])
-        with open(path+filename, 'w') as f:
-            f.write(new_data)
 
 class Bot():
     def __init__(self):
