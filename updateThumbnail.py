@@ -20,5 +20,4 @@ def updateThumbnail():
         with open(path + filename, 'w') as f:
             f.write(new_data)
 
-if __name__=='__main__':
-    updateThumbnail()
+updateThumbnail()

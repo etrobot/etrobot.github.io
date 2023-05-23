@@ -1,18 +1,14 @@
-import asyncio
+import time
+from datetime import datetime
 import json
 import os
 import random
 import re
-import time
 import ast
-from datetime import datetime
-from EdgeGPT import Chatbot, ConversationStyle
 from Bard import Chatbot as bardChatbot
-from freeGPT import gpt3
 import requests
 import pandas as pd
 from dotenv import load_dotenv
-import poe
 
 load_dotenv(dotenv_path='slackmidjourney/.env')
 
@@ -44,11 +40,12 @@ thumbnail: {mj_prmt}{imgNum}_384_N.webp
     path='content/posts/'
     with open(path + '/%s.md' % title, 'w') as f:
         f.write(template)
-    df = pd.read_csv('slackmidjourney/midjourney.csv', index_col='prompt')
-    if not mj_prmt in df.index:
+    df = pd.read_csv('slackmidjourney/midjourney.csv')
+    if not mj_prmt in df['prompt']:
         mj = PassPromptToSelfBot(mj_prmt, int(os.environ["MJCHNSAVE"]))
-        if mj.status_code != 204:
-            pass
+        if mj.status_code == 204:
+            with open('midjourney.csv', mode='a') as file:
+                file.write('\n%s, "%s", %s, %s' % (int(os.environ["MJCHNSAVE"]),mj_prmt,'',''))
     return True
 
 def vikaData(id:str):
@@ -97,48 +94,23 @@ class Bot():
         reply = self.bardBot.ask(queryText)
         return reply['content']
 
-    def bing(self,queryText:str):
-        reply_text = None
-        if self.bingBot is None:
-            self.bingBot = asyncio.run(Chatbot.create(cookie_path='./cookies.json', proxy=PROXY))
-        reply = asyncio.run(self.bingBot.ask(prompt=queryText, conversation_style=ConversationStyle.balanced,
-                                         wss_link="wss://sydney.bing.com/sydney/ChatHub"))
-        if reply:
-            reply_text = reply["item"]["messages"][1]["adaptiveCards"][0]["body"][0]["text"]
-        return reply_text.replace('"',' ')
-
-    def poeReply(self,prompt:str):
-        if self.poeClient is None:
-            self.poeClient = poe.Client(vikaData('recsHwgXPa010'), proxy=PROXY)
-        replyTxt=None
-        llm='chinchilla'
-        self.poeClient.send_chat_break(llm)
-        for reply in self.poeClient.send_message(llm, prompt, with_chat_break=True):
-            replyTxt = reply['text']
-        return replyTxt.replace('",\n}','"}')
-
-    def youReply(self,prompt:str):
-        replyTxt= gpt3.Completion.create(prompt=prompt, proxy=PROXY).text
-        return replyTxt.replace('",\n}', '"}')
-
-    def tidyPost(self,bingReply,gpt='bard'):
-        prompt = "```\n%s\n```" % bingReply + "plz rewrite as an blog post and output python dict format with tripple apostrophe {'title'':'''text''','tags':[text list],'post':'''markdown'''}"
-        if gpt=='poe':
-            replyTxt = self.poeReply(prompt)
-            if not replyTxt.endswith('}'):
-                if '"""' in replyTxt:
-                    replyTxt += '"""}'
-                else:
-                    replyTxt += '}'
-        elif gpt == 'you':
-            replyTxt = self.youReply(prompt)
-        else:
-            replyTxt = self.bard(prompt)
-        match = re.findall(r'{[^{}]*}', replyTxt)
-        content = match[-1]
-        post = ast.literal_eval(content)
-        for k, v in post.items():
-            print('%s:%s' % (k, v))
-        return post
+    def tidyPost(self,reply):
+        prompt = "```\n%s\n```" % reply + "plz rewrite as an blog post and output as python dict {'title'':'''text''','tags':[text list],'post':'''markdown'''}"
+        retry = 2
+        while retry>0:
+            try:
+                replyTxt = self.bard(prompt)
+                match = re.findall(r'{[^{}]*}', replyTxt)
+                content = match[-1]
+                post = ast.literal_eval(content)
+                for k, v in post.items():
+                    print('%s:%s' % (k, v))
+                return post
+            except Exception as e:
+                print(e)
+                prompt+=',plz make sure the output format is a python dict'
+                retry-=1
+                time.sleep(10)
+        return None
 
 dcToken = vikaData('recNIX08aLFPB')
