@@ -14,9 +14,12 @@ def updateThumbnail():
             data = f.read()
             new_data = data
             for k, v in df.iterrows():
-                if k in data:
+                if '--ar 2:1' not in k:
+                    continue
+                prmtInMd=k[:k.index('--ar 2:1')+len('--ar 2:1')]
+                if prmtInMd in data:
                     print(k, df.at[k, 'url'])
-                    new_data = data.replace(k, df.at[k, 'url'])
+                    new_data = data.replace(prmtInMd, df.at[k, 'url'])
         with open(path + filename, 'w') as f:
             f.write(new_data)
 
