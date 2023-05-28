@@ -1,76 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technology on FinanClub</title>
+    <title>Technology on FinanClub</title>
     <link>https://finan.club/tags/technology/</link>
-    <description>Recent content in technology on FinanClub</description>
+    <description>Recent content in Technology on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 May 2023 20:00:09 -0600</lastBuildDate><atom:link href="https://finan.club/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 May 2023 10:03:00 -0600</lastBuildDate><atom:link href="https://finan.club/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>As China Gains in Farm Tech, the US Falls Behind</title>
-      <link>https://finan.club/posts/as-china-gains-in-farm-tech-the-us-falls-behind/</link>
-      <pubDate>Mon, 22 May 2023 20:00:09 -0600</pubDate>
+      <title>How AI Is Catapulting Nvidia Toward the $1 Trillion Club</title>
+      <link>https://finan.club/posts/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club/</link>
+      <pubDate>Sat, 27 May 2023 10:03:00 -0600</pubDate>
       
-      <guid>https://finan.club/posts/as-china-gains-in-farm-tech-the-us-falls-behind/</guid>
-      <description>China Gains in Farm Tech, the US Falls Behind China is investing heavily in agricultural technology, while the US is not. This is a major concern for the US, as China is quickly becoming a leader in the development of new agricultural technologies.</description>
-    </item>
-    
-    <item>
-      <title>Applied Materials to Build $4 Billion Chip Research Facility in Silicon Valley</title>
-      <link>https://finan.club/posts/applied-materials-to-build-4-billion-chip-research-facility-in-silicon-valley/</link>
-      <pubDate>Mon, 22 May 2023 09:00:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/applied-materials-to-build-4-billion-chip-research-facility-in-silicon-valley/</guid>
-      <description>Applied Materials, a semiconductor equipment supplier, plans to build a $4 billion research facility in Silicon Valley. The facility will focus on developing new technologies for advanced semiconductors. The aim is to speed up the development of these technologies and help to ensure that the United States remains competitive in the global semiconductor industry.</description>
-    </item>
-    
-    <item>
-      <title>US Equities Rally Is Running on Liquidity and AI&#39;s Tech-Revolution</title>
-      <link>https://finan.club/posts/us-equities-rally-is-running-on-liquidity-and-ais-tech-revolution/</link>
-      <pubDate>Fri, 19 May 2023 04:11:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/us-equities-rally-is-running-on-liquidity-and-ais-tech-revolution/</guid>
-      <description>US Equities Rally Is Running on Liquidity and AI&amp;rsquo;s Tech-Revolution The US stock market has been on a rally in recent months, with the S&amp;amp;P 500 index up more than 10% year-to-date. There are a number of factors driving the rally, including:</description>
-    </item>
-    
-    <item>
-      <title>AI Alarmists Are Dragging Us All Down a Rabbit Hole</title>
-      <link>https://finan.club/posts/ai-alarmists-are-dragging-us-all-down-a-rabbit-hole/</link>
-      <pubDate>Fri, 19 May 2023 04:00:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/ai-alarmists-are-dragging-us-all-down-a-rabbit-hole/</guid>
-      <description>AI Alarmists Are Dragging Us All Down a Rabbit Hole Introduction
-Artificial intelligence (AI) is a powerful technology that has the potential to do great good or great harm. Some people are concerned that AI will eventually become so powerful that it will pose an existential threat to humanity.</description>
-    </item>
-    
-    <item>
-      <title>AI Longtermism Alarmists Are Dragging Us Down Existential Rabbit Hole</title>
-      <link>https://finan.club/posts/ai-longtermism-alarmists-are-dragging-us-down-existential-rabbit-hole/</link>
-      <pubDate>Fri, 19 May 2023 04:00:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/ai-longtermism-alarmists-are-dragging-us-down-existential-rabbit-hole/</guid>
-      <description>AI Longtermism Alarmists Are Dragging Us Down Existential Rabbit Hole Introduction
-Artificial intelligence (AI) is a powerful technology that has the potential to do great good or great harm. Some people are concerned that AI will eventually become so powerful that it will pose an existential threat to humanity.</description>
-    </item>
-    
-    <item>
-      <title>Software Company New Relic in Talks to Be Sold</title>
-      <link>https://finan.club/posts/software-company-new-relic-in-talks-to-be-sold/</link>
-      <pubDate>Wed, 17 May 2023 20:31:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/software-company-new-relic-in-talks-to-be-sold/</guid>
-      <description>According to a report by the Wall Street Journal, private-equity firms Francisco Partners and TPG are jointly bidding over $5 billion to acquire New Relic, a software company specializing in analytics and observability tools [^1^][^2^][^3^]. The article did not provide any further information about the potential acquisition.</description>
-    </item>
-    
-    <item>
-      <title>In Ukraine, Technology Only Thickens the Fog of War</title>
-      <link>https://finan.club/posts/in-ukraine-technology-only-thickens-the-fog-of-war/</link>
-      <pubDate>Wed, 17 May 2023 05:00:00 -0600</pubDate>
-      
-      <guid>https://finan.club/posts/in-ukraine-technology-only-thickens-the-fog-of-war/</guid>
-      <description>The conflict in Ukraine has been ongoing for years, with no clear end in sight. As technology advances, it has become increasingly intertwined with the conflict, with both sides utilizing it to gain an advantage.
-On May 17, 2023, Bloomberg published an article titled &amp;ldquo;In Ukraine, Technology Only Thickens the Fog of War&amp;rdquo; by Leonid Bershidsky.</description>
+      <guid>https://finan.club/posts/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club/</guid>
+      <description>Nvidia is a chipmaker that specializes in artificial intelligence (AI). The company&amp;rsquo;s chips are used in a wide range of applications, including self-driving cars, robotics, and medical imaging. Nvidia&amp;rsquo;s chips are becoming increasingly important as AI becomes more widely adopted.
+The company&amp;rsquo;s stock price has surged in recent years, and it is now valued at over $700 billion.</description>
     </item>
     
   </channel>
