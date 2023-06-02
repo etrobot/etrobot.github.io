@@ -20,7 +20,7 @@ def switchMost(dcChannel:int,mode='relax'):
         ,'fast':{"type":2,"application_id":"936929561302675456","guild_id":int(os.environ["MJSEVERID"]),"channel_id":dcChannel,"session_id":"02b02fc20b3620813cc6f5eb1f63d59f","data":{"version":"987795926183731231","id":"972289487818334212","name":"fast","type":1,"options":[],"application_command":{"id":"972289487818334212","application_id":"936929561302675456","version":"987795926183731231","default_member_permissions":None,"type":1,"nsfw":False,"name":"fast","description":"Switch to fast mode","dm_permission":True,"contexts":None},"attachments":[]},"nonce":"1112245417271099392"}
     }
     header = {
-        'authorization': 'MTAxMjM3NDI4MDcxOTMyMzI4Ng.GlewgJ.dSAwJTfI8f5Y08x8F30zsGK_l-v4lKhZkyAEF0'
+        'authorization': dcToken
     }
     response = requests.post("https://discord.com/api/v9/interactions",
                              json=payload[mode], headers=header,proxies={'https':'http://127.0.0.1:7890'})
