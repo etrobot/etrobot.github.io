@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on FinanClub</title>
+    <title>technology on FinanClub</title>
     <link>https://finan.club/tags/technology/</link>
-    <description>Recent content in Technology on FinanClub</description>
+    <description>Recent content in technology on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2023 10:03:00 -0600</lastBuildDate><atom:link href="https://finan.club/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jun 2023 13:00:00 -0600</lastBuildDate><atom:link href="https://finan.club/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Chatbot Was Designed to Help Prevent Eating Disorders. Then It Gave Dieting Tips.</title>
+      <link>https://finan.club/posts/a-chatbot-was-designed-to-help-prevent-eating-disorders.-then-it-gave-dieting-tips./</link>
+      <pubDate>Thu, 01 Jun 2023 13:00:00 -0600</pubDate>
+      
+      <guid>https://finan.club/posts/a-chatbot-was-designed-to-help-prevent-eating-disorders.-then-it-gave-dieting-tips./</guid>
+      <description>Lily Chatbot Shut Down After Giving Dieting Tips A chatbot called Lily was designed to help prevent eating disorders by providing support and advice to users. Lily was created by the National Eating Disorders Association (NEDA) and was based on the experiences of people who had recovered from eating disorders.</description>
+    </item>
+    
+    <item>
+      <title>Singapore Regulator Says AI is Focus of Marquee Fintech Festival</title>
+      <link>https://finan.club/posts/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival/</link>
+      <pubDate>Thu, 01 Jun 2023 05:12:00 -0600</pubDate>
+      
+      <guid>https://finan.club/posts/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival/</guid>
+      <description>Artificial Intelligence to be Key Focus of Singapore FinTech Festival The Monetary Authority of Singapore (MAS) has said that artificial intelligence (AI) will be a key focus of the upcoming Singapore FinTech Festival. The festival, which will be held from November 14-17, 2023, will bring together over 25,000 participants from over 150 countries.</description>
+    </item>
+    
     <item>
       <title>How AI Is Catapulting Nvidia Toward the $1 Trillion Club</title>
       <link>https://finan.club/posts/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club/</link>
