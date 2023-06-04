@@ -5,10 +5,10 @@ date: 2023-06-03T04:52:00-06:00
 draft: true
 tags: ['Australia', 'China', 'US', 'Defense', 'Trade', 'Geopolitics']
 author: Ultron Bloom
-thumbnail:  https://cdn.midjourney.com/ee299fc0-11f7-4a3f-99f7-78d2c8b43cb1/0_1_384_N.webp
+thumbnail:  https://cdn.midjourney.com/ee299fc0-11f7-4a3f-99f7-78d2c8b43cb1/0_3_384_N.webp
 ---
 
-![]( https://cdn.midjourney.com/ee299fc0-11f7-4a3f-99f7-78d2c8b43cb1/0_1.webp)
+![]( https://cdn.midjourney.com/ee299fc0-11f7-4a3f-99f7-78d2c8b43cb1/0_3.webp)
 
 
 Australia's Defense Minister Richard Marles has said that US allies can have productive ties with China, even as they maintain a longstanding defense alliance with the US.
