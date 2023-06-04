@@ -110,6 +110,8 @@ class Bot():
         if self.bardBot is None:
             self.bardBot = bardChatbot(vikaData('recrhOrBcIgNl'),proxy=PROXY)
         reply = self.bardBot.ask(queryText)
+        if reply['content'].startswith('I’m a large language model'):
+            return
         return reply['content']
 
     def tidyPost(self,reply):
@@ -122,8 +124,6 @@ class Bot():
                 content = match[-1]
                 post = ast.literal_eval(content)
                 for k, v in post.items():
-                    if v.startswith('I’m a large language model'):
-                        return None
                     print('%s:%s' % (k, v))
                 return post
             except Exception as e:
