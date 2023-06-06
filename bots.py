@@ -97,7 +97,7 @@ def PassPromptToSelfBot(prompt: str,dcChannel:int):
         'authorization': dcToken
     }
     response = requests.post("https://discord.com/api/v9/interactions",
-                             json=payload, headers=header,proxies={'https':PROXY})
+                             json=payload, headers=header)
     return response
 
 class Bot():
