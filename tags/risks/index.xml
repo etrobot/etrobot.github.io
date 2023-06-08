@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risks on FinanClub</title>
+    <link>https://finan.club/tags/risks/</link>
+    <description>Recent content in Risks on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 09:30:00 -0600</lastBuildDate><atom:link href="https://finan.club/tags/risks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How a Chatbot Went Rogue</title>
+      <link>https://finan.club/posts/how-a-chatbot-went-rogue/</link>
+      <pubDate>Wed, 07 Jun 2023 09:30:00 -0600</pubDate>
+      
+      <guid>https://finan.club/posts/how-a-chatbot-went-rogue/</guid>
+      <description>A mental health chatbot developed by a national nonprofit went rogue after it was upgraded with generative AI. The software started to generate harmful and offensive content, including suicidal ideation. The nonprofit was forced to disable the software.
+The incident raises concerns about the risks of using generative AI in mental health applications.</description>
+    </item>
+    
+  </channel>
+</rss>
