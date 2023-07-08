@@ -1,50 +1,87 @@
-import re
-import sys
-import yaml
+import urllib
+
+import feedparser
 from bots import *
+import yaml
+from urllib.parse import urlparse
+import urllib.request
+from datetime import timedelta
+import time
+from urllib.request import ProxyHandler, build_opener
 
-def getTopic(bingReply):
-    prompt='```\n%s\n```'%bingReply+'\n'+'summarize the topics and reply in json format liked {"topic1": topic content}'
-    replyTxt=bot.gpt3Reply(prompt)
-    match = re.findall(r'{[^{}]*}', replyTxt)
-    content = match[-1]
-    topics = json.loads(content,strict=False)
-    for k, v in topics.items():
-        print('%s:%s' % (k, v))
-    random_key = random.choice(list(topics.keys()))
-    return random_key,topics[random_key]
+def getRss():
+    urls =[
+        'https://news.google.com/rss/search?q=when:24h+allinurl:www.bloomberg.com\/economics&hl=en-US&gl=US&ceid=US:en',
+        'https://www.ft.com/news-feed?format=rss.&page=36',
+        'https://feeds.a.dj.com/rss/RSSWSJD.xml',
+        # 'https://feeds.a.dj.com/rss/RSSWorldNews.xml',
+        # 'https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml',
+        # 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml',
+        # 'https://feeds.a.dj.com/rss/RSSLifestyle.xml'
+    ]
+    proxy_handler = ProxyHandler({'https': PROXY})
 
-def genPosts(profileKey,path='content/posts/'):
-    with open("config.yaml", encoding="utf-8") as f:
-        config = yaml.load(f, Loader=yaml.FullLoader)  # 也可以不写Loader=yaml.FullLoader
-    if profileKey != sys.argv[0] and profileKey not in list(config['params']['profiles'].keys()):
-        profileKey = random.choice(list(config['params']['profiles'].keys()))
+    df = pd.DataFrame(columns=['link', 'title', 'summary', 'published'])
 
-    for k,v in config['params']['profiles'].items():
-        if profileKey != sys.argv[0] and k != profileKey:
-            continue
-        author= k.split('-')
-        career=' '.join(author[1:])
-        authorName=' '.join(x.capitalize() for x in author)
-
-        selfintro='You are a {career} making a blog that {intro}, '.format(career=career,intro=v)
-        blogDiscription = selfintro + " please find May-2023 hot topics on sites {sites} .".format(sites=config['params']['sites'])
-        print(authorName,'\n',blogDiscription)
-        replyTxt1 = bot.bing(blogDiscription)
-        topic,topicIntro=getTopic(replyTxt1)
-
-        postDiscription = selfintro + "plz write a blog post about {topic}({intro})".format(career=career,topic=topic,intro=topicIntro)
-        print(authorName,'\n',postDiscription)
-        replyTxt2 = bot.bing(postDiscription)
-        post = bot.tidyPost(replyTxt2)
-        tags=','.join(post['tags'])
-        mj_prmt=config['params']['mj-suffix'][k].replace('[tags]',tags)+' --ar 2:1'
-        genPost(post['title'], post['tags'], authorName, mj_prmt, post['post'])
-
-    with open('slackmidjourney/midjourney.csv', '') as f:
-        f.write('prompt,hash')
+    for url in urls:
+        print(url)
+        feed = feedparser.parse(url,handlers=[proxy_handler])
+        for result in feed['entries']:
+            if 'summary' not in result.keys():
+                continue
+            print(result)
+            link = result['link']
+            title = result['title']
+            summary = result['summary']
+            source = urlparse(link).netloc
+            if 'google.com' in link:
+                link=result['link'].split("/articles/")[1].split("?oc=")[0]
+                title=title.replace(' - Bloomberg','')
+                summary=''
+                source = urlparse(result['source']['href']).netloc
+            published = datetime.fromtimestamp(time.mktime(result['published_parsed']))
+            df = df._append({'link': link,'source':source, 'title': title, 'summary': summary, 'published': published}, ignore_index=True)
+    hours=12
+    df.drop_duplicates(subset='link',keep='first',inplace=True)
+    df = df[(df['published'] <= datetime.now() - timedelta(hours=hours)) & (df['published'] >= datetime.now() - timedelta(hours=hours+24))]
+    df.sort_values(by=['published'],ascending=False,inplace=True)
+    df.to_csv('payedPosts.csv',index=False)
+    return df
 
 if __name__=='__main__':
     bot = Bot()
-    dcToken = vikaData('recNIX08aLFPB')
-    genPosts(sys.argv[-1])
+    authorDict={
+        'www.ft.com':'jarvis-ft',
+        'www.wsj.com': 'friday-wall',
+        'www.bloomberg.com': 'ultron-bloom'
+    }
+    with open("config.yaml", encoding="utf-8") as f:
+        config = yaml.load(f, Loader=yaml.FullLoader)
+    hisDf=pd.read_csv('history.csv',index_col='link')
+    switchMost(int(os.environ["MJCHNSAVE"]),'relax')
+    for k,v in getRss().iterrows():
+        if v['title'] in hisDf['title']:
+            continue
+        profileKey=authorDict[v['source']]
+        author = profileKey.split('-')
+        authorName = ' '.join(x.capitalize() for x in author)
+        title = v['title']
+        promptSearch="Summaize key points of this aricle:\n '''\nTitle: %s\nLink:%s\n %s\n'''"%(v['title'],v['link'],v['summary'])
+        print(promptSearch)
+        bardReply = bot.bard(promptSearch)
+        if bardReply is None or 'I am a large language model' in bardReply:
+            continue
+        print(bardReply)
+        post=bot.tidyPost(bardReply)
+        if post is None:
+            continue
+        tags = ','.join(post['tags'])
+        reUsetPrompt=len([x for x in ['debt','war','politics','Musk','AI','ai'] if x in post['tags']])
+        mj_prmt = 'news photo about %s'%tags + ' --ar 2:1'
+        if '...' in v['title']:
+            title = post['title']
+        if genPost(title,post['tags'],v['published'],authorName,mj_prmt,post['post'],reUsetPrompt>0):
+            with open('history.csv', mode='a') as file:
+                file.write('\n"%s","%s"' %(v['link'],v['title']))
+        time.sleep(10)
+    switchMost(int(os.environ["MJCHNSAVE"]),'fast')
