@@ -1,0 +1,31 @@
+baseURL: 'https://finan.club/'
+languageCode: 'en-us'
+title: 'FinanClub'
+theme: 'hugo-theme-financlub'
+hasCJKLanguage: true
+taxonomies:
+  tags: 'tags'
+  category: 'categories'
+  social: 'social'
+  author: 'author'
+params:
+  adsensePubId: '7398757278741889'
+  adsenseUnitId: '7456114770'
+  social:
+    github: 'https://github.com/etrobot/hugo-theme-financlub'
+    twitter: 'https://twitter.com/etrobot'
+  profiles:
+    tony-ai-researcher: 'explores the future of open source LLMs and concerns about harmful uses of AI.'
+    jarvis-programer: 'explores Code-Generating Model, collects AI-friendly API.'
+    pasty-product-designer: 'explores AI in design.'
+    oliver-trader: 'Shares market data analysis that reveals equity investment opportunities.'
+    alison-game-musician: 'explores AI technologies that can help with composing game music.'
+    franklin-prodcut-manager: 'passionate about the interaction and business model of AI products.'
+  mj-suffix:
+    tony-ai-researcher: 'futuristic robots serving people,cinematic --v 5'
+    jarvis-programer: '[tags], jarvis ui in the Iron Man movie --v 5'
+    pasty-product-designer: '[tags], Apple product design --v 5'
+    oliver-trader: '[tags],displayed in a finance monitor,neon color --v 5'
+    alison-game-musician: '[tags] --niji 5'
+    franklin-prodcut-manager: 'people who get off work hanging out,cinematic --no AI,metaverse --v 5'
+  sites: 'reddit and twitter'

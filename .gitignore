@@ -25,3 +25,7 @@ hugo.linux
 /AIReadPayed.py
 *.csv
 __pycache__/
+/ytSum2post.py
+/bing2post.py
+cookies.json
+/us.py
