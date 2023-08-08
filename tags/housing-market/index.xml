@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>housing market on FinanClub</title>
+    <title>Housing Market on FinanClub</title>
     <link>https://finan.club/tags/housing-market/</link>
-    <description>Recent content in housing market on FinanClub</description>
+    <description>Recent content in Housing Market on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2023 09:44:50 +0000</lastBuildDate><atom:link href="https://finan.club/tags/housing-market/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 05:56:12 +0000</lastBuildDate><atom:link href="https://finan.club/tags/housing-market/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>0784 OPEN</title>
+      <title> BKI</title>
+      <link>https://finan.club/us/bki/</link>
+      <pubDate>Tue, 08 Aug 2023 05:56:12 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bki/</guid>
+      <description>score:1173
+Chances: Black Knight&amp;rsquo;s Data &amp;amp; Analytics division releases August 2023 Mortgage Monitor Report highlighting the heating housing market and rising home prices. The U.S. Federal Trade Commission (FTC) dismisses federal court case against Intercontinental Exchange&amp;rsquo;s proposed acquisition of Black Knight, clearing the regulatory path for the deal.</description>
+    </item>
+    
+    <item>
+      <title> OPEN</title>
       <link>https://finan.club/us/open/</link>
-      <pubDate>Sun, 06 Aug 2023 09:44:50 +0000</pubDate>
+      <pubDate>Tue, 08 Aug 2023 05:47:24 +0000</pubDate>
       
       <guid>https://finan.club/us/open/</guid>
-      <description>score:784
-Chances: Opendoor Technologies reported earnings and revenue surprises for the quarter ended June 2023, with positive clues for the stock&amp;rsquo;s future. The company&amp;rsquo;s shareholder letter indicated that Opendoor exceeded the high end of its financial expectations, showing potential growth prospects. Risks: Opendoor Technologies missed earnings expectations for Q2 2023, which may impact investor sentiment.</description>
+      <description>score:996
+Chances: Opendoor Technologies reported financial results for Q2 2023, delivering earnings and revenue surprises that exceeded expectations. Despite a challenging housing market, Opendoor&amp;rsquo;s Q2 performance indicated it exceeded the high end of its outlook, demonstrating potential resilience. Opendoor Technologies is a leading e-commerce platform for residential real estate transactions, showcasing its position in the real estate technology market.</description>
     </item>
     
   </channel>
