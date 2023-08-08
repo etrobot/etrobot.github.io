@@ -19,4 +19,11 @@ height: 100%;
   .theme-padding-mobile {
       padding: .6rem;
     }
+    #tradingview_7c694 {
+      height: 320px;
+    }
+}
+
+#tradingview_7c694 {
+  height: 480px;
 }
