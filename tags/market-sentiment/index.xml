@@ -1,20 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Market Sentiment on FinanClub</title>
+    <title>market sentiment on FinanClub</title>
     <link>https://finan.club/tags/market-sentiment/</link>
-    <description>Recent content in Market Sentiment on FinanClub</description>
+    <description>Recent content in market sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 07:15:02 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 07:17:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-sentiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> KDP</title>
-      <link>https://finan.club/us/kdp/</link>
-      <pubDate>Tue, 08 Aug 2023 07:15:02 +0000</pubDate>
+      <title>ORCL</title>
+      <link>https://finan.club/us/orcl/</link>
+      <pubDate>Sat, 12 Aug 2023 07:17:26 +0000</pubDate>
       
-      <guid>https://finan.club/us/kdp/</guid>
-      <description>score:966
-Chances: Keurig Dr Pepper&amp;rsquo;s second-quarter 2023 results show increases in sales and earnings, driven by brand strength and pricing. The company delivered earnings and revenue surprises for the quarter, and it raised its full-year 2023 net sales growth forecast. Keurig Dr Pepper appointed Monique Oxender as Interim Chief Corporate Affairs Officer, overseeing corporate responsibility and communications.</description>
+      <guid>https://finan.club/us/orcl/</guid>
+      <description>score:52
+Chances: Announcement of Oracle Compute Cloud@Customer for flexible cloud infrastructure. Oracle selected by Salam for driving 5G innovation in the Middle East. Positive outlook for technology and Oracle&amp;rsquo;s role in it. Expansion of Oracle Cloud services for Australian Government and Defense. Consistent growth and innovation focus highlighted in news.</description>
+    </item>
+    
+    <item>
+      <title>TTD</title>
+      <link>https://finan.club/us/ttd/</link>
+      <pubDate>Sat, 12 Aug 2023 06:59:30 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ttd/</guid>
+      <description>score:48
+Chances: Better-than-expected revenue, adjusted earnings, and guidance reported in Q2 2023. Strong customer retention and innovative product pipeline contributing to gains. Management&amp;rsquo;s guidance suggests strong double-digit revenue growth persisting in Q3 and beyond. Potential benefits from the growing Connected TV (CTV) momentum and Unified ID 2.</description>
+    </item>
+    
+    <item>
+      <title>INFY</title>
+      <link>https://finan.club/us/infy/</link>
+      <pubDate>Sat, 12 Aug 2023 06:40:44 +0000</pubDate>
+      
+      <guid>https://finan.club/us/infy/</guid>
+      <description>score:101
+Chances: Infosys unveils its sonic brand identity to reinforce its core identity and brand purpose. Strong demand for cloud, data analytics, IoT, and security products reflected in first-quarter results. Easing odds of a recession in the US and emerging AI revenue potential driving rebound in IT stocks.</description>
+    </item>
+    
+    <item>
+      <title>APLS</title>
+      <link>https://finan.club/us/apls/</link>
+      <pubDate>Sat, 12 Aug 2023 05:34:48 +0000</pubDate>
+      
+      <guid>https://finan.club/us/apls/</guid>
+      <description>score:-69
+Chances: Apellis Pharmaceuticals reported better-than-expected second-quarter 2023 results, indicating strong performance in its financials. Positive data on SYFOVRE&amp;rsquo;s reduction of nonsubfoveal GA lesion growth could reflect the potential effectiveness of Apellis&amp;rsquo; products. Equity awards granted to new employees could attract and incentivize talented individuals to join the company, contributing to its growth.</description>
+    </item>
+    
+    <item>
+      <title>PBR</title>
+      <link>https://finan.club/us/pbr/</link>
+      <pubDate>Sat, 12 Aug 2023 05:29:21 +0000</pubDate>
+      
+      <guid>https://finan.club/us/pbr/</guid>
+      <description>score:37
+Chances: Petrobras&amp;rsquo; management indicating that it&amp;rsquo;s not interested in government ownership of Braskem suggests strategic decisions for the petrochemicals producer. Petrobras&amp;rsquo; decision not to sell its stake in Braskem could imply confidence in the long-term prospects of the petrochemical firm. Analysts&amp;rsquo; reports of potential benefits from Airbnb&amp;rsquo;s shift towards alternative accommodations could highlight Petrobras&amp;rsquo; diversification opportunities.</description>
     </item>
     
     <item>
@@ -38,26 +78,6 @@ Chances: Tyson Foods CEO referred to the closures as an &amp;rsquo;efficiency pl
     </item>
     
     <item>
-      <title> XOM</title>
-      <link>https://finan.club/us/xom/</link>
-      <pubDate>Tue, 08 Aug 2023 06:18:44 +0000</pubDate>
-      
-      <guid>https://finan.club/us/xom/</guid>
-      <description>score:929
-Chances: Exxon Mobil is part of the Zacks top Analyst Blog, indicating positive sentiment. Oil prices experienced a winning streak aided by Saudi Arabia&amp;rsquo;s production cuts. Insiders within Exxon Mobil have been actively buying company shares. Risks: Exxon Mobil&amp;rsquo;s shale assets in Argentina are under review, potentially impacting its future investments.</description>
-    </item>
-    
-    <item>
-      <title> SHOP</title>
-      <link>https://finan.club/us/shop/</link>
-      <pubDate>Tue, 08 Aug 2023 06:18:11 +0000</pubDate>
-      
-      <guid>https://finan.club/us/shop/</guid>
-      <description>score:1139
-Chances: Shopify is considered to have growth potential alongside other stocks like Visa and Roku. Shopify President, Harley Finkelstein, discusses the company&amp;rsquo;s approach to potential U.S. recession. Shopify posted better-than-expected Q2 revenue and adjusted earnings per share. Despite recent decline, several analysts have raised their price targets for Shopify stock.</description>
-    </item>
-    
-    <item>
       <title> KOS</title>
       <link>https://finan.club/us/kos/</link>
       <pubDate>Tue, 08 Aug 2023 06:17:38 +0000</pubDate>
@@ -75,26 +95,6 @@ Chances: Kosmos Energy reports positive financial and operating results for Q2 2
       <guid>https://finan.club/us/elan/</guid>
       <description>score:923
 Chances: Elanco Animal Health reports strong financial results for Q2 2023 and raises guidance for the full year. Approval of Elanco&amp;rsquo;s Seresto flea and tick collar by the EPA and FDA contributes to stock surge. Elanco releases Environmental, Social and Governance (ESG) Report highlighting enhanced governance and transparency.</description>
-    </item>
-    
-    <item>
-      <title> VRT</title>
-      <link>https://finan.club/us/vrt/</link>
-      <pubDate>Tue, 08 Aug 2023 06:09:53 +0000</pubDate>
-      
-      <guid>https://finan.club/us/vrt/</guid>
-      <description>score:1092
-Chances: Vertiv Holdings Co announced an underwritten secondary offering of its Class A common stock, indicating potential investor interest and capital infusion. Strong demand for data center equipment, driven by cloud and colocation markets, has contributed to Vertiv&amp;rsquo;s stock rise, with positive full-year earnings guidance updates.</description>
-    </item>
-    
-    <item>
-      <title> AMD</title>
-      <link>https://finan.club/us/amd/</link>
-      <pubDate>Tue, 08 Aug 2023 05:41:39 +0000</pubDate>
-      
-      <guid>https://finan.club/us/amd/</guid>
-      <description>score:880
-Chances: Advanced Micro Devices&amp;rsquo; (AMD) MI300 AI chip set is gaining attention and seen as a potential competitor to Nvidia&amp;rsquo;s AI hardware. AI-driven investment has positively impacted Nvidia&amp;rsquo;s stock and could have a similar effect on AMD&amp;rsquo;s stock. Long-term investing in strong businesses like AMD can be life-changing and rewarding.</description>
     </item>
     
   </channel>

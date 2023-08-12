@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Stocks on FinanClub</title>
+    <title>AI stocks on FinanClub</title>
     <link>https://finan.club/tags/ai-stocks/</link>
-    <description>Recent content in AI Stocks on FinanClub</description>
+    <description>Recent content in AI stocks on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 06:56:58 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ai-stocks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 05:41:14 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ai-stocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> TOST</title>
-      <link>https://finan.club/us/tost/</link>
-      <pubDate>Tue, 08 Aug 2023 06:56:58 +0000</pubDate>
+      <title>META</title>
+      <link>https://finan.club/us/meta/</link>
+      <pubDate>Sat, 12 Aug 2023 05:41:14 +0000</pubDate>
       
-      <guid>https://finan.club/us/tost/</guid>
-      <description>score:1176
-Chances: Toast launches Toast Catering &amp;amp; Events, a fully integrated product for managing large catering orders and event planning. Toast Invoicing, a digital invoicing tool, complements Toast Catering &amp;amp; Events. Toast announces the release date of its second quarter 2023 financial results.</description>
-    </item>
-    
-    <item>
-      <title> NVDA</title>
-      <link>https://finan.club/us/nvda/</link>
-      <pubDate>Tue, 08 Aug 2023 05:44:31 +0000</pubDate>
-      
-      <guid>https://finan.club/us/nvda/</guid>
-      <description>score:744
-Chances: Nvidia (NVDA) is set to report its quarterly results on August 23, and analysts are optimistic about the company&amp;rsquo;s performance. The recent positive performance of other tech companies, such as Meta and Google, in terms of online ad spend rates, may indicate positive trends for Nvidia.</description>
+      <guid>https://finan.club/us/meta/</guid>
+      <description>score:-31
+Chances: Meta Platforms, formerly known as Facebook, is a prominent tech company in the social media industry. Meta&amp;rsquo;s new microblogging platform, Threads, gained more than 100 million sign-ups. Highlighted as a top-rated AI stock to watch in the technology sector. Risks: Public conflict and ongoing feud between Meta CEO Mark Zuckerberg and Tesla CEO Elon Musk.</description>
     </item>
     
   </channel>

@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Revenue Diversification on FinanClub</title>
+    <title>revenue diversification on FinanClub</title>
     <link>https://finan.club/tags/revenue-diversification/</link>
-    <description>Recent content in Revenue Diversification on FinanClub</description>
+    <description>Recent content in revenue diversification on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 05:40:33 +0000</lastBuildDate><atom:link href="https://finan.club/tags/revenue-diversification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 05:34:15 +0000</lastBuildDate><atom:link href="https://finan.club/tags/revenue-diversification/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> AAPL</title>
-      <link>https://finan.club/us/aapl/</link>
-      <pubDate>Tue, 08 Aug 2023 05:40:33 +0000</pubDate>
+      <title>UBER</title>
+      <link>https://finan.club/us/uber/</link>
+      <pubDate>Sat, 12 Aug 2023 05:34:15 +0000</pubDate>
       
-      <guid>https://finan.club/us/aapl/</guid>
-      <description>score:963
-Chances: Growth in Apple&amp;rsquo;s Services segment is promising, helping to offset slowing Product segment sales. Apple&amp;rsquo;s stock buybacks are seen as good news for Warren Buffett&amp;rsquo;s Berkshire Hathaway. Despite smartphone demand concerns, Apple is about to unveil the iPhone 15, indicating new product potential.</description>
+      <guid>https://finan.club/us/uber/</guid>
+      <description>score:124
+Chances: Uber&amp;rsquo;s partnership with grocery chain Hy-Vee to offer on-demand and scheduled grocery delivery could enhance the convenience and attractiveness of Uber Eats&amp;rsquo; services, potentially increasing customer engagement and revenue. The Indian government&amp;rsquo;s plan to roll out welfare measures for gig workers employed through platforms like Uber could improve the social and financial well-being of workers, potentially leading to positive sentiment and improved relationships with the government.</description>
+    </item>
+    
+    <item>
+      <title>LYFT</title>
+      <link>https://finan.club/us/lyft/</link>
+      <pubDate>Sat, 12 Aug 2023 05:27:08 +0000</pubDate>
+      
+      <guid>https://finan.club/us/lyft/</guid>
+      <description>score:40
+Chances: Lyft&amp;rsquo;s plans to introduce in-app ads and in-car services could enhance its revenue potential by creating new streams of income and a more personalized experience for users. Partnerships with technology companies like Rokt to offer personalized and relevant offers to riders might attract more engagement and improve user satisfaction.</description>
     </item>
     
   </channel>

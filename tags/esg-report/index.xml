@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ESG Report on FinanClub</title>
+    <title>ESG report on FinanClub</title>
     <link>https://finan.club/tags/esg-report/</link>
-    <description>Recent content in ESG Report on FinanClub</description>
+    <description>Recent content in ESG report on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 07:12:27 +0000</lastBuildDate><atom:link href="https://finan.club/tags/esg-report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 06:58:17 +0000</lastBuildDate><atom:link href="https://finan.club/tags/esg-report/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> JOBY</title>
+      <title>JOBY</title>
       <link>https://finan.club/us/joby/</link>
-      <pubDate>Tue, 08 Aug 2023 07:12:27 +0000</pubDate>
+      <pubDate>Sat, 12 Aug 2023 06:58:17 +0000</pubDate>
       
       <guid>https://finan.club/us/joby/</guid>
-      <description>score:1050
-Chances: Joby Aviation (NYSE: JOBY) issued its Q2 2023 Shareholder Letter with operational and financial results. The company is developing all-electric aircraft for commercial passenger service. Joby Aviation submitted Certification Plans to the FAA, progressing toward certifying its aircraft for commercial use.</description>
-    </item>
-    
-    <item>
-      <title> CVE</title>
-      <link>https://finan.club/us/cve/</link>
-      <pubDate>Tue, 08 Aug 2023 06:59:24 +0000</pubDate>
-      
-      <guid>https://finan.club/us/cve/</guid>
-      <description>score:1153
-Chances: Cenovus Energy&amp;rsquo;s positive Q2 earnings aided by higher contributions and lower expenses. Earnings and revenue surprises for Cenovus Energy in the second quarter of 2023. Beat in profit estimates due to higher downstream throughput and better production margins. Strong cash generation and funds flow for Cenovus Energy in Q2 2023.</description>
+      <description>score:8
+Chances: Release of operational and financial results for the second quarter, showcasing progress. Company&amp;rsquo;s focus on developing all-electric aircraft for commercial passenger service. Submission of Certification Plans to the FAA, marking progress towards aircraft certification. Annual release of Environmental, Social, Governance (ESG) report, highlighting responsible practices.</description>
     </item>
     
   </channel>

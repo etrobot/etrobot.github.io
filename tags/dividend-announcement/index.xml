@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dividend Announcement on FinanClub</title>
+    <title>dividend announcement on FinanClub</title>
     <link>https://finan.club/tags/dividend-announcement/</link>
-    <description>Recent content in Dividend Announcement on FinanClub</description>
+    <description>Recent content in dividend announcement on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 05:49:09 +0000</lastBuildDate><atom:link href="https://finan.club/tags/dividend-announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 06:39:39 +0000</lastBuildDate><atom:link href="https://finan.club/tags/dividend-announcement/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> BAC</title>
-      <link>https://finan.club/us/bac/</link>
-      <pubDate>Tue, 08 Aug 2023 05:49:09 +0000</pubDate>
+      <title>FHN</title>
+      <link>https://finan.club/us/fhn/</link>
+      <pubDate>Sat, 12 Aug 2023 06:39:39 +0000</pubDate>
       
-      <guid>https://finan.club/us/bac/</guid>
-      <description>score:978
-Chances: Bank of America announced a corrected dividend amount on the Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series U, payable on September 1, 2023. Bank of America has raised the yield on a $500 million blue bond for Gabon to attract investor interest.</description>
+      <guid>https://finan.club/us/fhn/</guid>
+      <description>score:353
+Chances: First Horizon Corp. recognized as one of America&amp;rsquo;s Best Large Employers by Forbes Magazine. Broyhill Asset Management&amp;rsquo;s second-quarter 2023 investor letter discussing portfolio performance. Five-year employment agreement announced with CEO Bryan Jordan following a failed acquisition effort by TD Bank. Recognition of First Horizon Corp.</description>
+    </item>
+    
+    <item>
+      <title>MRO</title>
+      <link>https://finan.club/us/mro/</link>
+      <pubDate>Sat, 12 Aug 2023 05:50:19 +0000</pubDate>
+      
+      <guid>https://finan.club/us/mro/</guid>
+      <description>score:-83
+Chances: Marathon Oil&amp;rsquo;s positive adjusted free cash flow and strong net operating cash flow could signal financial stability. Beating earnings and revenue surprises for the second quarter might boost investor confidence. The declaration of a dividend and consistent net income performance could attract dividend-focused investors.</description>
     </item>
     
   </channel>

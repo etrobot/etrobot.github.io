@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Labor Negotiations on FinanClub</title>
+    <title>labor negotiations on FinanClub</title>
     <link>https://finan.club/tags/labor-negotiations/</link>
-    <description>Recent content in Labor Negotiations on FinanClub</description>
+    <description>Recent content in labor negotiations on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 07:24:15 +0000</lastBuildDate><atom:link href="https://finan.club/tags/labor-negotiations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 06:37:19 +0000</lastBuildDate><atom:link href="https://finan.club/tags/labor-negotiations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> STLA</title>
-      <link>https://finan.club/us/stla/</link>
-      <pubDate>Tue, 08 Aug 2023 07:24:15 +0000</pubDate>
+      <title>PDD</title>
+      <link>https://finan.club/us/pdd/</link>
+      <pubDate>Sat, 12 Aug 2023 06:37:19 +0000</pubDate>
       
-      <guid>https://finan.club/us/stla/</guid>
-      <description>score:1101
-Chances: Stellantis faces intense competition in the EV market but has opportunities in profitable niches like electric boats. General Motors plans to increase employment for EV production, despite concerns of reduced labor needs. The Jeep brand celebrates the 30th anniversary of the &amp;lsquo;Jurassic Park&amp;rsquo; film with an exclusive Jurassic Park Package for Wrangler and Gladiator vehicles.</description>
+      <guid>https://finan.club/us/pdd/</guid>
+      <description>score:1029
+Chances: Discussion about the labor contract negotiations of Ford and General Motors, and their impact on related stocks. Coverage of shopping app Temu&amp;rsquo;s popularity and its implications for Amazon. Highlighting Chinese stocks worth watching or potentially buying, including PDD Holdings. Coverage of online sellers&amp;rsquo; legal battles and competition in China.</description>
+    </item>
+    
+    <item>
+      <title>GM</title>
+      <link>https://finan.club/us/gm/</link>
+      <pubDate>Sat, 12 Aug 2023 05:26:35 +0000</pubDate>
+      
+      <guid>https://finan.club/us/gm/</guid>
+      <description>score:-29
+Chances: Wayfair&amp;rsquo;s potential gains in sales and profits could indicate a positive trend that might indirectly benefit companies like General Motors. Driverless robotaxi services, including General Motors&amp;rsquo; Cruise, being granted permission to expand their business could open up new growth opportunities for GM in the autonomous vehicle sector.</description>
+    </item>
+    
+    <item>
+      <title>F</title>
+      <link>https://finan.club/us/f/</link>
+      <pubDate>Sat, 12 Aug 2023 05:11:49 +0000</pubDate>
+      
+      <guid>https://finan.club/us/f/</guid>
+      <description>score:180
+Chances: Ford&amp;rsquo;s Brazilian unit reaching a transfer agreement with the government of Bahia state to transfer ownership of a closed factory complex could lead to potential asset monetization. Interest from Chinese EV manufacturer BYD in the factory complex suggests potential for acquisition, which might bring in revenue for Ford.</description>
     </item>
     
   </channel>

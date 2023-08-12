@@ -1,70 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E-commerce on FinanClub</title>
+    <title>e-commerce on FinanClub</title>
     <link>https://finan.club/tags/e-commerce/</link>
-    <description>Recent content in E-commerce on FinanClub</description>
+    <description>Recent content in e-commerce on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 06:54:27 +0000</lastBuildDate><atom:link href="https://finan.club/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 06:50:16 +0000</lastBuildDate><atom:link href="https://finan.club/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> JD</title>
-      <link>https://finan.club/us/jd/</link>
-      <pubDate>Tue, 08 Aug 2023 06:54:27 +0000</pubDate>
+      <title>VIPS</title>
+      <link>https://finan.club/us/vips/</link>
+      <pubDate>Sat, 12 Aug 2023 06:50:16 +0000</pubDate>
       
-      <guid>https://finan.club/us/jd/</guid>
-      <description>score:1026
-Chances: JD.com&amp;rsquo;s strong stock performance and positive momentum over the last month indicate potential for higher returns and market outperformance. Analyst projections suggest a fair value for JD.com based on Free Cash Flow to Equity, potentially indicating undervaluation and room for growth.</description>
+      <guid>https://finan.club/us/vips/</guid>
+      <description>score:-32
+Chances: Vipshop is a leading online discount retailer for brands in China. Strong position in China&amp;rsquo;s competitive e-commerce market. Anticipated release of second quarter 2023 financial results. Risks: Volatility in the stock price due to market movements. Competitive nature of China&amp;rsquo;s e-commerce market.</description>
     </item>
     
     <item>
-      <title> FTCH</title>
-      <link>https://finan.club/us/ftch/</link>
-      <pubDate>Tue, 08 Aug 2023 06:51:15 +0000</pubDate>
-      
-      <guid>https://finan.club/us/ftch/</guid>
-      <description>score:990
-Chances: Farfetch&amp;rsquo;s recent appointment of Tim Stone as Chief Financial Officer is a positive move that could contribute to the company&amp;rsquo;s financial management and strategic direction. Riding Wall Street&amp;rsquo;s love for innovative tech businesses, Farfetch&amp;rsquo;s stock had soared in the past, indicating the company&amp;rsquo;s potential for growth and investor interest.</description>
-    </item>
-    
-    <item>
-      <title> CVNA</title>
-      <link>https://finan.club/us/cvna/</link>
-      <pubDate>Tue, 08 Aug 2023 06:19:58 +0000</pubDate>
-      
-      <guid>https://finan.club/us/cvna/</guid>
-      <description>score:992
-Chances: Carvana has reached an agreement to reduce its outstanding debt, indicating a positive step towards improving its financial position. The introduction of same-day delivery in Arizona could enhance customer convenience and potentially drive sales growth. Carvana&amp;rsquo;s strong momentum and revenue growth have contributed to significant gains in its stock price this year.</description>
-    </item>
-    
-    <item>
-      <title> SHOP</title>
-      <link>https://finan.club/us/shop/</link>
-      <pubDate>Tue, 08 Aug 2023 06:18:11 +0000</pubDate>
-      
-      <guid>https://finan.club/us/shop/</guid>
-      <description>score:1139
-Chances: Shopify is considered to have growth potential alongside other stocks like Visa and Roku. Shopify President, Harley Finkelstein, discusses the company&amp;rsquo;s approach to potential U.S. recession. Shopify posted better-than-expected Q2 revenue and adjusted earnings per share. Despite recent decline, several analysts have raised their price targets for Shopify stock.</description>
-    </item>
-    
-    <item>
-      <title> BABA</title>
+      <title>BABA</title>
       <link>https://finan.club/us/baba/</link>
-      <pubDate>Tue, 08 Aug 2023 06:15:54 +0000</pubDate>
+      <pubDate>Sat, 12 Aug 2023 05:22:33 +0000</pubDate>
       
       <guid>https://finan.club/us/baba/</guid>
-      <description>score:1083
-Chances: Alibaba Cloud releases open-source large language models (LLMs) to expand its influence in generative artificial intelligence. Paytm founder Vijay Shekhar Sharma to acquire a 10.3% stake in Ant Group from Alibaba, becoming the company&amp;rsquo;s largest shareholder. Alibaba introduces licensing requirement for businesses with over 100 million monthly active users to access its large language models (LLMs).</description>
-    </item>
-    
-    <item>
-      <title> AMZN</title>
-      <link>https://finan.club/us/amzn/</link>
-      <pubDate>Tue, 08 Aug 2023 05:41:07 +0000</pubDate>
-      
-      <guid>https://finan.club/us/amzn/</guid>
-      <description>score:977
-Chances: Amazon reported strong quarterly results, indicating continued consumer spending and potential positive signals for competitors like Walmart and Target. Amazon&amp;rsquo;s physical store operations, including Amazon Fresh, Whole Foods, and Go convenience stores, saw a significant increase in sales. Amazon&amp;rsquo;s plans to launch prototype internet satellites for its Kuiper program could expand its global internet offering from space.</description>
+      <description>score:71
+Chances: Alibaba reported solid quarterly results that exceeded top and bottom line expectations, with strong revenue expansion. The company&amp;rsquo;s performance is being compared to Amazon, Meta Platforms, and Microsoft, indicating positive competitive positioning. Alibaba&amp;rsquo;s return to growth across all main divisions is a positive sign of a potential comeback after a period of malaise.</description>
     </item>
     
   </channel>

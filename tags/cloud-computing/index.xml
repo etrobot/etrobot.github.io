@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cloud Computing on FinanClub</title>
+    <title>cloud computing on FinanClub</title>
     <link>https://finan.club/tags/cloud-computing/</link>
-    <description>Recent content in Cloud Computing on FinanClub</description>
+    <description>Recent content in cloud computing on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 07:09:23 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 05:28:14 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> ORCL</title>
-      <link>https://finan.club/us/orcl/</link>
-      <pubDate>Tue, 08 Aug 2023 07:09:23 +0000</pubDate>
+      <title>MSFT</title>
+      <link>https://finan.club/us/msft/</link>
+      <pubDate>Sat, 12 Aug 2023 05:28:14 +0000</pubDate>
       
-      <guid>https://finan.club/us/orcl/</guid>
-      <description>score:1129
-Chances: Oracle leads stocks to watch with AI and cloud play, along with Amazon rival MercadoLibre. Oracle announces new Oracle Cloud for Australian Government and Defense to meet growing global demand. Wendy&amp;rsquo;s implements Oracle Fusion Cloud Applications Suite and moves to Oracle Cloud Infrastructure for improved business insights.</description>
-    </item>
-    
-    <item>
-      <title> HPE</title>
-      <link>https://finan.club/us/hpe/</link>
-      <pubDate>Tue, 08 Aug 2023 06:40:00 +0000</pubDate>
-      
-      <guid>https://finan.club/us/hpe/</guid>
-      <description>score:1112
-Chances: Hewlett Packard Enterprise (HPE) announces a transition plan for CFO Tarek Robbiati, who will assume an external CEO role. HPE expands its Bare Metal Cloud platform with cloud-native HPE ProLiant RL300 Gen11 servers, enhancing AI inferencing and cloud-native workloads. ZoomInfo delivered positive earnings and revenue surprises for Q2 2023, potentially impacting HPE&amp;rsquo;s stock and market sentiment.</description>
-    </item>
-    
-    <item>
-      <title> BABA</title>
-      <link>https://finan.club/us/baba/</link>
-      <pubDate>Tue, 08 Aug 2023 06:15:54 +0000</pubDate>
-      
-      <guid>https://finan.club/us/baba/</guid>
-      <description>score:1083
-Chances: Alibaba Cloud releases open-source large language models (LLMs) to expand its influence in generative artificial intelligence. Paytm founder Vijay Shekhar Sharma to acquire a 10.3% stake in Ant Group from Alibaba, becoming the company&amp;rsquo;s largest shareholder. Alibaba introduces licensing requirement for businesses with over 100 million monthly active users to access its large language models (LLMs).</description>
+      <guid>https://finan.club/us/msft/</guid>
+      <description>score:44
+Chances: Microsoft&amp;rsquo;s solid position in the tech industry and consistent performance make it a key blue chip stock to consider. Positive analyst calls and expectations of gains in the Nasdaq index suggest potential growth for Microsoft&amp;rsquo;s stock. Microsoft&amp;rsquo;s involvement in cloud computing and artificial intelligence efforts positions it well to capitalize on growing trends.</description>
     </item>
     
   </channel>

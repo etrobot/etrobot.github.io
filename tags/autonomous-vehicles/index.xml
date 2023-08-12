@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autonomous Vehicles on FinanClub</title>
+    <title>autonomous vehicles on FinanClub</title>
     <link>https://finan.club/tags/autonomous-vehicles/</link>
-    <description>Recent content in Autonomous Vehicles on FinanClub</description>
+    <description>Recent content in autonomous vehicles on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 06:03:03 +0000</lastBuildDate><atom:link href="https://finan.club/tags/autonomous-vehicles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 05:32:04 +0000</lastBuildDate><atom:link href="https://finan.club/tags/autonomous-vehicles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> GOOG</title>
-      <link>https://finan.club/us/goog/</link>
-      <pubDate>Tue, 08 Aug 2023 06:03:03 +0000</pubDate>
+      <title>GOOGL</title>
+      <link>https://finan.club/us/googl/</link>
+      <pubDate>Sat, 12 Aug 2023 05:32:04 +0000</pubDate>
       
-      <guid>https://finan.club/us/goog/</guid>
-      <description>score:1003
-Chances: Alphabet Inc.&amp;rsquo;s subsidiary Waymo and General Motors&amp;rsquo; Cruise are seeking approval to expand self-driving car services in San Francisco, presenting growth opportunities in the emerging autonomous vehicle industry. Alphabet&amp;rsquo;s (GOOG) return-to-office tactic of offering employees discounts to hotels on the Google campus reflects the company&amp;rsquo;s efforts to transition back to in-person work and maintain a collaborative work environment.</description>
+      <guid>https://finan.club/us/googl/</guid>
+      <description>score:18
+Chances: Alphabet&amp;rsquo;s Waymo and General Motors&amp;rsquo; Cruise receiving regulatory approval to expand their robotaxi services for driverless ride-hailing services 24/7 across San Francisco suggests growth potential in autonomous transportation. Google parent Alphabet&amp;rsquo;s robust cash generation of nearly $29 billion in the second quarter could provide opportunities for strategic investments and innovations.</description>
+    </item>
+    
+    <item>
+      <title>GM</title>
+      <link>https://finan.club/us/gm/</link>
+      <pubDate>Sat, 12 Aug 2023 05:26:35 +0000</pubDate>
+      
+      <guid>https://finan.club/us/gm/</guid>
+      <description>score:-29
+Chances: Wayfair&amp;rsquo;s potential gains in sales and profits could indicate a positive trend that might indirectly benefit companies like General Motors. Driverless robotaxi services, including General Motors&amp;rsquo; Cruise, being granted permission to expand their business could open up new growth opportunities for GM in the autonomous vehicle sector.</description>
     </item>
     
   </channel>

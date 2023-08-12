@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investor Sentiment on FinanClub</title>
+    <title>investor sentiment on FinanClub</title>
     <link>https://finan.club/tags/investor-sentiment/</link>
-    <description>Recent content in Investor Sentiment on FinanClub</description>
+    <description>Recent content in investor sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Aug 2023 06:21:48 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Aug 2023 06:57:05 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-sentiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> DIS</title>
-      <link>https://finan.club/us/dis/</link>
-      <pubDate>Tue, 08 Aug 2023 06:21:48 +0000</pubDate>
+      <title>RLX</title>
+      <link>https://finan.club/us/rlx/</link>
+      <pubDate>Sat, 12 Aug 2023 06:57:05 +0000</pubDate>
       
-      <guid>https://finan.club/us/dis/</guid>
-      <description>score:1350
-Chances: Disney CEO Bob Iger returned after a short retirement and expressed surprise at the problems discovered at the company, including challenges in the traditional television business and box office disappointments. Investors are eager to assess Disney&amp;rsquo;s second-quarter earnings, focusing on theme park performance, broadcast partnerships for ESPN, and Bob Iger&amp;rsquo;s strategic plans for the company.</description>
+      <guid>https://finan.club/us/rlx/</guid>
+      <description>score:101
+Chances: RLX Technology to report unaudited financial results for the second quarter, indicating transparency and accountability. Positive market sentiment towards Chinese stocks&amp;rsquo; recovery and potential stimulus. Shares of RLX Technology showing upward movement. Notable performance metrics, such as best value and best performance in comparison to peers.</description>
     </item>
     
     <item>
-      <title> QS</title>
-      <link>https://finan.club/us/qs/</link>
-      <pubDate>Tue, 08 Aug 2023 05:12:14 +0000</pubDate>
+      <title>RBLX</title>
+      <link>https://finan.club/us/rblx/</link>
+      <pubDate>Sat, 12 Aug 2023 05:43:20 +0000</pubDate>
       
-      <guid>https://finan.club/us/qs/</guid>
-      <description>score:1032
-Chances: QuantumScape&amp;rsquo;s decision to raise $300 million through a public offering of shares could provide a significant influx of cash for the company&amp;rsquo;s operations and growth. Shares of QuantumScape have experienced a more than 50% increase in the past three months, indicating positive investor sentiment and potential demand for the company&amp;rsquo;s innovations.</description>
+      <guid>https://finan.club/us/rblx/</guid>
+      <description>score:-36
+Chances: Roblox&amp;rsquo;s Q2 results reflect top-line growth and increased daily active users. Analysts upgraded Roblox stock on improved risk-reward prospects. Despite disappointing Q2 earnings, some analysts see buying opportunities. Risks: Roblox delivered weaker-than-expected quarterly bookings growth. Roblox stock crashed after the Q2 earnings miss.</description>
+    </item>
+    
+    <item>
+      <title>NOK</title>
+      <link>https://finan.club/us/nok/</link>
+      <pubDate>Sat, 12 Aug 2023 05:35:54 +0000</pubDate>
+      
+      <guid>https://finan.club/us/nok/</guid>
+      <description>score:20
+Chances: Nokia&amp;rsquo;s recent repurchase of its own shares indicates the company&amp;rsquo;s confidence in its financial position and potential future growth. The transfer of Nokia shares to participants of equity-based incentive plans aligns with the company&amp;rsquo;s commitment to rewarding employees and aligning their interests with shareholders.</description>
+    </item>
+    
+    <item>
+      <title>UPST</title>
+      <link>https://finan.club/us/upst/</link>
+      <pubDate>Sat, 12 Aug 2023 05:35:22 +0000</pubDate>
+      
+      <guid>https://finan.club/us/upst/</guid>
+      <description>score:-57
+Chances: Despite the recent stock price decline, Upstart&amp;rsquo;s long-term growth potential remains promising due to its AI-powered lending marketplace. Upstart generated revenue growth, reaching $136 million in the last quarter, indicating its ability to generate strong sales in its niche. The company&amp;rsquo;s performance in the second quarter was better than feared, with better-than-expected Q2 results and revenue.</description>
     </item>
     
   </channel>
