@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>commodity price volatility on FinanClub</title>
+    <title>Commodity Price Volatility on FinanClub</title>
     <link>https://finan.club/tags/commodity-price-volatility/</link>
-    <description>Recent content in commodity price volatility on FinanClub</description>
+    <description>Recent content in Commodity Price Volatility on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:46:53 +0000</lastBuildDate><atom:link href="https://finan.club/tags/commodity-price-volatility/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:30:12 +0000</lastBuildDate><atom:link href="https://finan.club/tags/commodity-price-volatility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BKR</title>
+      <link>https://finan.club/us/bkr/</link>
+      <pubDate>Fri, 18 Aug 2023 11:30:12 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bkr/</guid>
+      <description>score:-37
+Chances: UBS analysts raised price targets on Baker Hughes, indicating positive sentiment towards the company&amp;rsquo;s stock. Baker Hughes&amp;rsquo; estimated fair value is provided based on Free Cash Flow to Equity analysis. The analysis includes Baker Hughes in discussions about energy sector investment themes.</description>
+    </item>
+    
+    <item>
+      <title>CHK</title>
+      <link>https://finan.club/us/chk/</link>
+      <pubDate>Fri, 18 Aug 2023 10:47:17 +0000</pubDate>
+      
+      <guid>https://finan.club/us/chk/</guid>
+      <description>score:-29
+Chances: Chesapeake Energy&amp;rsquo;s strategic decision to exit the Eagle Ford assets could streamline its focus on gas-rich formations. The sale of Eagle Ford assets to SilverBow Resources for $700 million adds to Chesapeake Energy&amp;rsquo;s proceeds from its strategic divestments. SilverBow Resources&amp;rsquo; acquisition of Chesapeake Energy&amp;rsquo;s assets could enhance operational footprint and shareholder value.</description>
+    </item>
+    
     <item>
       <title>CVE</title>
       <link>https://finan.club/us/cve/</link>
-      <pubDate>Sat, 12 Aug 2023 06:46:53 +0000</pubDate>
+      <pubDate>Fri, 18 Aug 2023 10:46:38 +0000</pubDate>
       
       <guid>https://finan.club/us/cve/</guid>
-      <description>score:119
-Chances: Higher downstream throughput and better production margins contribute to profit. Positive adjusted funds flow and free funds flow in the second quarter. Planned turnaround and production impacts in May and June due to maintenance. Strong cash generation from operating activities. Improvement in sustainability performance and methane reduction milestone.</description>
+      <description>score:29
+Chances: Cenovus Energy has shown positive earnings results in recent quarters, indicating improved financial performance. Higher downstream throughput and better production margins have contributed to Cenovus Energy&amp;rsquo;s earnings and profit estimates. The company&amp;rsquo;s ability to generate cash from operating activities and adjusted funds flow showcases its financial strength.</description>
     </item>
     
   </channel>

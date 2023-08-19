@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>financial industry on FinanClub</title>
+    <title>Financial Industry on FinanClub</title>
     <link>https://finan.club/tags/financial-industry/</link>
-    <description>Recent content in financial industry on FinanClub</description>
+    <description>Recent content in Financial Industry on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:30:50 +0000</lastBuildDate><atom:link href="https://finan.club/tags/financial-industry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:08:35 +0000</lastBuildDate><atom:link href="https://finan.club/tags/financial-industry/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NYCB</title>
-      <link>https://finan.club/us/nycb/</link>
-      <pubDate>Sat, 12 Aug 2023 06:30:50 +0000</pubDate>
+      <title>MS</title>
+      <link>https://finan.club/us/ms/</link>
+      <pubDate>Fri, 18 Aug 2023 11:08:35 +0000</pubDate>
       
-      <guid>https://finan.club/us/nycb/</guid>
-      <description>score:1065
-Chances: Highlighting high-yield dividend stocks with rapid growth, where UWM Holdings ranks as a leading mortgage lender. Announcing the hiring of Michele Celestino as EVP and Head of Commercial and Private Banking, Southeast at Flagstar Bank, N.A., a subsidiary of NYCB. Announcing the successful completion of Flagstar Bank&amp;rsquo;s MortgageTech Accelerator program by fintech graduates.</description>
+      <guid>https://finan.club/us/ms/</guid>
+      <description>score:62
+Chances: Morgan Stanley&amp;rsquo;s long-standing presence and recognition as a prestigious Wall Street investment bank alongside Goldman Sachs positions it well in the financial industry. The company&amp;rsquo;s strategic expansion efforts to focus less on capital markets-driven revenue sources indicate its adaptability to changing market trends and its commitment to maintaining profitability.</description>
+    </item>
+    
+    <item>
+      <title>BAC</title>
+      <link>https://finan.club/us/bac/</link>
+      <pubDate>Fri, 18 Aug 2023 09:33:41 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bac/</guid>
+      <description>score:62
+Chances: Bank of America&amp;rsquo;s strong fundamentals, growth prospects, and efforts to expand into new markets position it for financial stability and potential growth. The bank&amp;rsquo;s expansion in new markets, such as Colorado, reflects its strategic efforts to increase its market share and presence.</description>
     </item>
     
   </channel>

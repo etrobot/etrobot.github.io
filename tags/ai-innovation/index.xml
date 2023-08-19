@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI innovation on FinanClub</title>
+    <title>AI Innovation on FinanClub</title>
     <link>https://finan.club/tags/ai-innovation/</link>
-    <description>Recent content in AI innovation on FinanClub</description>
+    <description>Recent content in AI Innovation on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 05:43:53 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ai-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:25:39 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ai-innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CSCO</title>
-      <link>https://finan.club/us/csco/</link>
-      <pubDate>Sat, 12 Aug 2023 05:43:53 +0000</pubDate>
+      <title>JNPR</title>
+      <link>https://finan.club/us/jnpr/</link>
+      <pubDate>Fri, 18 Aug 2023 11:25:39 +0000</pubDate>
       
-      <guid>https://finan.club/us/csco/</guid>
-      <description>score:-26
-Chances: Cisco&amp;rsquo;s stock has been moving higher and On-Balance-Volume (OBV) line suggests aggressive buying. Cisco&amp;rsquo;s earnings report next week is expected to beat peers Arista and Juniper, according to Citi. Juniper Networks CEO highlights growth driven by AI innovation and differentiation in the market.</description>
+      <guid>https://finan.club/us/jnpr/</guid>
+      <description>score:156
+Chances: Juniper Networks&amp;rsquo; successful quarterly performance that exceeded revenue and profit forecasts indicates a positive outlook for the company&amp;rsquo;s financials. The introduction of Juniper&amp;rsquo;s AI platform, the Juniper Mist AI Platform, showcases the company&amp;rsquo;s innovative approach and potential for growth in the AI and networking sector.</description>
+    </item>
+    
+    <item>
+      <title>PATH</title>
+      <link>https://finan.club/us/path/</link>
+      <pubDate>Fri, 18 Aug 2023 10:44:46 +0000</pubDate>
+      
+      <guid>https://finan.club/us/path/</guid>
+      <description>score:188
+Chances: UiPath&amp;rsquo;s consistent recognition as a Leader in various assessments and reports showcases its strong positioning in the market. UiPath&amp;rsquo;s focus on enterprise automation software and robotic process automation (RPA) aligns well with the growing demand for process efficiency. Being named a Leader in the Gartner Magic Quadrant for Robotic Process Automation for five consecutive years reflects UiPath&amp;rsquo;s continued innovation and competitiveness.</description>
     </item>
     
   </channel>

@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meme stocks on FinanClub</title>
+    <title>Meme Stocks on FinanClub</title>
     <link>https://finan.club/tags/meme-stocks/</link>
-    <description>Recent content in meme stocks on FinanClub</description>
+    <description>Recent content in Meme Stocks on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 05:42:16 +0000</lastBuildDate><atom:link href="https://finan.club/tags/meme-stocks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 09:30:30 +0000</lastBuildDate><atom:link href="https://finan.club/tags/meme-stocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PTON</title>
-      <link>https://finan.club/us/pton/</link>
-      <pubDate>Sat, 12 Aug 2023 05:42:16 +0000</pubDate>
+      <title>APE</title>
+      <link>https://finan.club/us/ape/</link>
+      <pubDate>Fri, 18 Aug 2023 09:30:30 +0000</pubDate>
       
-      <guid>https://finan.club/us/pton/</guid>
-      <description>score:18
-Chances: Peloton will release its fourth quarter and full-year fiscal 2023 results. Peloton stock rose 26.3% last month, driven by bullish sentiment and favorable macroeconomic data. Retail investors&amp;rsquo; renewed interest in meme stocks is bringing attention to Peloton. Risks: Peloton remains far from being profitable and has severe fundamental weaknesses.</description>
+      <guid>https://finan.club/us/ape/</guid>
+      <description>score:88
+Chances: AMC Entertainment, once a hot meme stock, is facing challenges due to a stock conversion plan and dilution concerns. The court&amp;rsquo;s approval of the settlement for converting preferred equity units into common shares is expected to strengthen AMC&amp;rsquo;s finances. AMC&amp;rsquo;s resilience in overcoming opposition from meme investors and winning court approval indicates its determination to navigate challenges.</description>
+    </item>
+    
+    <item>
+      <title>AMC</title>
+      <link>https://finan.club/us/amc/</link>
+      <pubDate>Fri, 18 Aug 2023 09:25:16 +0000</pubDate>
+      
+      <guid>https://finan.club/us/amc/</guid>
+      <description>score:-53
+Chances: AMC was a hot meme stock in 2021, showing potential for rapid price movement. Court approval of settlement for stock conversion could strengthen AMC&amp;rsquo;s finances. Distressed movie-theater chain&amp;rsquo;s successful court approval could be seen as a positive sign. AMC&amp;rsquo;s historical price movement shows instances of significant growth in the stock.</description>
     </item>
     
   </channel>

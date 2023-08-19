@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Consumer sentiment on FinanClub</title>
+    <title>Consumer Sentiment on FinanClub</title>
     <link>https://finan.club/tags/consumer-sentiment/</link>
-    <description>Recent content in Consumer sentiment on FinanClub</description>
+    <description>Recent content in Consumer Sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 07:01:13 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:02:44 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ONON</title>
+      <link>https://finan.club/us/onon/</link>
+      <pubDate>Fri, 18 Aug 2023 11:02:44 +0000</pubDate>
+      
+      <guid>https://finan.club/us/onon/</guid>
+      <description>score:-96
+Chances: On Holding reported six consecutive record top-line quarters and raised its outlook for sales. Despite mixed second quarter results, On Holding reported very strong sales and growth in wholesale and direct-to-consumer channels. The company&amp;rsquo;s revenue beat estimates and it raised its outlook for net sales, indicating potential growth.</description>
+    </item>
+    
+    <item>
+      <title>BABA</title>
+      <link>https://finan.club/us/baba/</link>
+      <pubDate>Fri, 18 Aug 2023 09:56:07 +0000</pubDate>
+      
+      <guid>https://finan.club/us/baba/</guid>
+      <description>score:45
+Chances: Alibaba&amp;rsquo;s update to Alipay&amp;rsquo;s international interface to support overseas travelers and facilitate credit card purchases could enhance user experience and drive growth. Separating the DingTalk office communication platform from the cloud division might be a strategic move that unlocks value for Alibaba&amp;rsquo;s business units.</description>
+    </item>
+    
     <item>
       <title>EBAY</title>
       <link>https://finan.club/us/ebay/</link>

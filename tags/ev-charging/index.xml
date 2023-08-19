@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EV charging on FinanClub</title>
+    <title>EV Charging on FinanClub</title>
     <link>https://finan.club/tags/ev-charging/</link>
-    <description>Recent content in EV charging on FinanClub</description>
+    <description>Recent content in EV Charging on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:51:22 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ev-charging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 11:32:43 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ev-charging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BP</title>
+      <link>https://finan.club/us/bp/</link>
+      <pubDate>Fri, 18 Aug 2023 11:32:43 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bp/</guid>
+      <description>score:8
+Chances: BP&amp;rsquo;s joint venture, Jio-bp, is expanding its EV charging network in India, which could contribute to future growth. BP&amp;rsquo;s consideration of constructing two offshore wind farms without government assistance shows its commitment to renewable energy. BP&amp;rsquo;s joint venture with Jio-bp indicates a focus on expanding its presence in the growing EV charging market.</description>
+    </item>
+    
     <item>
       <title>CHPT</title>
       <link>https://finan.club/us/chpt/</link>
-      <pubDate>Sat, 12 Aug 2023 06:51:22 +0000</pubDate>
+      <pubDate>Fri, 18 Aug 2023 11:28:56 +0000</pubDate>
       
       <guid>https://finan.club/us/chpt/</guid>
-      <description>score:102
-Chances: ChargePoint announced it will release its Q2 fiscal year 2024 financial results on September 6, 2023. Significant investment in technology to deliver nearly 100% charging station reliability. Positive outlook for the EV charging landscape in the second half of the year.</description>
+      <description>score:62
+Chances: ChargePoint&amp;rsquo;s position in the EV charging market and its networked hardware and software solutions could lead to growth opportunities. The appointment of Sherice Torres as Chief Marketing Officer could contribute to ChargePoint&amp;rsquo;s marketing efforts during a period of EV ecosystem growth.</description>
     </item>
     
   </channel>
