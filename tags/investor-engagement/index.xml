@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investor Engagement on FinanClub</title>
+    <title>investor engagement on FinanClub</title>
     <link>https://finan.club/tags/investor-engagement/</link>
-    <description>Recent content in Investor Engagement on FinanClub</description>
+    <description>Recent content in investor engagement on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 11:34:02 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-engagement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 10:13:10 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-engagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABCM</title>
+      <link>https://finan.club/us/abcm/</link>
+      <pubDate>Sun, 27 Aug 2023 10:13:10 +0000</pubDate>
+      
+      <guid>https://finan.club/us/abcm/</guid>
+      <description>score:3
+Chances: Abcam reports successful execution of strategic priorities. Company outperforms and earns positive recognition in Q2. Announcement of review of strategic alternatives. Strong investor engagement and positive analyst opinions. Expansion of collaboration to advance research with NanoString. Risks: Potential impact of AIM delisting on stock performance.</description>
+    </item>
+    
     <item>
       <title>HMY</title>
       <link>https://finan.club/us/hmy/</link>
@@ -15,46 +25,6 @@
       <guid>https://finan.club/us/hmy/</guid>
       <description>score:63
 Chances: Harmony Gold&amp;rsquo;s upgraded Zacks Rank #2 (Buy) suggests growing optimism about the company&amp;rsquo;s earnings prospects, potentially driving the stock higher. Presentations from virtual investor conferences and opportunities for online viewing may indicate efforts to engage with investors and provide insights into the company&amp;rsquo;s vision.</description>
-    </item>
-    
-    <item>
-      <title>AUR</title>
-      <link>https://finan.club/us/aur/</link>
-      <pubDate>Fri, 18 Aug 2023 11:10:39 +0000</pubDate>
-      
-      <guid>https://finan.club/us/aur/</guid>
-      <description>score:21
-Chances: Aurora Innovation (AUR) has made significant financial improvements, as evident from its narrowed net loss in the first half of 2023. Participation in industry conferences, such as the Canaccord Genuity Annual Growth Conference, showcases Aurora&amp;rsquo;s efforts to engage with investors and stakeholders.</description>
-    </item>
-    
-    <item>
-      <title>CSX</title>
-      <link>https://finan.club/us/csx/</link>
-      <pubDate>Fri, 18 Aug 2023 11:05:57 +0000</pubDate>
-      
-      <guid>https://finan.club/us/csx/</guid>
-      <description>score:81
-Chances: CSX is addressing safety concerns after the unfortunate deaths of two conductor trainees by recalling about 350 people for additional training, demonstrating the company&amp;rsquo;s commitment to improving safety practices. CSX&amp;rsquo;s participation in the Deutsche Bank 2023 Transportation Conference signals the company&amp;rsquo;s engagement with investors and the industry, which could provide an opportunity for strategic announcements or insights.</description>
-    </item>
-    
-    <item>
-      <title>ENVX</title>
-      <link>https://finan.club/us/envx/</link>
-      <pubDate>Fri, 18 Aug 2023 10:54:05 +0000</pubDate>
-      
-      <guid>https://finan.club/us/envx/</guid>
-      <description>score:38
-Chances: Enovix Corporation announced its participation in investor conferences, indicating efforts to engage with the investment community. Enovix made significant progress in scaling operations during the second quarter, producing more units than planned. Enovix&amp;rsquo;s advanced battery modeling and machine learning efforts in India could accelerate the company&amp;rsquo;s product development roadmap.</description>
-    </item>
-    
-    <item>
-      <title>HPE</title>
-      <link>https://finan.club/us/hpe/</link>
-      <pubDate>Fri, 18 Aug 2023 10:01:57 +0000</pubDate>
-      
-      <guid>https://finan.club/us/hpe/</guid>
-      <description>score:39
-Chances: Hewlett Packard Enterprise announced a transition plan for CFO Tarek Robbiati, indicating strategic changes within the company. The expansion of phoenixNAP&amp;rsquo;s Bare Metal Cloud platform with HPE ProLiant RL300 Gen11 servers highlights increased demand for HPE&amp;rsquo;s cloud solutions. HPE&amp;rsquo;s live audio webcast of its fiscal third-quarter financial results conference call indicates transparency and engagement with investors.</description>
     </item>
     
   </channel>

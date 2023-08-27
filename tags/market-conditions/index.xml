@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Market Conditions on FinanClub</title>
+    <title>market conditions on FinanClub</title>
     <link>https://finan.club/tags/market-conditions/</link>
-    <description>Recent content in Market Conditions on FinanClub</description>
+    <description>Recent content in market conditions on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 10:42:14 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 08:55:28 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-conditions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>RIG</title>
-      <link>https://finan.club/us/rig/</link>
-      <pubDate>Fri, 18 Aug 2023 10:42:14 +0000</pubDate>
+      <title>AMD</title>
+      <link>https://finan.club/us/amd/</link>
+      <pubDate>Sun, 27 Aug 2023 08:55:28 +0000</pubDate>
       
-      <guid>https://finan.club/us/rig/</guid>
-      <description>score:-149
-Chances: Transocean expects adjusted contract drilling revenues of $720 million in Q3 2023, which could positively impact its financial performance. Contracts with Eni and BP could provide Transocean with new business opportunities and revenue streams. Positive market conditions and an uptrend in the market could benefit Transocean&amp;rsquo;s performance, especially with a focus on growth stocks.</description>
+      <guid>https://finan.club/us/amd/</guid>
+      <description>score:28
+Chances: AMD acquires French AI software company Mipsology, showcasing innovation and growth in partnerships. AMD showcases continued enterprise data center momentum with EPYC CPUs and Pensando DPUs. New AMD Radeon RX graphics cards deliver high-performance gaming experiences, potentially driving sales. AMD strengthens Amazon&amp;rsquo;s EC2 instances with EPYC processors, expanding its market presence.</description>
     </item>
     
   </channel>

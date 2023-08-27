@@ -1,20 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Market Performance on FinanClub</title>
+    <title>market performance on FinanClub</title>
     <link>https://finan.club/tags/market-performance/</link>
-    <description>Recent content in Market Performance on FinanClub</description>
+    <description>Recent content in market performance on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 10:31:05 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-performance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 10:31:19 +0000</lastBuildDate><atom:link href="https://finan.club/tags/market-performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MRVL</title>
-      <link>https://finan.club/us/mrvl/</link>
-      <pubDate>Fri, 18 Aug 2023 10:31:05 +0000</pubDate>
+      <title>SCHW</title>
+      <link>https://finan.club/us/schw/</link>
+      <pubDate>Sun, 27 Aug 2023 10:31:19 +0000</pubDate>
       
-      <guid>https://finan.club/us/mrvl/</guid>
-      <description>score:93
-Chances: Marvell Technology&amp;rsquo;s recent positive trading sessions and consistent performance indicate a potential upward trend in the stock&amp;rsquo;s value. The introduction of the 5nm multi-gigabit copper Ethernet PHY technology platform could position Marvell Technology as a leader in data infrastructure semiconductor solutions.</description>
+      <guid>https://finan.club/us/schw/</guid>
+      <description>score:39
+Chances: Schwab Q3 trader sentiment survey indicates improving outlook. Bond investors show confidence in Schwab after cost-cutting. Acquisitions to aid Schwab&amp;rsquo;s top line amid cost woes. Schwab&amp;rsquo;s asset growth slows down. Crypto exchange EDX Markets taps Anchorage as custody provider. Risks: Schwab caught up in banking selloff.</description>
+    </item>
+    
+    <item>
+      <title>ASX</title>
+      <link>https://finan.club/us/asx/</link>
+      <pubDate>Sun, 27 Aug 2023 09:28:03 +0000</pubDate>
+      
+      <guid>https://finan.club/us/asx/</guid>
+      <description>score:175
+Chances: ASE Technology Holding achieves the best overall performance on the Dow Jones Sustainability Indices. ASE&amp;rsquo;s Bumping Factory in Kaohsiung, Taiwan inducted into the World Economic Forum’s Global Lighthouse Network. ASE announces advancements under the VIPack™ Platform. ASX reports positive Q2 2023 earnings results.</description>
+    </item>
+    
+    <item>
+      <title>MSFT</title>
+      <link>https://finan.club/us/msft/</link>
+      <pubDate>Sun, 27 Aug 2023 09:16:45 +0000</pubDate>
+      
+      <guid>https://finan.club/us/msft/</guid>
+      <description>score:49
+Chances: Nvidia&amp;rsquo;s AI-fueled quarter marks the beginning of a new computing era. Microsoft&amp;rsquo;s revised deal to obtain UK approval for Activision acquisition. Positive performance of AI stocks, with Nvidia earnings boosting the sector. Continued growth of major technology companies despite market challenges.</description>
+    </item>
+    
+    <item>
+      <title>BAC</title>
+      <link>https://finan.club/us/bac/</link>
+      <pubDate>Sun, 27 Aug 2023 08:59:01 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bac/</guid>
+      <description>score:-25
+Chances: Bank of America may be a buy due to its upcoming dividend payout. Expansion of credit card cashback rewards and benefits for customers. Positive growth and gains in trading desks for Bank of America. Enhancements in credit card rewards for electric vehicle owners.</description>
+    </item>
+    
+    <item>
+      <title>NIO</title>
+      <link>https://finan.club/us/nio/</link>
+      <pubDate>Sun, 27 Aug 2023 08:58:26 +0000</pubDate>
+      
+      <guid>https://finan.club/us/nio/</guid>
+      <description>score:-51
+Chances: Positive gains for NIO Inc. despite market performance. Announcement of strong vehicle deliveries for NIO in July 2023. Potential for NIO stock to accelerate higher due to positive news. Solid-state innovation defining a new era in EVs for NIO. Strategic equity investment from CYVN benefiting NIO Inc.</description>
     </item>
     
     <item>

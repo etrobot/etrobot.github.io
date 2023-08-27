@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analyst Sentiment on FinanClub</title>
+    <title>analyst sentiment on FinanClub</title>
     <link>https://finan.club/tags/analyst-sentiment/</link>
-    <description>Recent content in Analyst Sentiment on FinanClub</description>
+    <description>Recent content in analyst sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 11:27:01 +0000</lastBuildDate><atom:link href="https://finan.club/tags/analyst-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 10:30:10 +0000</lastBuildDate><atom:link href="https://finan.club/tags/analyst-sentiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>VRT</title>
-      <link>https://finan.club/us/vrt/</link>
-      <pubDate>Fri, 18 Aug 2023 11:27:01 +0000</pubDate>
+      <title>NYCB</title>
+      <link>https://finan.club/us/nycb/</link>
+      <pubDate>Sun, 27 Aug 2023 10:30:10 +0000</pubDate>
       
-      <guid>https://finan.club/us/vrt/</guid>
-      <description>score:-37
-Chances: The average brokerage recommendation for Vertiv Holdings Co. (VRT) is equivalent to a Buy, indicating positive sentiment among analysts. Despite economic challenges, the US market has experienced a significant boom, potentially benefiting VRT&amp;rsquo;s performance. Positive earnings estimate revisions and the potential for solid earnings growth indicate a favorable outlook for VRT&amp;rsquo;s near-term performance.</description>
+      <guid>https://finan.club/us/nycb/</guid>
+      <description>score:24
+Chances: NYCB reports Q2 earnings beat, stock rises by 5.1%. Expansion of private banking business with hires and acquisitions. Positive response to the company&amp;rsquo;s quarterly cash dividend on preferred stock. Analysts bullish on bank growth and share potential. Successful implementation of AFSVision® at Flagstar Bank.</description>
+    </item>
+    
+    <item>
+      <title>PINS</title>
+      <link>https://finan.club/us/pins/</link>
+      <pubDate>Sun, 27 Aug 2023 10:19:48 +0000</pubDate>
+      
+      <guid>https://finan.club/us/pins/</guid>
+      <description>score:30
+Chances: Pinterest&amp;rsquo;s focus on teen safety features and user experience enhancements. Positive sentiment from analysts and investors for Pinterest&amp;rsquo;s growth potential. Strong performance in Q2 with revenue beating estimates and improved margins. Advertising benefits from &amp;lsquo;clean, wholesome content&amp;rsquo; on the platform. Anticipation for Pinterest Investor Day event in September 2023.</description>
+    </item>
+    
+    <item>
+      <title>JD</title>
+      <link>https://finan.club/us/jd/</link>
+      <pubDate>Sun, 27 Aug 2023 10:10:58 +0000</pubDate>
+      
+      <guid>https://finan.club/us/jd/</guid>
+      <description>score:-2
+Chances: JD.com beats earnings estimates despite China&amp;rsquo;s economic challenges. Strong net profit growth in the second quarter. Partnership with Gucci and digital flagship store launch. Positive sentiment from Wall Street analysts. Investment potential in high-growth tech stocks. Risks: JD.com stock impacted by China&amp;rsquo;s economic slowdown.</description>
     </item>
     
     <item>
