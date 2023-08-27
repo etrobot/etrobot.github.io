@@ -1,37 +1,41 @@
 
 ---
-title: "1100 UPST"
+title: "UPST"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:23:06
+date: 2023-08-27T10:35:18
 draft: true
-tags: ['Upstart Holdings Inc.', 'UPST', 'Artificial Intelligence', 'Fintech', 'Consumer Lending']
+tags: ['earnings performance', 'financial technology', 'market volatility', 'AI stocks', 'growth potential']
 author: Friday Wall
 ---
 
-score:1100
+score:-54
 ### Chances:
-1. Upstart has experienced an impressive rally, with its stock up more than 450% since May 1, driven by excitement over artificial intelligence, signs of an economic recovery, and a short squeeze.
-2. Upstart is a leader in alternative loan approval methods, utilizing AI to assess borrowers' creditworthiness and make unbiased opinions on loan default risks, making it a hot commodity associated with artificial intelligence.
-3. Castlelake's promise to buy as much as $4 billion in consumer loans from Upstart in May has triggered a rally, giving investors confidence in the company's future prospects.
+1. Upstart's Q2 earnings and revenues surpass estimates.
+2. Selected by Farmers Insurance Federal Credit Union for personal lending.
+3. Potential for significant upside due to AI technology in the financial sector.
+4. Stock's impressive rally of over 400% since May 2023.
+5. Strong performance among the best performing stocks in the last 3 and 6 months.
 ### Risks:
-1. Upstart's stock is highly volatile and seen as a leveraged bet on the health of the overall economy and the strength of the credit market, which may lead to significant price fluctuations.
-2. The AI-driven consumer lending company's valuation has been fueled by AI hype, leading some investors to be skeptical about its current valuation and short the stock.
-3. As an early-stage growth company, Upstart is yet to produce consistent profits, making it a riskier investment option for some investors.
-### Score:1100
-chances characters count - risks characters count = 100
+1. Volatility and sudden drops in stock price impacting investor sentiment.
+2. Potential for significant market fluctuations affecting growth stocks.
+3. Market perception and uncertainty surrounding AI stocks and their valuations.
+4. Risk of relying heavily on AI technology, which may face regulatory or technological challenges.
+5. Concerns about the sustainability of the stock's rapid price appreciation.
+### Score:-54
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:UPST">}}
 ### References:
-- 2023-08-05 [This AI Stock Is Up Over 400% Since May -- Is It Too Late to Buy?](https://finance.yahoo.com/m/3193c631-d9a5-3897-84a5-46c2554e3e78/this-ai-stock-is-up-over-400%25.html?.tsrc=rss)
-- 2023-08-04 [Why Upstart Stock Soared 92% in July](https://finance.yahoo.com/m/8314a68b-b56c-37e3-8214-26060ba6deb3/why-upstart-stock-soared-92%25.html?.tsrc=rss)
-- 2023-08-04 [This Short Squeeze Candidate Could Actually Pan Out in the Long-Run](https://finance.yahoo.com/m/113b25a3-5ead-3406-afe8-2f246c3ad822/this-short-squeeze-candidate.html?.tsrc=rss)
-- 2023-08-03 [Upstart Is Up 400% Since May. Is It Time to Sell?](https://finance.yahoo.com/m/b5de22d8-04be-3f4d-8784-b8d2530c9ddb/upstart-is-up-400%25-since-may..html?.tsrc=rss)
-- 2023-08-02 [This AI Stock Got Hot in July -- Can Its Win Streak Continue Through August and Beyond?](https://finance.yahoo.com/m/62173510-7afe-3988-bc70-d0b56da47cc5/this-ai-stock-got-hot-in-july.html?.tsrc=rss)
-- 2023-08-02 [Upstart Stock: Bear vs. Bull](https://finance.yahoo.com/m/932ec5cf-f844-32b7-9d1b-8ff8e4deb23a/upstart-stock%3A-bear-vs.-bull.html?.tsrc=rss)
-- 2023-08-01 [Upstart Stock Is on Fire, but This Could Be a Big Warning Sign](https://finance.yahoo.com/m/d86d0b1f-e928-3e56-b536-ff397d4b5355/upstart-stock-is-on-fire%2C-but.html?.tsrc=rss)
-- 2023-07-30 [Surprise! Upstart Stock Is Up 391%: What You Need to Know Before Buying or Selling](https://finance.yahoo.com/m/cef20026-afb9-3799-883a-0796e0bff749/surprise%21-upstart-stock-is-up.html?.tsrc=rss)
-- 2023-07-29 [Why Upstart Stock Popped This Week](https://finance.yahoo.com/m/b8f1ab2c-4875-31e8-959b-ff35100fd79d/why-upstart-stock-popped-this.html?.tsrc=rss)
-- 2023-07-28 [2 Top Tech Stocks to Buy Right Now](https://finance.yahoo.com/m/6542340a-550f-348c-bd93-9430c11cc767/2-top-tech-stocks-to-buy.html?.tsrc=rss)
+- 2023-08-25 [Have $1,000? These 2 Stocks Could Be Bargain Buys for 2023 and Beyond](https://finance.yahoo.com/m/12c6742c-be6b-3476-bf7b-7cd0a2d41df5/have-%241%2C000%3F-these-2-stocks.html?.tsrc=rss)
+- 2023-08-25 [1 Reason Upstart Stock Is a Screaming Buy, and 1 Reason to Avoid It Like the Plague](https://finance.yahoo.com/m/9a4c5f2b-aad1-3ec6-bc5f-7a651278aa0f/1-reason-upstart-stock-is-a.html?.tsrc=rss)
+- 2023-08-23 [A Bull Market Is Coming: 2 Beaten-Down Growth Stocks With 135% and 121% Upside, According to Wall Street](https://finance.yahoo.com/m/d65b2fc8-4620-306d-a06f-b8686970dd64/a-bull-market-is-coming%3A-2.html?.tsrc=rss)
+- 2023-08-20 [This AI Stock Just Crashed More Than 55%. Should You Buy?](https://finance.yahoo.com/m/f6581efc-b223-3862-9e0a-cc5d3f69a6e8/this-ai-stock-just-crashed.html?.tsrc=rss)
+- 2023-08-20 [Bargain Hunting for Artificial Intelligence (AI) Stocks: Down 56%, Upstart Might Be a Buy](https://finance.yahoo.com/m/0dc624f0-03ed-3bb7-a33e-9018992d5044/bargain-hunting-for.html?.tsrc=rss)
+- 2023-08-18 [Can Upstart Become a Trillion-Dollar Stock by 2050?](https://finance.yahoo.com/m/7b2c5edf-1ff5-38ec-86c1-f705a5cafb30/can-upstart-become-a.html?.tsrc=rss)
+- 2023-08-17 [Bet on the AI Gold Rush’s Next Phase With These 3 Stocks](https://finance.yahoo.com/news/bet-ai-gold-rush-next-131330147.html?.tsrc=rss)
+- 2023-08-17 [15 Best Performing Stocks in the Last 3 Months](https://finance.yahoo.com/news/15-best-performing-stocks-last-191221906.html?.tsrc=rss)
+- 2023-08-16 [Farmers Insurance Federal Credit Union Selects Upstart for Personal Lending](https://finance.yahoo.com/news/farmers-insurance-federal-credit-union-130000934.html?.tsrc=rss)
+- 2023-08-16 [15 Best Performing Stocks in the Last 6 Months](https://finance.yahoo.com/news/15-best-performing-stocks-last-103533111.html?.tsrc=rss)
 
 
                 

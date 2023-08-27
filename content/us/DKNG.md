@@ -1,38 +1,41 @@
 
 ---
-title: "1077 DKNG"
+title: "DKNG"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:45:24
+date: 2023-08-27T10:03:45
 draft: true
-tags: ['DraftKings Inc.', 'DKNG', 'earnings', 'revenue', 'sports betting']
+tags: ['expansion', 'analyst recommendations', 'industry growth', 'partnerships', 'market volatility']
 author: Friday Wall
 ---
 
-score:1077
+score:-10
 ### Chances:
-1. DraftKings stock soared after blowing away Q2 estimates and raising its revenue outlook for the second quarter in a row.
-2. Shares of DraftKings surged as the company reported second-quarter sales that beat estimates and raised its full-year forecast.
-3. The sports betting company posted strong Q2 revenue, beating expectations, indicating potential gains for investors.
-4. DraftKings delivered earnings and revenue surprises for the quarter ended June 2023, with positive clues for the stock's future.
+1. Expansion into new markets, such as opening casinos and online gaming products.
+2. Positive analyst outlook and investment recommendations.
+3. Potential growth in the sports betting and gambling industry.
+4. Partnership announcements with major media companies like ESPN.
+5. Strong investor interest and bullish sentiment.
 ### Risks:
-1. Apple's sales falling and the outlook for similar performance may impact investor sentiment in the tech sector, which could indirectly affect DraftKings.
-2. Cybersecurity stocks selling off may lead to market volatility and influence investor confidence in high-growth sectors like sports betting.
-3. The slowdown in job growth could potentially impact consumer spending, including on sports betting platforms like DraftKings.
-### Score:1077
-chances characters count - risks characters count = 77
+1. Stock price fluctuations due to market reactions to industry news.
+2. Competition and potential impact from deals with other companies.
+3. Downside risk of potential downsides in partnership deals.
+4. Negative market response to certain company developments.
+5. Cyclical nature of gambling industry and potential regulatory changes.
+### Score:-10
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:DKNG">}}
 ### References:
-- 2023-08-05 [Apple, Amazon, Icahn Enterprises, Fortinet, Block, and More Stock Market Movers](https://finance.yahoo.com/m/571df705-e208-307e-9f34-e9a0be23c335/apple%2C-amazon%2C-icahn.html?.tsrc=rss)
-- 2023-08-05 [DraftKings Stock Rallies On Earnings Surprise, Raised Sales Outlook](https://finance.yahoo.com/m/5f818ab4-7243-3699-9be0-0fdba247329f/draftkings-stock-rallies-on.html?.tsrc=rss)
-- 2023-08-05 [Dow Jones, Other Indexes Reverse Lower As Apple Falls Below Key Level](https://finance.yahoo.com/m/f1fee323-a338-3770-ad6a-32013f2a791a/dow-jones%2C-other-indexes.html?.tsrc=rss)
-- 2023-08-05 [DraftKings (DKNG) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/d5910d98-3e61-3416-b808-1e2c0dd51099/draftkings-%28dkng%29-q2-2023.html?.tsrc=rss)
-- 2023-08-04 [Stocks to Watch Friday: Amazon.com, Apple, Icahn Enterprises, Block](https://finance.yahoo.com/m/bb81fbf9-1376-3661-9fea-6d6d31369f60/stocks-to-watch-friday%3A.html?.tsrc=rss)
-- 2023-08-04 [DraftKings stock jumps on Q2 sales beat, upbeat forecast](https://finance.yahoo.com/video/draftkings-stock-jumps-q2-sales-140540427.html?.tsrc=rss)
-- 2023-08-04 [Midday movers: Amazon, Airbnb, DraftKings, Tupperware and more](https://finance.yahoo.com/news/amazon-draftkings-dropbox-rise-premarket-074501679.html?.tsrc=rss)
-- 2023-08-04 [Dow Jones Futures Await Jobs Report; Amazon Soars On Earnings, AI Outlook As Apple Falls](https://finance.yahoo.com/m/c091c459-9810-3e32-a480-116ee9292c56/dow-jones-futures-await-jobs.html?.tsrc=rss)
-- 2023-08-04 [5 Things to Know Before Markets Open](https://finance.yahoo.com/m/54d9a6c6-36a3-3a87-946f-bc20e1c662c7/5-things-to-know-before.html?.tsrc=rss)
-- 2023-08-04 [I'm Crowning DraftKings With a Second, Higher Price Target as It Turns a Profit](https://finance.yahoo.com/m/0bc2cb52-4aa3-3a2e-9f41-07966ccb1969/i%27m-crowning-draftkings-with.html?.tsrc=rss)
+- 2023-08-26 [Best Cathie Wood Stocks To Watch: Tesla Stock Races Higher Despite Powell Warning](https://finance.yahoo.com/m/19db7803-978a-3a92-80fc-8825bcb3a05c/best-cathie-wood-stocks-to.html?.tsrc=rss)
+- 2023-08-25 [Zacks Industry Outlook Highlights MGM Resorts International and DraftKings](https://finance.yahoo.com/news/zacks-industry-outlook-highlights-mgm-121300204.html?.tsrc=rss)
+- 2023-08-24 [2 Gaming Stocks to Buy From a Promising Industry](https://finance.yahoo.com/news/2-gaming-stocks-buy-promising-141000659.html?.tsrc=rss)
+- 2023-08-23 [Can DraftKings Maintain Its Super Status After the ESPN Bet Announcement?](https://finance.yahoo.com/m/862979b3-e32a-34aa-a70d-982eea88bcdd/can-draftkings-maintain-its.html?.tsrc=rss)
+- 2023-08-22 [DraftKings' (DKNG) Golden Nugget Opens Casino in Pennsylvania](https://finance.yahoo.com/news/draftkings-dkng-golden-nugget-opens-151900657.html?.tsrc=rss)
+- 2023-08-21 [Golden Nugget Online Gaming Debuts Online Casino Product in Pennsylvania](https://finance.yahoo.com/news/golden-nugget-online-gaming-debuts-120000714.html?.tsrc=rss)
+- 2023-08-18 [Brokers Suggest Investing in DraftKings (DKNG): Read This Before Placing a Bet](https://finance.yahoo.com/news/brokers-suggest-investing-draftkings-dkng-133007993.html?.tsrc=rss)
+- 2023-08-18 [3 Gambling Stocks to Buy as NFL Preseason Kicks Off](https://finance.yahoo.com/news/3-gambling-stocks-buy-nfl-212054307.html?.tsrc=rss)
+- 2023-08-16 [3 Best Stocks to Set You Up for Early Retirement](https://finance.yahoo.com/m/ba0d21c1-135d-3715-81d4-e81da6a9c7b2/3-best-stocks-to-set-you-up.html?.tsrc=rss)
+- 2023-08-15 [ESPN reportedly wanted so much more than it actually got in the ESPN Bet deal with Penn](https://finance.yahoo.com/m/f791e6a0-0d83-3ab7-930c-6fbf171ad9da/espn-reportedly-wanted-so.html?.tsrc=rss)
 
 
                 

@@ -1,28 +1,28 @@
 
 ---
-title: "0791 GT"
+title: " GT"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T12:04:22
+date: 2023-08-08T07:20:55
 draft: true
-tags: ['The Goodyear Tire & Rubber Company', 'GT', 'Earnings Call', 'Quarterly Loss', 'Activist Investor']
+tags: ['Earnings Call', 'Financial Performance', 'Strategic Review', 'Activist Shareholder', 'Raw Material Prices']
 author: Friday Wall
 ---
 
-score:791
+score:700
 ### Chances:
-1. Goodyear India reported a higher quarterly profit as a drop in raw material prices helped make up for its first revenue fall in 12 quarters.
-2. The Goodyear Tire & Rubber Company reported results for the second quarter 2023 in an Investor Letter.
-3. Goodyear announced enhancements to its Board of Directors in connection with a cooperation agreement with activist shareholder Elliott Investment Management.
+1. Goodyear India reported higher profit due to a drop in raw material prices, which could potentially improve the company's financial position.
+2. Goodyear is taking steps to enhance its Board of Directors and undergo a strategic and operational review, which could lead to positive changes for the company's performance.
 ### Risks:
-1. Goodyear lost $0.34 per share on an adjusted basis in the second quarter, missing analyst expectations for a $0.16-per-share profit.
-2. Shares of Goodyear traded down as much as 22% on Thursday after the company posted an unexpected quarterly loss.
-3. Activist shareholder Elliott Investment Management called for changes to strengthen the company's financial position.
-4. Goodyear's unexpected quarterly loss and lower revenue from operations pose risks to the company's financial performance.
-5. The strategic and operational review committee established by Goodyear may lead to uncertain outcomes for the company.
-### Score:791
-chances characters count - risks characters count = -209
+1. Goodyear reported an unexpected quarterly loss, which led to a significant drop in its stock price.
+2. The company's revenue and profit fell short of analyst expectations, indicating potential challenges in its financial performance.
+3. Low demand and a revenue fall in India could impact Goodyear's overall revenue and profitability.
+4. Activist shareholder involvement and changes to the company's leadership and strategic direction could lead to uncertainty in Goodyear's future.
+5. The volatility of the automotive industry and fluctuations in raw material prices could pose risks to Goodyear's financial stability.
+### Score:700
+chances characters count - risks characters count = -300
 
 investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:GT">}}
 ### References:
 - 2023-08-05 [The Goodyear Tire & Rubber Company (NASDAQ:GT) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/goodyear-tire-rubber-company-nasdaq-112556600.html?.tsrc=rss)
 - 2023-08-04 [Q2 2023 Goodyear Tire & Rubber Co Earnings Call](https://finance.yahoo.com/news/q2-2023-goodyear-tire-rubber-032205807.html?.tsrc=rss)

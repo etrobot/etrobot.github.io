@@ -1,41 +1,42 @@
 
 ---
-title: "1143 CMCSA"
+title: "CMCSA"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:18:53
+date: 2023-08-27T09:33:17
 draft: true
-tags: ['Comcast Corporation', 'CMCSA', 'Entertainment Industry', 'Advertising Market', 'Sports Partnerships']
+tags: ['connectivity expansion', 'small business support', 'cord-cutting', 'industry events', 'competition']
 author: Friday Wall
 ---
 
-score:1143
+score:-21
 ### Chances:
-1. Comcast partnered with NBCUniversal Telemundo Enterprises and Women in Sports Tech to celebrate the FIFA Women's World Cup, which could enhance the company's brand image and engagement with sports fans.
-2. Go Addressable and Advertiser Perceptions released findings on the growth and adoption of addressable advertising, which could indicate potential opportunities for Comcast in the advertising market.
-3. Comcast's movie 'Oppenheimer' achieved a domestic box office of $46.2 million, contributing to the company's entertainment segment revenues.
-4. Rosenblatt upgraded Pinterest to Buy and mentioned that the company is 'leaning into building better ad tools and employing better AI engines,' which could signal potential synergies or collaboration opportunities for Comcast.
-5. Charter stock was upgraded to Outperform, which could suggest positive developments in the cable and broadband industry, benefiting Comcast as a major player in the sector.
+1. Comcast expands Xfinity 10G Network, boosting connectivity.
+2. Comcast RISE initiative supports small businesses with grant packages.
+3. Comcast completes broadband expansion, enhancing services to towns.
+4. Participation in industry events like Essence Festival and film festivals.
+5. Comcast partners with libraries to boost Wi-Fi and connectivity.
 ### Risks:
-1. Warner Bros. Discovery's disappointing Q2 earnings and concerns about the advertising environment could indirectly impact Comcast, given the media industry dynamics.
-2. Concerns about the ongoing Hollywood writers' and actors' strikes may affect content production and distribution, potentially affecting Comcast's entertainment business.
-3. The competition in the entertainment industry is fierce, with consumers having more entertainment options, which may pose challenges to Comcast in attracting and retaining audiences.
-4. The overall performance and challenges in the legacy media industry may influence investor sentiment and potentially impact Comcast's stock price.
-5. The uncertain trajectory of the FIFA Women's World Cup and its impact on Comcast's brand and revenue remains a potential risk factor.
-### Score:1143
-chances characters count - risks characters count = 143
+1. Cable subscriber losses due to cord-cutting trend in the industry.
+2. Competition from streaming services and changing TV consumption habits.
+3. Potential economic impact of Hollywood strikes on entertainment industry.
+4. Price hikes by streaming platforms raising concerns about customer loyalty.
+5. Market sentiment changes affecting the stock due to industry dynamics.
+### Score:-21
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:CMCSA">}}
 ### References:
-- 2023-08-04 [Lifting Up the Next Generation of Women in Sports and Technology](https://finance.yahoo.com/news/lifting-next-generation-women-sports-160800239.html?.tsrc=rss)
-- 2023-08-03 [WBD earnings miss: Ad environment is 'just not picking up," analyst says](https://finance.yahoo.com/video/wbd-earnings-miss-ad-environment-140502722.html?.tsrc=rss)
-- 2023-08-03 [4 big analyst picks: Pinterest upped to Buy after Q2 beat](https://finance.yahoo.com/news/4-big-analyst-picks-pinterest-051754419.html?.tsrc=rss)
-- 2023-08-02 [Comcast, Charter Shares Get Upgrades. Analyst Says a Wireless Threat Is Fading.](https://finance.yahoo.com/m/b22b59a5-2bd6-3adf-b9ff-8e10693415c9/comcast%2C-charter-shares-get.html?.tsrc=rss)
-- 2023-08-02 [AMD upgraded, Electronic Arts downgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/amd-upgraded-electronic-arts-downgraded-135653412.html?.tsrc=rss)
-- 2023-08-02 [Much of Comcast's Q2 Profit Growth Came From 2 Businesses -- and That's a Problem for the Stock](https://finance.yahoo.com/m/4172b3ee-4540-3fc9-afe2-267c5bb8f533/much-of-comcast%27s-q2-profit.html?.tsrc=rss)
-- 2023-08-02 [New Go Addressable and Advertiser Perceptions Research Finds 73% of Advertisers Now Use Addressable TV Advertising](https://finance.yahoo.com/news/addressable-advertiser-perceptions-research-finds-162400761.html?.tsrc=rss)
-- 2023-08-01 [Serving Those Who Served: Comcast NBCUniversal Recognizes National Hire a Veteran Day](https://finance.yahoo.com/news/serving-those-served-comcast-nbcuniversal-141500873.html?.tsrc=rss)
-- 2023-08-01 [The Zacks Analyst Blog Highlights Tesla, Comcast, Intuit, Intel and Old Dominion Freight Line](https://finance.yahoo.com/news/zacks-analyst-blog-highlights-tesla-113400037.html?.tsrc=rss)
-- 2023-08-01 [Movie Industry Really Needs ‘Barbenheimer’ to Stretch Its Legs](https://finance.yahoo.com/m/2538277e-d957-313d-8c97-3b182847e51d/movie-industry-really-needs.html?.tsrc=rss)
+- 2023-08-26 [Amazon, Disney discussing ESPN streaming deal: Report](https://finance.yahoo.com/video/amazon-disney-discussing-espn-streaming-202622848.html?.tsrc=rss)
+- 2023-08-25 [Comcast and Pikes Peak Library District Partner to Boost Library Wi-Fi](https://finance.yahoo.com/news/comcast-pikes-peak-library-district-202405859.html?.tsrc=rss)
+- 2023-08-25 [The Transformative Power of the Affordable Connectivity Program](https://finance.yahoo.com/news/transformative-power-affordable-connectivity-program-191500229.html?.tsrc=rss)
+- 2023-08-25 [Alphabet (GOOGL) Expands Free Streaming Lineup on Google TV](https://finance.yahoo.com/news/alphabet-googl-expands-free-streaming-162200165.html?.tsrc=rss)
+- 2023-08-24 [Nvidia results, Russia plane crash, India moon landing: Top stories](https://finance.yahoo.com/video/nvidia-results-russia-plane-crash-214125030.html?.tsrc=rss)
+- 2023-08-24 [Hollywood strikes: Studios release details of offer to WGA](https://finance.yahoo.com/video/hollywood-strikes-studios-release-details-202246164.html?.tsrc=rss)
+- 2023-08-24 [COMCAST RISE, A NATIONAL INITIATIVE TO SUPPORT AND STRENGTHEN SMALL BUSINESSES, AWARDS ANOTHER 100 PHILADELPHIA BUSINESSES WITH COMPREHENSIVE GRANT PACKAGES](https://finance.yahoo.com/news/comcast-rise-national-initiative-support-195400525.html?.tsrc=rss)
+- 2023-08-24 [Hollywood studios publish proposal to striking writers as union slams deal](https://finance.yahoo.com/news/hollywood-studios-publish-proposal-to-striking-writers-as-union-slams-deal-180247311.html?.tsrc=rss)
+- 2023-08-24 [Comcast (CMCSA) Expands Xfinity 10G Network in Spring Hill](https://finance.yahoo.com/news/comcast-cmcsa-expands-xfinity-10g-162700268.html?.tsrc=rss)
+- 2023-08-23 [100 SMALL BUSINESS OWNERS IN MULTNOMAH COUNTY 
+AWARDED GRANTS THROUGH COMCAST RISE](https://finance.yahoo.com/news/100-small-business-owners-multnomah-150000583.html?.tsrc=rss)
 
 
                 

@@ -1,5 +1,6 @@
 # import asyncio
 import json
+import re
 
 import pandas as pd
 import requests
@@ -81,18 +82,28 @@ def get_creation_time(file_path):
         return stat.st_mtime
 
 if __name__ == "__main__":
-    folder_path = "/Users/franklin/Documents/FrontEnd/cfpage/content/post/"  # 替换成你指定的文件夹路径
+    folder_path = "content/us/"  # 替换成你指定的文件夹路径
     # old_author = "Frank Lin"
     # new_author = "Frank"
     #
     # replace_author_in_md_files(folder_path, old_author, new_author)
-    sorted_files = sorted(os.listdir(folder_path), key=lambda x: get_creation_time(os.path.join(folder_path, x)))
+    # sorted_files = sorted(os.listdir(folder_path), key=lambda x: get_creation_time(os.path.join(folder_path, x)))
+    #
+    # for ff in sorted_files:
+    #     if ff.endswith('.md'):
+    #         with open(folder_path+ff, "r") as f:
+    #             content = f.read()
+    #             for line in content.split("\n"):
+    #                 if line.startswith("title:"):
+    #                     title = line[len("title:"):].strip()
+    #                     print(title+'https://aicube.fun/post/'+ff[:-3].lower().replace(' ','-'))
 
-    for ff in sorted_files:
-        if ff.endswith('.md'):
-            with open(folder_path+ff, "r") as f:
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.md'):
+            with open(folder_path + filename, "r") as f:
                 content = f.read()
-                for line in content.split("\n"):
-                    if line.startswith("title:"):
-                        title = line[len("title:"):].strip()
-                        print(title+'https://aicube.fun/post/'+ff[:-3].lower().replace(' ','-'))
+                # modified_content = re.sub(r'title: "\s*\d+', 'title: "', content)
+                modified_content = content.replace('NYSE A','AMEX')
+
+            with open(folder_path + filename, "w") as f:
+                f.write(modified_content)

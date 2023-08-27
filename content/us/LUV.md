@@ -1,38 +1,41 @@
 
 ---
-title: "0881 LUV"
+title: "LUV"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:43:44
+date: 2023-08-12T07:21:19
 draft: true
-tags: ['Southwest Airlines Co.', 'LUV', 'Travel Industry', 'Flight Schedule Extension', 'Airline Stocks']
+tags: ['Company moves', 'Legal challenges', 'Appeal', 'Pricing changes', 'Wildfires impact']
 author: Friday Wall
 ---
 
-score:881
+score:-45
 ### Chances:
-1. The National Mediation Board's denial of the Southwest pilot strike request reduces the likelihood of a strike, creating a positive outlook for the company.
-2. Southwest Airlines encourages customers to book spring break vacations with an extended flight schedule, indicating the airline's efforts to boost travel demand.
-3. Strong leisure travel demand for U.S. airlines is a chance for Southwest Airlines to capitalize on increased vacationer spending.
+1. Recent major moves indicate company activity.
+2. Appeal against the unusual court order shows determination.
+3. Interest from public due to pricing changes.
+4. In-depth analysis of financial health available.
+5. Strategic decisions affecting pricing changes.
 ### Risks:
-1. Southwest Airlines faced a holiday meltdown, and it may take time to regain customer confidence and increase travel frequency.
-2. Low-cost, domestically-focused carriers like Southwest Airlines are still facing challenges in the current earnings season for U.S. airlines.
-3. Corporate travel's slow recovery could impact Southwest Airlines' revenues, and investors may remain concerned about its potential shortfall.
-4. The U.S. Transportation Department's ongoing investigation into Southwest Airlines' December meltdown may affect the company's reputation and operations.
-### Score:881
-chances characters count - risks characters count = -119
+1. Legal challenges and controversy affecting reputation.
+2. Negative impact of court orders on company operations.
+3. Impact of legal cases on senior lawyers' training requirements.
+4. Potential disruptions caused by wildfires affecting tourism.
+5. Public attention due to legal disputes and court orders.
+### Score:-45
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:LUV">}}
 ### References:
-- 2023-08-04 [Southwest Pilots' Request to Halt Negotiations Denied](https://finance.yahoo.com/news/southwest-pilots-request-halt-negotiations-192958426.html?.tsrc=rss)
-- 2023-08-03 [SPRING BREAKING NEWS: SOUTHWEST AIRLINES TO OFFER MORE SEASONAL NONSTOP SERVICE FOR SPRING BREAK TRAVEL](https://finance.yahoo.com/news/spring-breaking-news-southwest-airlines-150000896.html?.tsrc=rss)
-- 2023-08-03 [Qualcomm downgraded, Wingstop upgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/qualcomm-downgraded-wingstop-upgraded-wall-140329294.html?.tsrc=rss)
-- 2023-08-03 [Southwest Airlines Makes a Generous Offer to Customers](https://finance.yahoo.com/m/07b22063-79ea-3297-b885-26a89443ace4/southwest-airlines-makes-a.html?.tsrc=rss)
-- 2023-08-03 [Southwest Airlines Gets a Downgrade, Spirit Earnings Miss. The Bad News Keeps Coming.](https://finance.yahoo.com/m/8c50a167-75e0-3c17-ad62-102f76c18f2d/southwest-airlines-gets-a.html?.tsrc=rss)
-- 2023-08-03 [RPT-Sluggish return of business travelers forces US airlines to rejig their networks](https://finance.yahoo.com/news/rpt-sluggish-return-business-travelers-110000157.html?.tsrc=rss)
-- 2023-08-03 [4 big analyst cuts: Qualcomm slashed on 'soft commentary' and 2024 headwinds](https://finance.yahoo.com/news/4-big-analyst-cuts-qualcomm-063541448.html?.tsrc=rss)
-- 2023-08-03 [Sluggish return of business travelers forces US airlines to rejig their networks](https://finance.yahoo.com/news/sluggish-return-business-travelers-forces-050100825.html?.tsrc=rss)
-- 2023-08-03 [UPDATE 1-US says probe into Southwest Airlines December meltdown ongoing](https://finance.yahoo.com/news/1-us-says-probe-southwest-171829325.html?.tsrc=rss)
-- 2023-08-02 [US says probe into Southwest Airlines December meltdown ongoing](https://finance.yahoo.com/news/us-says-probe-southwest-airlines-151807274.html?.tsrc=rss)
+- 2023-08-12 [Legal experts question judge's order telling Southwest lawyers to get religious-liberty training](https://finance.yahoo.com/news/legal-experts-judges-order-telling-225034952.html?.tsrc=rss)
+- 2023-08-12 [Southwest Airlines makes a big pricing change](https://finance.yahoo.com/m/62a78446-f47c-305f-b7c6-e403d3d7e6e1/southwest-airlines-makes-a.html?.tsrc=rss)
+- 2023-08-11 [Southwest Airlines Co (LUV): A Hidden Gem or a Potential Value Trap?](https://finance.yahoo.com/news/southwest-airlines-co-luv-hidden-213117811.html?.tsrc=rss)
+- 2023-08-10 [Hawaii wildfires ravage Maui island resort city, killing dozens](https://finance.yahoo.com/news/hawaii-wildfires-ravage-maui-island-125245329.html?.tsrc=rss)
+- 2023-08-09 [UPDATE 2-Southwest will appeal judge's ruling requiring 'religious liberty training'](https://finance.yahoo.com/news/1-us-judge-orders-southwest-181445260.html?.tsrc=rss)
+- 2023-08-09 [Southwest will appeal judge's ruling requiring 'religious liberty training'](https://ca.finance.yahoo.com/news/us-judge-orders-southwest-lawyers-173154173.html?.tsrc=rss)
+- 2023-08-09 [US judge orders Southwest lawyers to undergo 'religious liberty training'](https://finance.yahoo.com/news/us-judge-orders-southwest-lawyers-172833303.html?.tsrc=rss)
+- 2023-08-08 [Judge rules that Southwest failed to follow his order in a flight attendant's free-speech case](https://finance.yahoo.com/news/judge-rules-southwest-failed-order-150913514.html?.tsrc=rss)
+- 2023-08-08 [Southwest Airlines Still Faces a Big Pilot Problem](https://finance.yahoo.com/m/4874b540-de9b-39c8-96e5-208413f0d1b5/southwest-airlines-still.html?.tsrc=rss)
+- 2023-08-07 [Southwest Airlines Faces Disturbing New Claim](https://finance.yahoo.com/m/480c40b2-7f26-3ca3-9411-78d5ea6cfec6/southwest-airlines-faces.html?.tsrc=rss)
 
 
                 

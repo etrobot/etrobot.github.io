@@ -1,41 +1,37 @@
 
 ---
-title: "1139 AMCR"
+title: "AMCR"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T12:10:46
+date: 2023-08-18T10:00:45
 draft: true
-tags: ['Amcor plc', 'AMCR', 'Packaging', 'Dividend Investing', 'Growth Stocks']
+tags: ['Earnings Results', 'Acquisition', 'Financial Performance', 'Market Competition', 'Strategic Management']
 author: Friday Wall
 ---
 
-score:1139
+score:27
 ### Chances:
-1. Amcor plc (AMCR) will announce its Full Year 2023 results after the US market closes on August 16, 2023.
-2. Amcor announced its latest Amcor Lift-Off winner, Greyparrot, a growth-stage start-up that will receive a $500,000 investment and access to Amcor's world-class capabilities in sustainability and packaging.
-3. Amcor further invests in its high-performing paper packaging range, expanding its AmFiber™ Performance Paper packaging range in Europe.
-4. Dividend aristocrats, like Amcor plc (AMCR), have consistently paid and raised their distributions for a minimum of 25 consecutive years, making them attractive for long-term investors.
-5. Slow and steady dividend investing, combined with high-yield dividend stocks, like Amcor plc (AMCR), could be a winning combination for long-term investors.
+1. Amcor's CEO highlights the company's proactive measures to manage inflation and reduce costs, reflecting strong strategic management.
+2. Amcor's acquisition of Phoenix Flexibles and expansion in the high-growth Indian market can contribute to its future growth.
+3. The company's ability to return cash to shareholders and its growth in the first half of fiscal 2023 indicate positive financial performance.
 ### Risks:
-1. Amcor's stock performance may be influenced by the results of its Full Year 2023 earnings announcement.
-2. Investors should exercise caution with dividend investing and high-yield stocks, as market conditions and company performance can impact dividend payouts.
-3. The packaging industry in the US, including Amcor (AMCR), may be subject to market fluctuations and industry trends.
-4. Investing in growth-stage start-ups, like Greyparrot, carries higher risk and potential reward.
-5. Investors should carefully evaluate Amcor's (AMCR) expansion plans and investments in its packaging range to assess their potential impact on the company's financial performance.
-### Score:1139
-chances characters count - risks characters count = 139
+1. Weak consumer demand and customer destocking may continue to impact Amcor's volumes, leading to uncertainty in its financial performance.
+2. Muted consumer spending and destocking could affect Amcor's fourth-quarter fiscal 2023 results and overall revenue.
+3. Market competition and cost management challenges in the packaging solutions industry can impact Amcor's profitability.
+### Score:27
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:AMCR">}}
 ### References:
-- 2023-08-03 [Amcor to report Full Year 2023 results](https://finance.yahoo.com/news/amcor-report-full-2023-results-223000485.html?.tsrc=rss)
-- 2023-08-03 [2 Attractively Valued Dividend Aristocrats](https://finance.yahoo.com/news/2-attractively-valued-dividend-aristocrats-211335982.html?.tsrc=rss)
-- 2023-07-22 [3 High-Dividend Stocks to Buy for Steady Income](https://finance.yahoo.com/news/3-high-dividend-stocks-buy-155808743.html?.tsrc=rss)
-- 2023-07-13 [Amcor Lift-Off winner, Greyparrot, to advance AI-powered waste analytics for circular economy](https://finance.yahoo.com/news/amcor-lift-off-winner-greyparrot-110500178.html?.tsrc=rss)
-- 2023-07-06 [11 Best Packaging Stocks to Buy Now](https://finance.yahoo.com/news/11-best-packaging-stocks-buy-202837768.html?.tsrc=rss)
-- 2023-07-05 [Stealthy Superstars: 3 Under-the-Radar Stocks to Invest in Now](https://finance.yahoo.com/news/stealthy-superstars-3-under-radar-105758352.html?.tsrc=rss)
-- 2023-06-29 [Is Amcor plc (NYSE:AMCR) Potentially Undervalued?](https://finance.yahoo.com/news/amcor-plc-nyse-amcr-potentially-141217515.html?.tsrc=rss)
-- 2023-06-16 [Implied Volatility Surging for Amcor (AMCR) Stock Options](https://finance.yahoo.com/news/implied-volatility-surging-amcor-amcr-124400415.html?.tsrc=rss)
-- 2023-06-15 [With 59% institutional ownership, Amcor plc (NYSE:AMCR) is a favorite amongst the big guns](https://finance.yahoo.com/news/59-institutional-ownership-amcor-plc-132217465.html?.tsrc=rss)
-- 2023-06-14 [Amcor (AMCR) Expands Its Paper-Based Packaging Product Line](https://finance.yahoo.com/news/amcor-amcr-expands-paper-based-140100508.html?.tsrc=rss)
+- 2023-08-17 [Amcor (AMCR) Q4 Earnings Beat, Decline Y/Y on Low Volumes](https://finance.yahoo.com/news/amcor-amcr-q4-earnings-beat-152700348.html?.tsrc=rss)
+- 2023-08-17 [Full Year 2023 Amcor PLC Earnings Call](https://finance.yahoo.com/news/full-2023-amcor-plc-earnings-143257013.html?.tsrc=rss)
+- 2023-08-17 [Amcor (AMCR) Surpasses Q4 Earnings Estimates](https://finance.yahoo.com/news/amcor-amcr-surpasses-q4-earnings-214004537.html?.tsrc=rss)
+- 2023-08-17 [Amcor reports fiscal 2023 results and provides outlook for fiscal 2024](https://finance.yahoo.com/news/amcor-reports-fiscal-2023-results-201000870.html?.tsrc=rss)
+- 2023-08-16 [Are Investors Undervaluing Amcor plc (NYSE:AMCR) By 26%?](https://finance.yahoo.com/news/investors-undervaluing-amcor-plc-nyse-123434820.html?.tsrc=rss)
+- 2023-08-16 [Amcor (AMCR) Inks Deal to Buy India-Based Phoenix Flexibles](https://finance.yahoo.com/news/amcor-amcr-inks-deal-buy-161000007.html?.tsrc=rss)
+- 2023-08-11 [Amcor announces acquisition of scalable flexible packaging plant in high-growth Indian market](https://finance.yahoo.com/news/amcor-announces-acquisition-scalable-flexible-130500592.html?.tsrc=rss)
+- 2023-08-10 [Analysts Estimate Amcor (AMCR) to Report a Decline in Earnings: What to Look Out for](https://finance.yahoo.com/news/analysts-estimate-amcor-amcr-report-221114760.html?.tsrc=rss)
+- 2023-08-10 [Amcor (AMCR) to Report Q4 Earnings: What's in Store?](https://finance.yahoo.com/news/amcor-amcr-report-q4-earnings-160900187.html?.tsrc=rss)
+- 2023-08-09 [Berry Global (BERY) Misses Q3 Earnings and Revenue Estimates](https://finance.yahoo.com/news/berry-global-bery-misses-q3-125032536.html?.tsrc=rss)
 
 
                 

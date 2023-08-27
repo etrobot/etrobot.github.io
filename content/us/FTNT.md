@@ -1,37 +1,39 @@
 
 ---
-title: "0400 FTNT"
+title: "FTNT"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:52:02
+date: 2023-08-12T06:41:19
 draft: true
-tags: ['Fortinet, Inc.', 'FTNT', 'Q2 Earnings', 'Cybersecurity', 'Stock Performance']
+tags: ['cybersecurity industry', 'earnings estimates', 'market trends', 'stock performance', 'talent shortage']
 author: Friday Wall
 ---
 
-score:400
+score:75
 ### Chances:
-1. Fortinet beat earnings expectations in Q2 2023, reporting an EPS of $0.38, surpassing the estimated $0.34. This positive performance may attract investors interested in companies with potential for reversing their fortunes.
+1. Fortinet is expanding cybersecurity knowledge and skill sets to address the cybersecurity talent shortage.
+2. Discussion of best cybersecurity ETFs and potential opportunities in the cloud security sector.
+3. Wall Street's top analyst calls, including upgrades and cybersecurity market trends.
+4. Focus on improving cybersecurity strategies to address vulnerabilities.
 ### Risks:
-1. A warning about slowing sales from Fortinet spooked investors, which could create uncertainty and potential downward pressure on the stock.
-2. The cybersecurity industry, including Fortinet, faced challenges as businesses delayed orders due to uncertainty about the U.S. economy, affecting revenue projections.
-3. The S&P 500 and Nasdaq experienced losses due to disappointing earnings from Apple, and the dimming outlook spread to other cybersecurity stocks, impacting Fortinet and its competitors.
-4. Reports of a cyberattack on hospital systems in multiple states could raise concerns about cybersecurity vulnerabilities, potentially affecting Fortinet's reputation and business prospects.
-5. Fluctuations in bond yields and market sentiments, as well as broader economic trends, may impact Fortinet's stock performance.
-### Score:400
-chances characters count - risks characters count = -600
+1. Fortinet stock dropped nearly 25% after reporting earnings, raising concerns for investors.
+2. Mixed second-quarter earnings report with revenue narrowly missing estimates.
+3. Underperformance of cybersecurity stocks in 2023.
+4. Market reaction and potential long-term impact of stock decline.
+### Score:75
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:FTNT">}}
 ### References:
-- 2023-08-05 [Here's Why Fortinet (NASDAQ:FTNT) Has Caught The Eye Of Investors](https://finance.yahoo.com/news/heres-why-fortinet-nasdaq-ftnt-120230279.html?.tsrc=rss)
-- 2023-08-05 [Fortinet, Inc. (NASDAQ:FTNT) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/fortinet-inc-nasdaq-ftnt-q2-103406483.html?.tsrc=rss)
-- 2023-08-05 [Fortinet's stock plunged 25% after it warned about slowing sales](https://finance.yahoo.com/m/6844ee61-4f58-34c2-a8fc-786fdace5ae1/fortinet%27s-stock-plunged-25%25.html?.tsrc=rss)
-- 2023-08-05 [S&P 500 Gains and Losses Today: Stocks Lose Ground as Hiring Slows](https://finance.yahoo.com/m/adbf4d5f-19e6-319b-b945-5cb673ba3cdf/s%26p-500-gains-and-losses.html?.tsrc=rss)
-- 2023-08-05 [US STOCKS-Wall Street ends lower after US jobs report; Apple weighs](https://finance.yahoo.com/news/us-stocks-wall-street-ends-204220382.html?.tsrc=rss)
-- 2023-08-05 [Today’s Biggest S&P 500 Loser Wasn’t a Household Name. It Dragged Down IT Stocks Anyhow](https://finance.yahoo.com/m/d47e8f7a-848e-37d6-bbeb-6c39cf1613eb/today%E2%80%99s-biggest-s%26p-500-loser.html?.tsrc=rss)
-- 2023-08-05 [Dow Jones Reverses Lower On Reports Of Cyberattack; Amazon Soars, Apple Plunges](https://finance.yahoo.com/m/3e8fd358-9e06-38d8-bf91-204da601b4d3/dow-jones-reverses-lower-on.html?.tsrc=rss)
-- 2023-08-05 [Fortinet Stock Plummets After Earnings -- What Went Wrong?](https://finance.yahoo.com/m/2cfc4c4b-2854-3043-ac2f-0287a5532736/fortinet-stock-plummets-after.html?.tsrc=rss)
-- 2023-08-05 [REFILE-US STOCKS-U.S. stocks rise on Amazon boost; bond yields fall](https://finance.yahoo.com/news/us-stocks-u-stocks-rises-181250900.html?.tsrc=rss)
-- 2023-08-05 [US STOCKS-Wall St rises on Amazon boost; bond yields fall](https://finance.yahoo.com/news/us-stocks-wall-st-rises-162052198.html?.tsrc=rss)
+- 2023-08-11 [How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises](https://finance.yahoo.com/news/strong-computer-technology-stocks-slated-130005800.html?.tsrc=rss)
+- 2023-08-10 [Fortinet Announces Free Security Awareness Curriculum for K-12 Students Tied to White House’s Cyber Education and Workforce Initiatives](https://finance.yahoo.com/news/fortinet-announces-free-security-awareness-200000029.html?.tsrc=rss)
+- 2023-08-09 [Is There An Opportunity With Fortinet, Inc.'s (NASDAQ:FTNT) 30% Undervaluation?](https://finance.yahoo.com/news/opportunity-fortinet-inc-nasdaq-ftnt-110032810.html?.tsrc=rss)
+- 2023-08-08 [Is Fortinet a Buy After a Huge Earnings Dip?](https://finance.yahoo.com/m/6f734c07-3b10-32fa-b746-642099bb773d/is-fortinet-a-buy-after-a.html?.tsrc=rss)
+- 2023-08-08 [Is It Too Late to Buy Fortinet Stock?](https://finance.yahoo.com/m/676f7140-3322-3596-9b8a-306f4c80cf01/is-it-too-late-to-buy.html?.tsrc=rss)
+- 2023-08-08 [4 big analyst picks: Draft Kings estimates 'will continue to move higher'](https://finance.yahoo.com/news/4-big-analyst-picks-draft-060957280.html?.tsrc=rss)
+- 2023-08-08 [10 Best Cybersecurity ETFs](https://finance.yahoo.com/news/10-best-cybersecurity-etfs-214329071.html?.tsrc=rss)
+- 2023-08-07 [American Airlines downgraded, United upgraded: Wall Street's top analys](https://finance.yahoo.com/news/american-airlines-downgraded-united-upgraded-135706937.html?.tsrc=rss)
+- 2023-08-07 [American downgraded, United upgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/american-downgraded-united-upgraded-wall-135706143.html?.tsrc=rss)
+- 2023-08-07 [Cybersecurity Stocks To Watch Amid Shift To AI, Cloud](https://finance.yahoo.com/m/758558ed-5483-3092-ad3c-96b4538b84c2/cybersecurity-stocks-to-watch.html?.tsrc=rss)
 
 
                 

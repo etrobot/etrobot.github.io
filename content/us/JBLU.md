@@ -1,41 +1,41 @@
 
 ---
-title: "1047 JBLU"
+title: "JBLU"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:03:29
+date: 2023-08-27T09:20:39
 draft: true
-tags: ['JetBlue Airways', 'JBLU', 'Air Travel Demand', 'Codeshare Agreement', 'Leisure Travel']
+tags: ['earnings beats', 'partnerships', 'customer needs', 'market challenges', 'air travel industry']
 author: Friday Wall
 ---
 
-score:1047
+score:-77
 ### Chances:
-1. JetBlue and Allegiant Travel's Q2 results benefit from upbeat air travel demand scenario, which may indicate positive performance for JBLU.
-2. JetBlue announced a new partnership with Air Serbia, which could potentially open up new opportunities for the company.
-3. U.S. airlines are enjoying strong leisure travel demand, which may contribute to JetBlue's revenue growth.
-4. The allure of international travel has travelers favoring longer journeys, which could boost JetBlue's international flight demand.
-5. Despite strong summer demand, investors have seen a shaky earnings season for airlines, but this may create a buying opportunity for JBLU.
+1. JetBlue's strong Q2 earnings beating estimates.
+2. Partnerships and collaborations to reinforce commitment to customers.
+3. Positive moves in response to customer needs such as fare changes.
+4. JetBlue Plus Card receiving awards and recognition.
+5. Expansions and programs targeting specific customer segments.
 ### Risks:
-1. The near-collision incident involving a charter jet and a JetBlue flight may lead to potential negative publicity and regulatory scrutiny.
-2. Uncertainty remains for airlines regarding the quarters to come, which could affect JetBlue's financial outlook.
-3. JetBlue's stock, along with other airlines' shares, has seen declines, potentially indicating market concerns.
-4. The reduction in corporate travel and reliance on leisure travel could impact JetBlue's revenue and earnings.
-5. International travel trends may affect JetBlue's operations, especially if domestic-focused airlines are left behind.
-### Score:1047
-chances characters count - risks characters count = 47
+1. Potential loss in Q3 due to ending a deal with American Airlines and flight disruptions.
+2. Sluggish return of business travelers impacting network and demand.
+3. Shares falling due to normalizing fares and domestic travel demand.
+4. Competitive market and possible impact of industry-wide challenges.
+5. Possible implications of mistaken communications on fares and merger implications.
+### Score:-77
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:JBLU">}}
 ### References:
-- 2023-08-05 [Airline Stock Roundup: ALGT & JBLU Beat on Q2 Earnings, SAVE & GOL Miss](https://finance.yahoo.com/news/airline-stock-roundup-algt-jblu-163900279.html?.tsrc=rss)
-- 2023-08-04 [American Travelers Are Shunning the U.S. for Europe](https://finance.yahoo.com/m/d0ad4905-dd96-350b-b2ac-510c049d5464/american-travelers-are.html?.tsrc=rss)
-- 2023-08-04 [A Learjet pilot thought he was cleared to take off. He wasn't. Luckily, JetBlue pilots saw him](https://finance.yahoo.com/news/learjet-pilot-thought-cleared-off-221423358.html?.tsrc=rss)
-- 2023-08-04 [Charter pilot cited in Boston near-miss with JetBlue plane - NTSB](https://finance.yahoo.com/news/charter-pilot-cited-boston-near-194756186.html?.tsrc=rss)
-- 2023-08-04 [Why JetBlue, Spirit, and Frontier All Lost Altitude This Week](https://finance.yahoo.com/m/1e1906a5-ec3b-3406-871e-a64f8a1b191f/why-jetblue%2C-spirit%2C-and.html?.tsrc=rss)
-- 2023-08-03 [JetBlue and Air Serbia Announce New Codeshare Agreement](https://finance.yahoo.com/news/jetblue-air-serbia-announce-codeshare-130000567.html?.tsrc=rss)
-- 2023-08-03 [RPT-Sluggish return of business travelers forces US airlines to rejig their networks](https://finance.yahoo.com/news/rpt-sluggish-return-business-travelers-110000157.html?.tsrc=rss)
-- 2023-08-03 [Sluggish return of business travelers forces US airlines to rejig their networks](https://finance.yahoo.com/news/sluggish-return-business-travelers-forces-050100825.html?.tsrc=rss)
-- 2023-08-02 [Q2 2023 JetBlue Airways Corp Earnings Call](https://finance.yahoo.com/news/q2-2023-jetblue-airways-corp-063556329.html?.tsrc=rss)
-- 2023-08-02 [JetBlue Airways (JBLU) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/65972030-9de7-3fb7-bb1a-51acfc59972f/jetblue-airways-%28jblu%29-q2.html?.tsrc=rss)
+- 2023-08-25 [Airline Stock Roundup: AAL's Bearish Q3 Cost View, ALGT's July Traffic Report](https://finance.yahoo.com/news/airline-stock-roundup-aals-bearish-154000916.html?.tsrc=rss)
+- 2023-08-25 [JetBlue Plans to Hike Spirit Fares by Up to 40%, Court Error Reveals. It’s a Blow to the Merger’s Chances.](https://finance.yahoo.com/m/f8028ee4-47f9-36d7-a341-e104280cb453/jetblue-plans-to-hike-spirit.html?.tsrc=rss)
+- 2023-08-25 [Labor Day travel: Domestic airfare costs down 11% from 2022](https://finance.yahoo.com/video/labor-day-travel-domestic-airfare-144828629.html?.tsrc=rss)
+- 2023-08-25 [Redaction mistake reveals fare changes for airline passengers](https://finance.yahoo.com/m/05393806-61e5-37bb-82c6-afb0edca4c26/redaction-mistake-reveals.html?.tsrc=rss)
+- 2023-08-25 [Lawyers suing JetBlue say the airline could raise fares on some routes after buying Spirit Airlines](https://finance.yahoo.com/news/court-documents-jetblue-says-could-214024240.html?.tsrc=rss)
+- 2023-08-24 [Frontier Airlines will expand service destinations this fall](https://finance.yahoo.com/m/76e7e174-1720-31e6-b3af-bf65fbede333/frontier-airlines-will-expand.html?.tsrc=rss)
+- 2023-08-23 [Do Options Traders Know Something About JetBlue (JBLU) Stock We Don't?](https://finance.yahoo.com/news/options-traders-know-something-jetblue-123400653.html?.tsrc=rss)
+- 2023-08-21 [JetBlue Launches Gateway Rotor Transition Program (RTP) For US Military-Trained Helicopter Pilots to Become JetBlue Pilots](https://finance.yahoo.com/news/jetblue-launches-gateway-rotor-transition-140000474.html?.tsrc=rss)
+- 2023-08-20 [The 3 Most Undervalued Stocks to Buy Now: August 2023](https://finance.yahoo.com/news/3-most-undervalued-stocks-buy-120717537.html?.tsrc=rss)
+- 2023-08-17 [JetBlue Vacations Partners with Florida Panthers, Reinforcing Commitment to South Florida](https://finance.yahoo.com/news/jetblue-vacations-partners-florida-panthers-130000408.html?.tsrc=rss)
 
 
                 

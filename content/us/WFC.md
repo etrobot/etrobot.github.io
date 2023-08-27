@@ -1,37 +1,41 @@
 
 ---
-title: "1055 WFC"
+title: "WFC"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:25:04
+date: 2023-08-27T09:31:04
 draft: true
-tags: ['Wells Fargo & Company', 'WFC', 'Credit Rating', 'Commercial Real Estate', 'Social Responsibility']
+tags: ['positive regulatory outcome', 'cost control', 'lawsuit victory', 'homeownership initiative', 'stock redemption']
 author: Friday Wall
 ---
 
-score:1055
+score:-8
 ### Chances:
-1. Wells Fargo is supporting a national expansion of Concordance, indicating the company's commitment to social responsibility.
-2. The commercial real estate industry coming into focus following the Federal Reserve's interest rate hikes could create potential opportunities for Wells Fargo.
-3. The talk about bringing manufacturing back to the US could lead to increased business activities for financial institutions like Wells Fargo.
+1. Wells Fargo cleared to underwrite Texas muni-bond deals by AG.
+2. Cost control aids Wells Fargo amid lower revenues.
+3. Wells Fargo defeats class action suit over fake interviews.
+4. Wells Fargo offers down-payment grants to boost minority homeownership.
+5. Wells Fargo announces full redemption of its Series Q Preferred Stock.
 ### Risks:
-1. Wells Fargo faces new allegations impacting non-customers of the bank, which may lead to reputation and regulatory risks.
-2. A technical glitch affecting banking customers may cause frustration and dissatisfaction, potentially leading to customer attrition.
-3. The second downgrade of US credit in history may have implications for Wells Fargo and the broader financial sector.
-### Score:1055
-chances characters count - risks characters count = 55
+1. Wells Fargo faces new SEC charge and settlement on advisory fees.
+2. Wells Fargo fined $35 million for excessive advisory fees by SEC.
+3. Wells Fargo overcharged clients $27 million in fees, SEC alleges.
+4. Wells Fargo's journey to rebuilding trust following past scandals.
+5. UBS, Credit Suisse banned from Russia subsidiary disposals.
+### Score:-8
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:WFC">}}
 ### References:
-- 2023-08-06 [Wells Fargo Accused In a New Fake Accounts Scandal](https://finance.yahoo.com/m/3d9b0bc1-4f7a-3e68-b2a8-db7990854454/wells-fargo-accused-in-a-new.html?.tsrc=rss)
-- 2023-08-05 [Wells Fargo Under Fire Again After Distressing Deposit Incident](https://finance.yahoo.com/m/6579dffd-1f47-366b-8bd9-3b78ecd1c63e/wells-fargo-under-fire-again.html?.tsrc=rss)
-- 2023-08-04 [Wells Fargo, SocGen to Settle With SEC, CFTC Over Use of Messaging Apps](https://finance.yahoo.com/m/a47f301a-ee5e-324e-9601-c5fde8c52b0a/wells-fargo%2C-socgen-to-settle.html?.tsrc=rss)
-- 2023-08-03 [Wells Fargo to Tap Corporate Bond Market Despite US Credit Downgrade](https://finance.yahoo.com/news/wells-fargo-tap-corporate-bond-141732154.html?.tsrc=rss)
-- 2023-08-03 [JPMorgan's Dimon: Fitch downgrade 'doesn’t really matter that much'](https://finance.yahoo.com/news/jpmorgans-dimon-fitch-downgrade-doesnt-really-matter-that-much-202820331.html?.tsrc=rss)
-- 2023-08-03 [St. Louis-based financial services giant sees more leadership churn](https://finance.yahoo.com/m/96626c5f-9106-3cae-b4eb-c6a863daf52b/st.-louis-based-financial.html?.tsrc=rss)
-- 2023-08-03 [Progressive (PGR) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/75d05608-f842-3599-b462-38087d97b0ec/progressive-%28pgr%29-q2-2023.html?.tsrc=rss)
-- 2023-08-02 [Wells Fargo Aims to Provide up to $60 Million to Concordance Anti-Recidivism Program](https://finance.yahoo.com/news/wells-fargo-aims-60-million-153000945.html?.tsrc=rss)
-- 2023-08-02 [Investing in Wells Fargo (NYSE:WFC) three years ago would have delivered you a 100% gain](https://finance.yahoo.com/news/investing-wells-fargo-nyse-wfc-130020519.html?.tsrc=rss)
-- 2023-08-02 [Wells Fargo Bolsters Reserves for Weakening Commercial Real Estate: What Investors Must Know](https://finance.yahoo.com/m/90d88786-7fc7-38f3-8029-023512c8ce9b/wells-fargo-bolsters-reserves.html?.tsrc=rss)
+- 2023-08-26 [Wells Fargo-SEC settlement on advisory fees underscores M&A challenges](https://finance.yahoo.com/news/wells-fargo-sec-settlement-advisory-220859780.html?.tsrc=rss)
+- 2023-08-26 [Wells Fargo is back in hot water with a new SEC charge](https://finance.yahoo.com/m/e1c79246-bd29-326b-b1f9-00f14686b3fc/wells-fargo-is-back-in-hot.html?.tsrc=rss)
+- 2023-08-26 [Wells Fargo Advisors, related firm to pay $35M fine for alleged overbilling of investors](https://finance.yahoo.com/m/20b0cf4d-932b-339a-a998-65f38f731870/wells-fargo-advisors%2C-related.html?.tsrc=rss)
+- 2023-08-26 [Wells Fargo Agrees to Pay $35M to SEC Over Excessive Customer Charges](https://finance.yahoo.com/m/f66d3414-3289-3f99-b327-99465ee486cf/wells-fargo-agrees-to-pay.html?.tsrc=rss)
+- 2023-08-26 [Wells Fargo Fined $35 Million for Excessive Advisory Fees](https://finance.yahoo.com/m/4e703a0b-36cf-34c5-836d-6caf6da06ac9/wells-fargo-fined-%2435-million.html?.tsrc=rss)
+- 2023-08-25 [SEC Fines Wells Fargo $35 Million for Overcharging Financial Advice Clients](https://finance.yahoo.com/m/4b49461d-7889-3fe6-b151-7d987e8821c3/sec-fines-wells-fargo-%2435.html?.tsrc=rss)
+- 2023-08-25 [Wells Fargo Is Cleared to Underwrite Texas Muni-Bond Deals by AG](https://finance.yahoo.com/news/wells-fargo-cleared-underwrite-texas-144045131.html?.tsrc=rss)
+- 2023-08-25 [Wells Fargo Overcharged Clients $27 Million in Fees, SEC Alleges](https://finance.yahoo.com/news/wells-fargo-overcharged-clients-27-132957553.html?.tsrc=rss)
+- 2023-08-25 [‘Every day is another challenge’: Wells Fargo vice chair of public affairs says the bank is still on its journey to rebuilding trust](https://finance.yahoo.com/news/every-day-another-challenge-wells-135739211.html?.tsrc=rss)
+- 2023-08-25 [Wells Fargo to pay $35 million penalty over excessive fees, U.S. SEC says](https://ca.finance.yahoo.com/news/wells-fargo-pay-35mln-penalty-134025455.html?.tsrc=rss)
 
 
                 

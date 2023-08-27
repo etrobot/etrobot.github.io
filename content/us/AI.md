@@ -1,41 +1,40 @@
 
 ---
-title: "1209 AI"
+title: "AI"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:07:46
+date: 2023-08-27T09:26:53
 draft: true
-tags: ['C3.ai, Inc.', 'AI Stocks', 'AI for the Enterprise', 'Artificial Intelligence', 'Business Model Change']
+tags: ['AI adoption', 'market rally', 'growth plans', 'volatility', 'performance']
 author: Friday Wall
 ---
 
-score:1209
+score:-66
 ### Chances:
-1. C3.ai's guidance for fiscal 2024 suggests that the shift in its business model from a subscription-based one to a consumption-based one is likely to work, which may attract investors looking for growth potential.
-2. The company made a strategic change to a pay-as-you-go model to reduce the entry barrier for new customers, leading to quicker deal closures and potential business growth.
-3. The demand for AI-based tools, including demand forecasting, supply chain management, and inventory optimization, has been increasing, indicating potential opportunities for C3.ai.
-4. C3.ai stock has an extremely compelling technical setup, which could be an attractive factor for technical traders and investors.
-5. C3.ai is considered one of the most advanced AI companies, positioning itself as an AI-for-the-Enterprise company, which could attract interest from investors interested in the AI sector.
+1. U.S. Air Force adopts C3 AI to increase flight efficiency.
+2. C3 AI named to Constellation ShortList™ for Artificial Intelligence & Machine Learning.
+3. Positive market response leading to AI stock rally.
+4. C3.ai positioned to deliver on growth plans.
 ### Risks:
-1. C3.ai lost revenue visibility due to the change in its business model, which could raise concerns among investors about the impact on the company's financial performance.
-2. Investing in AI stocks like C3.ai could be risky, given the volatility and uncertainty in the AI sector.
-3. Analysts' views on AI stocks can be fickle, leading to potential fluctuations in the stock's performance on Wall Street.
-4. The company's stock experienced a sell-off after a midweek bump, indicating potential price volatility in the short term.
-5. Investors must thoroughly understand C3.ai's business and consider market trends, as blindly following the crowd may not always lead to favorable outcomes.
-### Score:1209
-chances characters count - risks characters count = 209
+1. Stock plummeting and significant drop in value.
+2. AI stock facing market downturn and uncertainty.
+3. AI stock experienced a 30% drop, indicating potential volatility.
+4. Mixed opinions about the AI stock's performance and future prospects.
+5. Warnings about speculative nature and potential pitfalls of the AI stock.
+### Score:-66
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:AI">}}
 ### References:
-- 2023-08-04 [Is C3.ai Stock a Buy Now?](https://finance.yahoo.com/m/51cd44bd-dd7d-3f70-aebc-a28db4d1a24f/is-c3.ai-stock-a-buy-now%3F.html?.tsrc=rss)
-- 2023-08-04 [2 AI Stocks That Wall Street Hates -- and Why They Could Soar Higher, Anyway](https://finance.yahoo.com/m/08e3e285-821c-3173-9f24-45f906ec2d5a/2-ai-stocks-that-wall-street.html?.tsrc=rss)
-- 2023-08-02 [CDW (CDW) Tops Q2 Earnings and Revenue Estimates](https://finance.yahoo.com/news/cdw-cdw-tops-q2-earnings-121508824.html?.tsrc=rss)
-- 2023-08-01 [Is It Too Late to Buy C3.ai Stock?](https://finance.yahoo.com/m/498cb525-0320-3d53-ac73-03802251d433/is-it-too-late-to-buy-c3.ai.html?.tsrc=rss)
-- 2023-08-01 [11 Most Advanced AI Companies](https://finance.yahoo.com/news/11-most-advanced-ai-companies-194419641.html?.tsrc=rss)
-- 2023-08-01 [This Leading AI Stock is on the Verge of Breaking Out](https://finance.yahoo.com/news/leading-ai-stock-verge-breaking-193200148.html?.tsrc=rss)
-- 2023-07-31 [3 Reasons Artificial Intelligence (AI) Stocks May Be In for a Rough 2024](https://finance.yahoo.com/m/a6e8424c-e2bf-3624-982f-55db939f6b03/3-reasons-artificial.html?.tsrc=rss)
-- 2023-07-30 [3 Things About C3.ai That Smart Investors Know](https://finance.yahoo.com/m/7c780534-26f3-3de0-a7f7-ec31c96324f4/3-things-about-c3.ai-that.html?.tsrc=rss)
-- 2023-07-28 [Why Artificial Intelligence (AI) Stock C3.ai Was Edging Higher This Week](https://finance.yahoo.com/m/61d1b8de-27c3-3dfe-bbf8-3fc8fdd0c758/why-artificial-intelligence.html?.tsrc=rss)
-- 2023-07-28 [This AI Stock Has Skyrocketed 250%. Here's 1 Big Reason It Could Go Even Higher.](https://finance.yahoo.com/m/162583eb-2a0a-39de-a802-8c972cdafaff/this-ai-stock-has-skyrocketed.html?.tsrc=rss)
+- 2023-08-26 [Here's Why I'm Not Buying the Dip on This Beaten-Down AI Stock](https://finance.yahoo.com/m/fb4ed2e4-6558-3f0c-9b75-12d9f21ec0a0/here%27s-why-i%27m-not-buying-the.html?.tsrc=rss)
+- 2023-08-25 [C3.ai (NYSE:AI) Is In A Good Position To Deliver On Growth Plans](https://finance.yahoo.com/news/c3-ai-nyse-ai-good-153357196.html?.tsrc=rss)
+- 2023-08-25 [Nvidia Sets the Stage for Arm IPO to Ride AI Wave](https://finance.yahoo.com/news/nvidia-sets-stage-arm-ipo-173734143.html?.tsrc=rss)
+- 2023-08-25 [Why C3.ai Stock Is Plummeting Today](https://finance.yahoo.com/m/16409897-42da-3929-969c-7f0d96272462/why-c3.ai-stock-is-plummeting.html?.tsrc=rss)
+- 2023-08-24 [Why C3.ai Rallied Today](https://finance.yahoo.com/m/7dea1a27-e224-3073-a491-65651b285a36/why-c3.ai-rallied-today.html?.tsrc=rss)
+- 2023-08-23 [C3 AI Named to Constellation ShortList™ for Artificial Intelligence & Machine Learning](https://finance.yahoo.com/news/c3-ai-named-constellation-shortlist-141000475.html?.tsrc=rss)
+- 2023-08-23 [Is C3.ai's 30% Drop a Second Chance for Investors?](https://finance.yahoo.com/m/e1efe2ac-afd5-38ad-ba12-323b31b09949/is-c3.ai%27s-30%25-drop-a-second.html?.tsrc=rss)
+- 2023-08-23 [1 Artificial Intelligence (AI) Stock to Buy Now and Hold Forever, and 1 to Avoid Like the Plague](https://finance.yahoo.com/m/dda8696e-de0b-37ef-b75e-46744fc059cd/1-artificial-intelligence.html?.tsrc=rss)
+- 2023-08-23 [C3.ai, Inc. (AI) Dips More Than Broader Markets: What You Should Know](https://finance.yahoo.com/news/c3-ai-inc-ai-dips-214516699.html?.tsrc=rss)
+- 2023-08-22 [Why AI Stock C3.ai Leaped 4% Higher on Monday](https://finance.yahoo.com/m/8c125fca-5423-39ef-a2e9-6c32180ce440/why-ai-stock-c3.ai-leaped-4%25.html?.tsrc=rss)
 
 
                 

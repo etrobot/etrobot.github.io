@@ -1,40 +1,41 @@
 
 ---
-title: "1184 AMD"
+title: "AMD"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:43:06
+date: 2023-08-27T08:55:28
 draft: true
-tags: ['AMD', 'AI', 'semiconductor', 'investing', 'stock picks']
+tags: ['acquisition', 'data center momentum', 'graphics cards', 'competitive growth', 'market conditions']
 author: Friday Wall
 ---
 
-score:1184
+score:28
 ### Chances:
-1. AMD's new MI300 AI chip set appears capable of competing with Nvidia's hardware, signaling potential growth opportunities.
-2. AMD's stock has shown a daily gain of 3.79% and has an Earnings Per Share (EPS) of 0.23, indicating the potential for higher returns in the long term.
-3. Microsoft and Advanced Micro Devices are two attractive options for investors, as both companies are heavily investing in AI.
-4. AMD is investing heavily in producing powerful AI hardware, making it a strong contender in the AI technology market.
-5. Investors have been watching Advanced Micro Devices closely due to the demand for its AI chip set, competing with Nvidia's hardware.
+1. AMD acquires French AI software company Mipsology, showcasing innovation and growth in partnerships.
+2. AMD showcases continued enterprise data center momentum with EPYC CPUs and Pensando DPUs.
+3. New AMD Radeon RX graphics cards deliver high-performance gaming experiences, potentially driving sales.
+4. AMD strengthens Amazon's EC2 instances with EPYC processors, expanding its market presence.
+5. AMD battles NVIDIA with two new graphics cards, indicating competitive growth in the market.
 ### Risks:
-1. The highly competitive AI market poses challenges for Advanced Micro Devices to catch up to Nvidia, which could impact its market position.
-2. AMD's stock may experience ups and downs, and it may take time for the company to fully establish itself in the AI technology market.
-3. While AMD is investing in AI, it is important to consider the company's overall business growth and performance.
-4. The arms race for AI technology could result in fluctuations in AMD's stock price.
-### Score:1184
-chances characters count - risks characters count = 184
+1. AMD's stock fell today, possibly due to market conditions or specific company factors.
+2. Tech rally stalls ahead of speech from Fed Chair Powell, impacting AMD's stock performance.
+3. Micron and Broadcom stocks fall after Nvidia's blowout results, potentially affecting AMD.
+4. AMD's stock may face uncertainties related to the evolving AI and cryptocurrency markets.
+5. AMD's stock price movement could be influenced by market reactions to chip industry updates.
+### Score:28
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:AMD">}}
 ### References:
-- 2023-08-06 [What Nvidia, Intel, and AMD Stock Investors Should Know About Recent Updates](https://finance.yahoo.com/m/c7bff7f9-bbd7-3478-a1c6-5e14411d7e88/what-nvidia%2C-intel%2C-and-amd.html?.tsrc=rss)
-- 2023-08-06 [11 Jim Cramer Stock Picks this Week](https://finance.yahoo.com/news/11-jim-cramer-stock-picks-182400432.html?.tsrc=rss)
-- 2023-08-05 [1 Super Semiconductor Stock Down 29% You'll Regret Not Buying on the Dip](https://finance.yahoo.com/m/43d893d9-90ab-3022-b7f8-0e5cac28a40d/1-super-semiconductor-stock.html?.tsrc=rss)
-- 2023-08-05 [This AI Stock Is Perfect for a Young Investor](https://finance.yahoo.com/m/5e6fd3d9-1f91-38e5-8204-3183311c964c/this-ai-stock-is-perfect-for.html?.tsrc=rss)
-- 2023-08-05 [The Score: Yellow, Advanced Micro Devices, Amazon and More Stocks That Defined the Week](https://finance.yahoo.com/m/5bded3ed-9d27-3521-a3a4-85ae9e538f03/the-score%3A-yellow%2C-advanced.html?.tsrc=rss)
-- 2023-08-04 [Better Buy: Microsoft vs. Advanced Micro Devices](https://finance.yahoo.com/m/4a8aea96-dccb-3855-96b4-fa9bf84cb1f6/better-buy%3A-microsoft-vs..html?.tsrc=rss)
-- 2023-08-04 [Is AMD an Excellent AI Stock to Buy?](https://finance.yahoo.com/m/19d532dd-43ae-335c-932d-7342606506f1/is-amd-an-excellent-ai-stock.html?.tsrc=rss)
-- 2023-08-04 [AMD's Outlook on AI Chips Was Just OK -- Is the Stock Still a Buy?](https://finance.yahoo.com/m/2f906f50-083f-3708-b316-f1fb7c1a8d05/amd%27s-outlook-on-ai-chips-was.html?.tsrc=rss)
-- 2023-08-04 [4 big earnings hits: Apple's iPhone letdown; AMD fretting](https://finance.yahoo.com/news/4-big-earnings-hits-apples-032206902.html?.tsrc=rss)
-- 2023-08-04 [Why Advanced Micro Devices Stock Triumphed Today](https://finance.yahoo.com/m/c5ae9654-eaef-32ef-8198-e665589dd113/why-advanced-micro-devices.html?.tsrc=rss)
+- 2023-08-26 [Should You Investigate Advanced Micro Devices, Inc. (NASDAQ:AMD) At US$102?](https://finance.yahoo.com/news/investigate-advanced-micro-devices-inc-120031323.html?.tsrc=rss)
+- 2023-08-26 [AMD Battles NVIDIA With Two New Graphics Cards](https://finance.yahoo.com/m/f78c9501-5100-3166-885e-ded789076bfb/amd-battles-nvidia-with-two.html?.tsrc=rss)
+- 2023-08-26 [Why Nvidia Retreated on Friday](https://finance.yahoo.com/m/c487b3ec-2ab8-33df-b3d1-cc1f6e2a1f44/why-nvidia-retreated-on-friday.html?.tsrc=rss)
+- 2023-08-26 [Why Nvidia Stock Hit New Highs This Week](https://finance.yahoo.com/m/37d23a29-1701-3418-8c1d-c5a1bfa17690/why-nvidia-stock-hit-new.html?.tsrc=rss)
+- 2023-08-25 [New AMD Radeon RX 7800 XT and Radeon RX 7700 XT Graphics Cards Deliver High-Performance, Visually Stunning 1440p Gaming Experiences and Superior Performance-Per-Dollar](https://finance.yahoo.com/news/amd-radeon-rx-7800-xt-153000247.html?.tsrc=rss)
+- 2023-08-25 [1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist Before It Soars Like Nvidia](https://finance.yahoo.com/m/4ad91d26-d83b-33e5-b3f8-46bd660236c4/1-artificial-intelligence.html?.tsrc=rss)
+- 2023-08-25 [10 Best Performing ETFs in 2023](https://finance.yahoo.com/news/10-best-performing-etfs-2023-112955796.html?.tsrc=rss)
+- 2023-08-25 [S&P 500 Gains and Losses Today: Tech Rally Stalls Ahead of Speech From Fed Chair Powell](https://finance.yahoo.com/m/91f48084-33e4-3bf6-a069-54aab9ce12f8/s%26p-500-gains-and-losses.html?.tsrc=rss)
+- 2023-08-25 [Nvidia Stock Hit an Intraday High After Stellar Earnings. What Wall Street Is Saying.](https://finance.yahoo.com/m/2fe69e30-5adb-3c5f-b1ba-e30cc1b197bb/nvidia-stock-hit-an-intraday.html?.tsrc=rss)
+- 2023-08-25 [Nvidia outlook: Is chipmaker cornering the market?](https://finance.yahoo.com/video/nvidia-outlook-chipmaker-cornering-market-202540991.html?.tsrc=rss)
 
 
                 

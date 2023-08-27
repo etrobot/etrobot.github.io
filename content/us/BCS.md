@@ -1,37 +1,41 @@
 
 ---
-title: "1025 BCS"
+title: "BCS"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:13:56
+date: 2023-08-27T09:25:42
 draft: true
-tags: ['Barclays PLC', 'BCS', 'Dividend Payment', 'Investment Banking', 'Financial Subsidiary']
+tags: ['technology banking', 'savings rate', 'sustainable finance', 'Q2 earnings', 'interest rate hikes']
 author: Friday Wall
 ---
 
-score:1025
+score:34
 ### Chances:
-1. Barclays PLC is set to pay its dividend of £0.027 on the 15th of the month, which may attract income-focused investors.
-2. The appointment of Gautam Chawla and Amrit David as investment banking co-heads in the Americas could signal growth opportunities for Barclays in the region.
-3. Barclays has received non-binding offers from private equity firms for its German consumer finance subsidiary, indicating potential divestment and capital management.
+1. Appointment of new senior leaders to strengthen Technology Investment Banking.
+2. Hiring key talent from other institutions to enhance expertise.
+3. Increase in savings rate to attract savers and address criticism.
+4. Appointment of leaders in sustainable finance and impact investment banking.
+5. Profit improvement despite lower revenues in Q2 earnings.
 ### Risks:
-1. The ex-dividend date is approaching, which might lead to a short-term decline in the stock price after the dividend is paid.
-2. Declining revenues and higher expenses reported in the second quarter may raise concerns among investors about the bank's financial performance.
-3. Rising interest rates and the potential record high borrowing rates by the European Central Bank could impact Barclays' operations and profitability.
-### Score:1025
-chances characters count - risks characters count = 25
+1. Pressure to divest from fossil fuel funding affecting reputation.
+2. Spending curbs imposed on customers raising concerns.
+3. Negative impact of interest rate hikes on bank's interest income.
+4. Bank facing legal challenges and regulatory issues.
+5. Strategic review and potential investor backlash on smaller unit focus.
+### Score:34
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:BCS">}}
 ### References:
-- 2023-08-05 [There's A Lot To Like About Barclays' (LON:BARC) Upcoming UK£0.027 Dividend](https://finance.yahoo.com/news/theres-lot-barclays-lon-barc-071540606.html?.tsrc=rss)
-- 2023-08-03 [Barclays (LON:BARC) Will Pay A Larger Dividend Than Last Year At £0.027](https://finance.yahoo.com/news/barclays-lon-barc-pay-larger-132748570.html?.tsrc=rss)
-- 2023-08-03 [Mortgage rates: What the banks are offering following interest hikes](https://uk.finance.yahoo.com/news/mortgage-rates-bank-of-england-interest-rate-hike-125329240.html?.tsrc=rss)
-- 2023-08-03 [MOVES-Barclays names financial services investment banking co-heads](https://finance.yahoo.com/news/moves-barclays-names-financial-services-122813941.html?.tsrc=rss)
-- 2023-08-03 [Barclays gets Warburg Pincus, Centerbridge bids for German consumer finance unit – sources](https://finance.yahoo.com/news/barclays-gets-warburg-pincus-centerbridge-081446244.html?.tsrc=rss)
-- 2023-08-03 [Progressive (PGR) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/75d05608-f842-3599-b462-38087d97b0ec/progressive-%28pgr%29-q2-2023.html?.tsrc=rss)
-- 2023-08-02 [Bank of England set to raise interest rates to highest level since the financial crisis](https://uk.finance.yahoo.com/news/bank-of-england-interest-rates-140738829.html?.tsrc=rss)
-- 2023-07-31 [My debit card and pin were stolen but Barclays is treating me as the criminal](https://uk.finance.yahoo.com/news/debit-card-pin-were-stolen-060030399.html?.tsrc=rss)
-- 2023-07-29 [Troubles at Barclays Prompt a Shake-Up—and Banker Exits](https://finance.yahoo.com/m/b480f9d3-bfa1-30b0-b91a-9cce3796bfc0/troubles-at-barclays-prompt-a.html?.tsrc=rss)
-- 2023-07-28 [European Banks Unleash $5 Billion in Buybacks on Rates Boost](https://finance.yahoo.com/news/european-banks-unleash-5-billion-120000531.html?.tsrc=rss)
+- 2023-08-26 [Barclays appoints two new senior leaders into its Technology Investment Banking team](https://finance.yahoo.com/news/barclays-appoints-two-senior-leaders-170500772.html?.tsrc=rss)
+- 2023-08-25 [MOVES-Barclays hires internet banker Taylor from Goldman Sachs-memo](https://finance.yahoo.com/news/moves-barclays-hires-internet-banker-134308272.html?.tsrc=rss)
+- 2023-08-24 [Indonesia Taps New Tool to Aid Rupiah as Rates Kept Steady](https://finance.yahoo.com/news/bank-indonesia-holds-key-rate-072449848.html?.tsrc=rss)
+- 2023-08-20 [National Trust under pressure to ditch Barclays over fossil fuel funding](https://finance.yahoo.com/m/88d1b29f-e9c7-345d-9336-ebb67932d8c8/national-trust-under-pressure.html?.tsrc=rss)
+- 2023-08-15 [New top savings account pays 7pc – but there are a few catches](https://uk.finance.yahoo.com/news/top-savings-account-pays-7pc-131858372.html?.tsrc=rss)
+- 2023-08-15 [Barclays increases savings rate as banks criticised for short-changing savers](https://uk.finance.yahoo.com/news/barclays-increases-savings-rate-banks-165953284.html?.tsrc=rss)
+- 2023-08-14 [Barclays appoints Lee Counselman as a Managing Director in Technology Investment Banking](https://finance.yahoo.com/news/barclays-appoints-lee-counselman-managing-123500432.html?.tsrc=rss)
+- 2023-08-14 [Barclays Hires Moelis’s Lee Counselman for Tech Investment Banking](https://finance.yahoo.com/news/barclays-hires-moelis-lee-counselman-120000359.html?.tsrc=rss)
+- 2023-08-11 [Barclays slaps spending curbs on customers – no matter how wealthy they are](https://uk.finance.yahoo.com/news/barclays-slaps-spending-curbs-customers-050000178.html?.tsrc=rss)
+- 2023-08-10 [12 High-Dividend Stocks to Buy Under $10](https://finance.yahoo.com/news/12-high-dividend-stocks-buy-155710494.html?.tsrc=rss)
 
 
                 

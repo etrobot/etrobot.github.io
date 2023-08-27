@@ -1,39 +1,41 @@
 
 ---
-title: "1045 TEVA"
+title: "TEVA"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:13:12
+date: 2023-08-27T10:58:39
 draft: true
-tags: ['Teva Pharmaceutical Industries', 'TEVA', 'Opioid Settlement', 'Biosimilars', 'Drug Market']
+tags: ['legal settlements', 'Q2 earnings', 'strategic partnerships', 'opioid crisis', 'competitive challenges']
 author: Friday Wall
 ---
 
-score:1045
+score:57
 ### Chances:
-1. Teva Pharmaceutical Industries has agreed to pay up to $126 million to U.S. hospitals over 18 years to settle claims, which could resolve legal issues and potential liabilities.
-2. TEVA's second-quarter results were strong, beating estimates for both earnings and sales, which may lead to increased investor confidence.
-3. Teva Pharmaceutical Industries plans to pursue launching a biosimilar of AbbVie's blockbuster arthritis drug Humira next year, which could open up new revenue opportunities.
-4. The settlement agreement with U.S. hospitals and providing the anti-overdose drug naloxone may positively impact Teva's public image and reputation.
+1. Teva settles price-fixing charges with U.S. DOJ for $225 million.
+2. Positive Q2 earnings and sales results, with Austedo outperforming.
+3. CEO sees significant potential for branded drugs and newer drug opportunities.
+4. Agreement reached to settle state's price fixing claims.
+5. Strategic biosimilars partnership update with Alvotech and positive data presentations.
 ### Risks:
-1. Teva Pharmaceutical Industries faces lawsuits and legal challenges, including those related to opioids and generic drug competition, which may result in financial penalties and reputation damage.
-2. The crowded marketplace for biosimilars of Humira could create pricing and competition pressures for Teva's potential biosimilar launch.
-3. Shortage of workers and ongoing competitive hiring challenges may impact Teva's operations and business performance.
-4. Teva's financial performance may be influenced by fluctuations in the generic drugs market and regulatory approval delays for new drug launches.
-### Score:1045
-chances characters count - risks characters count = 45
+1. Legal problems and settlements related to price-fixing charges.
+2. Opioid-related legal issues and settlements impacting financials.
+3. Potential divestment of active ingredients unit.
+4. Competitive challenges in the pharmaceutical industry.
+5. Impact of shortage of lifesaving drugs and regulatory environment.
+### Score:57
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:TEVA">}}
 ### References:
-- 2023-08-04 [Teva agrees to pay $126 million to US hospitals over opioids](https://finance.yahoo.com/news/teva-agrees-pay-126-million-164548470.html?.tsrc=rss)
-- 2023-08-04 [Teva agrees to pay $126 mln to US hospitals over opioids](https://finance.yahoo.com/news/teva-agrees-pay-126-mln-164121965.html?.tsrc=rss)
-- 2023-08-03 [TEVA Q2 Earnings & Sales Top as Austedo Outperforms, Stock Up](https://finance.yahoo.com/news/teva-q2-earnings-sales-top-152200714.html?.tsrc=rss)
-- 2023-08-03 [Teva stock pops on Q2 results, CEO sees 'significant' potential for trio of branded drugs](https://finance.yahoo.com/video/teva-stock-pops-q2-results-212010341.html?.tsrc=rss)
-- 2023-08-03 [Teva Retakes Its 200-Day Line After Second-Quarter Beat And Raise](https://finance.yahoo.com/m/942e8617-74b0-3e2c-95a6-eda7822533e7/teva-retakes-its-200-day-line.html?.tsrc=rss)
-- 2023-08-03 [UPDATE 1-Teva CEO says not too late to launch Humira biosimilar in 2024](https://finance.yahoo.com/news/1-teva-ceo-says-not-174016081.html?.tsrc=rss)
-- 2023-08-02 [Teva Pharmaceutical Industries (TEVA) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/f1d4ea70-ca2f-3230-808c-1f873c857d68/teva-pharmaceutical.html?.tsrc=rss)
-- 2023-08-02 [Here's What Key Metrics Tell Us About Teva Pharmaceutical Industries Ltd. (TEVA) Q2 Earnings](https://finance.yahoo.com/news/heres-key-metrics-tell-us-143007197.html?.tsrc=rss)
-- 2023-08-02 [Huntington's treatment helps Teva beat profit estimates as CEO eyes newer drug opportunities](https://finance.yahoo.com/news/teva-pharmaceutical-q2-profit-tops-112146120.html?.tsrc=rss)
-- 2023-08-02 [Teva Reports Second Quarter 2023 Financial Results](https://finance.yahoo.com/news/teva-reports-second-quarter-2023-110000043.html?.tsrc=rss)
+- 2023-08-23 [TEVA to Pay $225 Million to Settle Price-Fixing Charges (Revised)](https://finance.yahoo.com/news/teva-pay-225-million-settle-074900029.html?.tsrc=rss)
+- 2023-08-23 [Teva Pharma: generics titan attempts to put the stopper in legal problems](https://finance.yahoo.com/m/a09efa90-be2e-3dde-86d1-c4bd29495461/teva-pharma%3A-generics-titan.html?.tsrc=rss)
+- 2023-08-22 [TEVA to Pay $250 Million to Settle Price-Fixing Charges](https://finance.yahoo.com/news/teva-pay-250-million-settle-131900720.html?.tsrc=rss)
+- 2023-08-22 [Teva Agrees to Pay $225 Million to Settle U.S. Price-Fixing Charges](https://finance.yahoo.com/m/6f51f53b-54d1-3d51-a210-551510c39f8f/teva-agrees-to-pay-%24225.html?.tsrc=rss)
+- 2023-08-22 [Teva to pay $225M to settle cholesterol drug price-fixing charges](https://finance.yahoo.com/news/teva-pay-225m-settle-cholesterol-224822858.html?.tsrc=rss)
+- 2023-08-22 [UPDATE 2-Teva to pay $225 mln, divest cholesterol drug to settle price-fixing charges](https://finance.yahoo.com/news/1-teva-pay-225-mln-203212551.html?.tsrc=rss)
+- 2023-08-22 [Teva to pay $225 million, divest cholesterol drug to settle price-fixing charges](https://ca.finance.yahoo.com/news/teva-pharmaceuticals-pay-225-million-201238779.html?.tsrc=rss)
+- 2023-08-22 [Teva Settles Price Fixing Charges With U.S. DOJ](https://finance.yahoo.com/news/teva-settles-price-fixing-charges-200000331.html?.tsrc=rss)
+- 2023-08-15 [Q2 2023 Societal CDMO Inc Earnings Call](https://finance.yahoo.com/news/q2-2023-societal-cdmo-inc-095445943.html?.tsrc=rss)
+- 2023-08-14 [Zacks Industry Outlook Highlights Amphastar Pharmaceuticals, Dr. Reddy's Laboratories and Teva Pharmaceutical](https://finance.yahoo.com/news/zacks-industry-outlook-highlights-amphastar-110100976.html?.tsrc=rss)
 
 
                 

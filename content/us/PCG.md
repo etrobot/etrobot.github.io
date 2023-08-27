@@ -1,41 +1,41 @@
 
 ---
-title: "0939 PCG"
+title: "PCG"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:07:06
+date: 2023-08-27T10:08:44
 draft: true
-tags: ['PG&E Corporation', 'PCG', 'Energy Incentive Program', 'Renewable Energy', 'Infrastructure']
+tags: ['energy efficiency', 'institutional ownership', 'collaboration projects', 'legal challenges', 'financial performance']
 author: Friday Wall
 ---
 
-score:939
+score:-49
 ### Chances:
-1. PG&E encourages customers to enroll in an energy incentive program to help lower energy costs and support the state's clean energy goals, which may boost the company's reputation and customer loyalty.
-2. Sunrun customers in California sharing excess solar energy with their neighbors through an exclusive partnership with PG&E could increase grid resiliency and improve the company's standing in the renewable energy sector.
-3. PSEG's second-quarter 2023 adjusted earnings beating the Zacks Consensus Estimate by 14.8% may reflect positively on PG&E's future earnings prospects.
-4. PG&E's institutional ownership may indicate that the stock price is sensitive to their trading, which could lead to increased investor interest.
-5. The confirmed deal between PG&E and its Oakland landlord to purchase its new headquarters building could improve the company's infrastructure and operational efficiency.
+1. Initiatives to promote energy efficiency and safety.
+2. Strong institutional ownership indicates investor confidence.
+3. Collaboration on distributed power plant projects.
+4. Promotion of STEM scholarships for students.
+5. Solid performance on track for 2023.
 ### Risks:
-1. PG&E facing a lawsuit from shareholders for a combined 1.8 billion Swedish crowns ($170 million) due to the CEO's disclosure of activities in Iraq, which may lead to financial losses and reputation damage.
-2. Consolidated Edison's Q2 revenues missing estimates and declining from the year-ago quarter may indicate a challenging business environment for utilities, which could also affect PG&E's financial performance.
-3. The unsuccessful $2 billion effort by PG&E to manage energy demand during high-temperature periods could raise concerns about the company's operational effectiveness.
-4. American Electric's second-quarter 2023 operating earnings missing estimates and declining revenues may signal challenges in the energy sector, potentially impacting PG&E's financial performance.
-5. CenterPoint Energy's second-quarter 2023 adjusted earnings lagging estimates may indicate a competitive market and potential pressure on PG&E's revenue and profitability.
-### Score:939
-chances characters count - risks characters count = -61
+1. Potential legal challenges and liabilities related to fires.
+2. Stock could be undervalued compared to intrinsic value.
+3. Negative impacts of incidents like wildfires on reputation.
+4. Dependency on external factors like power demand and weather.
+5. Financial and regulatory challenges affecting operations.
+### Score:-49
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:PCG">}}
 ### References:
-- 2023-08-04 [Consolidated Edison (ED) Q2 Earnings Beat, Revenues Fall Y/Y](https://finance.yahoo.com/news/consolidated-edison-ed-q2-earnings-133100446.html?.tsrc=rss)
-- 2023-08-03 [Powerful Initiatives: PG&E Energy Incentive Programs Reward Customers for Reducing Energy Use and Strain On Electric Grid](https://finance.yahoo.com/news/powerful-initiatives-pg-e-energy-155300757.html?.tsrc=rss)
-- 2023-08-03 [12 Best Bargain Stocks to Buy in August](https://finance.yahoo.com/news/12-best-bargain-stocks-buy-053547659.html?.tsrc=rss)
-- 2023-08-02 [Sunrun and PG&E Expand Collaboration on Distributed Power Plant to Share Critical Solar Energy with California’s Grid](https://finance.yahoo.com/news/sunrun-pg-e-expand-collaboration-120000149.html?.tsrc=rss)
-- 2023-08-02 [PG&E Scraps Tree-Trimming Program Once Seen as Key to Fire Prevention](https://finance.yahoo.com/m/7e1a6a43-e1fe-34f4-b1eb-150f19e7cb83/pg%26e-scraps-tree-trimming.html?.tsrc=rss)
-- 2023-08-01 [PSEG (PEG) Q2 Earnings Beat Estimates, Revenues Rise Y/Y](https://finance.yahoo.com/news/pseg-peg-q2-earnings-beat-140100909.html?.tsrc=rss)
-- 2023-07-31 [With 78% ownership of the shares, PG&E Corporation (NYSE:PCG) is heavily dominated by institutional owners](https://finance.yahoo.com/news/78-ownership-shares-pg-e-130953323.html?.tsrc=rss)
-- 2023-07-29 [PG&E Corporation (NYSE:PCG) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/pg-e-corporation-nyse-pcg-183124570.html?.tsrc=rss)
-- 2023-07-28 [PG&E confirms it will exercise option to buy new Oakland HQ](https://finance.yahoo.com/m/a12999ef-aa11-3897-9b40-ad6846d99435/pg%26e-confirms-it-will.html?.tsrc=rss)
-- 2023-07-27 [American Electric (AEP) Lags Q2 Earnings, Reaffirms 2023 View](https://finance.yahoo.com/news/american-electric-aep-lags-q2-134300593.html?.tsrc=rss)
+- 2023-08-26 [Bare electrical wire and leaning poles on Maui were possible cause of deadly fires](https://finance.yahoo.com/news/bare-electrical-wire-poles-replacement-120410324.html?.tsrc=rss)
+- 2023-08-25 [PG&E Corporation (NYSE:PCG) Shares Could Be 27% Below Their Intrinsic Value Estimate](https://finance.yahoo.com/news/pg-e-corporation-nyse-pcg-153834384.html?.tsrc=rss)
+- 2023-08-25 [Environmental group suffers setback in legal fight to close California's last nuclear power plant](https://finance.yahoo.com/news/environmental-group-suffers-setback-legal-203105327.html?.tsrc=rss)
+- 2023-08-22 [Maui Fire Victims Pursue Legal Tactic That Led to $13.5 Billion California Settlement](https://finance.yahoo.com/news/maui-fire-victims-pursue-legal-110000349.html?.tsrc=rss)
+- 2023-08-22 [Hawaiian Electric Faces Claims for Vast Fire Damage. Remember PG&E’s Bankruptcy.](https://finance.yahoo.com/m/8c9f0f5d-f72d-3e42-8db5-7e6c483531ac/hawaiian-electric-faces.html?.tsrc=rss)
+- 2023-08-17 [60 Local Students Across Northern and Central California to Receive Annual PG&E Better Together STEM Scholarships](https://finance.yahoo.com/news/60-local-students-across-northern-174200387.html?.tsrc=rss)
+- 2023-08-16 [Hawaiian Electric Extends Record Slump With Another 20% Drop](https://finance.yahoo.com/news/hawaiian-electric-future-doubt-1-001047384.html?.tsrc=rss)
+- 2023-08-15 [Hawaiian Electric Stock Plunges After Maui Fire. What to Watch Next.](https://finance.yahoo.com/m/64e8e033-54cb-361f-914c-59782a075952/hawaiian-electric-stock.html?.tsrc=rss)
+- 2023-08-15 [PG&E Offers Customers Ways to Save Energy and Money During Summer Heat](https://finance.yahoo.com/news/pg-e-offers-customers-ways-204400922.html?.tsrc=rss)
+- 2023-08-15 [Hawaiian Electric Plunges as Lawyers Probe Cause of Deadly Maui Wildfires](https://finance.yahoo.com/news/hawaiian-electric-plunges-lawyers-probe-185155490.html?.tsrc=rss)
 
 
                 

@@ -1,40 +1,41 @@
 
 ---
-title: "0848 SPR"
+title: "SPR"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T12:29:43
+date: 2023-08-27T10:22:03
 draft: true
-tags: ['Spirit AeroSystems', 'SPR', 'Aerospace', 'Earnings Report', 'Supply Chain Issues']
+tags: ['earnings call', 'manufacturing issues', 'delivery delays', 'labor strikes', 'aviation industry']
 author: Friday Wall
 ---
 
-score:848
+score:-10
 ### Chances:
-1. Spirit AeroSystems' Q2 revenues of $1,365 million surpassed the Zacks Consensus Estimate by 7.4%, indicating strong performance in the quarter.
-2. The top line of Spirit AeroSystems rose 8% on a year-over-year basis, which may signal growth in the company's business.
-3. Although the stock reported disappointing Q2 results, there may be a chance for a turnaround if the supply chain issues and labor costs are effectively addressed.
-4. Spirit AeroSystems remains an important supplier to Boeing and Airbus, and the demand for commercial aircraft could provide growth opportunities in the future.
+1. Revenues rise in Q2 2023 despite stock slide.
+2. Positive impact of new partnership to research hypersonic travel.
+3. Boeing awarded military contract for Spirit-tied P-8 aircraft trainers.
+4. Expectation of ramping up 737 Max production by more than 20% by Boeing.
+5. Striking workers at a key Boeing supplier approve a new contract and will return to work.
 ### Risks:
-1. Spirit AeroSystems missed earnings expectations with a reported EPS of $-1.21, significantly lower than the expected $0.79 EPS.
-2. The stock experienced a downward spiral after disclosing major costs associated with a recent strike and new labor agreement, leading to $105 million in losses.
-3. Persistent supply chain pressures and the impact of added costs from the labor agreement could continue to destabilize production lines and hurt the company's financials.
-4. The company's Q2 loss of $1.46 per share on revenue of $1.4 billion disappointed Wall Street and investors, indicating possible challenges ahead.
-5. Investors may have concerns about the cash burn rate and uncertainties related to supply chain instability and rising labor costs.
-### Score:848
-chances characters count - risks characters count = -152
+1. Significant stock plunge of 27% after bleak cash-flow outlook.
+2. Manufacturing errors, quality issues, and delays impacting 737 Max deliveries.
+3. Earnings miss reported in Q2 with losses despite higher revenues.
+4. Supply chain pressures, cash burn, and labor strikes affecting the company.
+5. Long-term losses and potential drastic measures by institutional owners.
+### Score:-10
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:SPR">}}
 ### References:
-- 2023-08-06 [Spirit AeroSystems Holdings, Inc. (NYSE:SPR) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/spirit-aerosystems-holdings-inc-nyse-180247322.html?.tsrc=rss)
-- 2023-08-04 [Why Spirit AeroSystems Stock Fell This Week](https://finance.yahoo.com/m/cb803bc9-67d1-3e23-a7fa-aa4cfcd0d122/why-spirit-aerosystems-stock.html?.tsrc=rss)
-- 2023-08-04 [Spirit AeroSystems resumes slide, sinks another 4%](https://ca.finance.yahoo.com/news/spirit-aerosystems-resumes-slide-sinks-160047919.html?.tsrc=rss)
-- 2023-08-03 [Spirit AeroSystems (SPR) Q2 Earnings Miss, Revenues Rise Y/Y](https://finance.yahoo.com/news/spirit-aerosystems-spr-q2-earnings-144200405.html?.tsrc=rss)
-- 2023-08-03 [Qualcomm downgraded, Wingstop upgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/qualcomm-downgraded-wingstop-upgraded-wall-140329294.html?.tsrc=rss)
-- 2023-08-03 [Q2 2023 Spirit AeroSystems Holdings Inc Earnings Call](https://finance.yahoo.com/news/q2-2023-spirit-aerosystems-holdings-075236229.html?.tsrc=rss)
-- 2023-08-03 [Spirit AeroSystems' stock plummets 27%; leaders address strike impact, supply chain pressures](https://finance.yahoo.com/m/2274a53c-bd5a-37d6-8cde-29445a4040ac/spirit-aerosystems%27-stock.html?.tsrc=rss)
-- 2023-08-02 [Spirit Aerosystems (SPR) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates](https://finance.yahoo.com/news/spirit-aerosystems-spr-q2-earnings-143008817.html?.tsrc=rss)
-- 2023-08-02 [Spirit Aerosystems (SPR) Reports Q2 Loss, Tops Revenue Estimates](https://finance.yahoo.com/news/spirit-aerosystems-spr-reports-q2-130506524.html?.tsrc=rss)
-- 2023-08-02 [Spirit AeroSystems' spring problems show up on Q2 bottom line](https://finance.yahoo.com/m/2cf5b12f-c095-3f6a-a9a2-0b0ccf82cbfd/spirit-aerosystems%27-spring.html?.tsrc=rss)
+- 2023-08-25 [Boeing Stock Stalls, Spirit AeroSystems Pokes More Holes In 737 Delivery Schedule](https://finance.yahoo.com/m/8f835b41-811a-39fe-bd48-f72c25f7edda/boeing-stock-stalls%2C-spirit.html?.tsrc=rss)
+- 2023-08-25 [Stock Market Today: Stock Market News And Analysis](https://finance.yahoo.com/m/7ef68392-0e3a-3d5d-b06b-18b7ccc71dbd/stock-market-today%3A-stock.html?.tsrc=rss)
+- 2023-08-25 [Here Are the 2 Stocks Overshadowing Nvidia's Big News](https://finance.yahoo.com/m/a2673e79-db36-30fa-83bd-75752555e092/here-are-the-2-stocks.html?.tsrc=rss)
+- 2023-08-25 [Spirit AeroSystems stock plummets after new manufacturing error identified](https://finance.yahoo.com/m/cfa83400-d667-33f6-b3f7-a7eeb3a9b1f1/spirit-aerosystems-stock.html?.tsrc=rss)
+- 2023-08-25 [Why Spirit AeroSystems Stock Is Down Big Today](https://finance.yahoo.com/m/5f42e27c-5d6f-3dc9-82e0-c4c8416dcdb4/why-spirit-aerosystems-stock.html?.tsrc=rss)
+- 2023-08-25 [Is Spirit AeroSystems Holdings Inc Set to Underperform? Analyzing the Factors Limiting Growth](https://finance.yahoo.com/news/spirit-aerosystems-holdings-inc-set-160320601.html?.tsrc=rss)
+- 2023-08-24 [Boeing and Spirit AeroSystems Shares Drop as Defect Delays 737 MAX Deliveries](https://finance.yahoo.com/m/3996fa64-25ea-39f6-9428-bc095f7f5cb8/boeing-and-spirit-aerosystems.html?.tsrc=rss)
+- 2023-08-24 [Stocks to Watch Thursday: Nvidia, Dollar Tree, AMC, Spirit](https://finance.yahoo.com/m/6b808457-0533-373d-8ba8-79910b2b0774/stocks-to-watch-thursday%3A.html?.tsrc=rss)
+- 2023-08-24 [Boeing stock dips on warning about delivery delays](https://finance.yahoo.com/video/boeing-stock-dips-warning-delivery-142327609.html?.tsrc=rss)
+- 2023-08-24 [Boeing and a key supplier find a new manufacturing issue that affects the 737 Max airliner](https://finance.yahoo.com/news/spirit-aerosystems-aware-quality-issue-122527985.html?.tsrc=rss)
 
 
                 

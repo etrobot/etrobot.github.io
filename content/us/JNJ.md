@@ -1,41 +1,41 @@
 
 ---
-title: "0956 JNJ"
+title: "JNJ"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:02:55
+date: 2023-08-27T09:07:53
 draft: true
-tags: ['Johnson & Johnson', 'JNJ', 'Dividend King', 'Talc Lawsuits', 'Healthcare']
+tags: ['exchange offer', 'strategic investments', 'market presence', 'business operations', 'litigation concerns']
 author: Friday Wall
 ---
 
-score:956
+score:26
 ### Chances:
-1. Johnson & Johnson is part of the Zacks top Analyst Blog, which could attract investor attention.
-2. JNJ is a longtime dividend payer and has earned the title of Dividend King, making it attractive to income-focused investors.
-3. The company's involvement in appealing court appeals regarding talc-related claims may provide positive outcomes.
-4. Johnson & Johnson's stock price might be favored by institutions due to their large stake in the company.
-5. JNJ's consumer and healthcare brands, such as Band-Aid and Tylenol, can offer excellent opportunities for investors.
+1. J&J's exchange offer for Kenvue was a big win and a huge hit with shareholders.
+2. J&J-backed startup raises $150M in VC for neuroscience drugs, indicating strategic investments.
+3. J&J to retain 9.5% stake in Kenvue post-share exchange, showcasing continued interest.
+4. Kenvue set to join S&P 500, potentially boosting the stock's market presence.
+5. J&J's Kenvue exchange offer was too popular, which could result in positive market sentiment.
 ### Risks:
-1. The Fitch Ratings' downgrade of U.S. credit may have an impact on the stock market, including Johnson & Johnson's stock.
-2. The ongoing legal battles and cancer lawsuits related to JNJ's talc-based powders may lead to negative publicity and potential financial implications.
-3. Market volatility and external factors may influence Johnson & Johnson's stock price and performance.
-4. JNJ's total revenues during the second quarter missed the mark, which could be a concern for some investors.
-5. The potential discount offered for shareholders to swap for shares of Kenvue may affect Johnson & Johnson's stock value.
-### Score:956
-chances characters count - risks characters count = -44
+1. J&J's vaccine division to close part, potential impact on business operations.
+2. Legal actions and lawsuits regarding drug pricing and litigation concerns.
+3. Market volatility and uncertainty affecting healthcare stocks and market technicals.
+4. Medical device recall impacting a J&J acquisition, potential business disruption.
+5. Risks associated with taxation and proration figure in J&J's exchange offer for Kenvue.
+### Score:26
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:JNJ">}}
 ### References:
-- 2023-08-05 ['Oh my God': This secretary in Illinois built a $7M fortune starting with $180. The one powerful technique that made Grace Groner rich — and can change your life too](https://finance.yahoo.com/news/oh-god-secretary-illinois-built-130000868.html?.tsrc=rss)
-- 2023-08-04 [Bruker (BRKR) Q2 Earnings and Revenues Top, '23 Sales View Up](https://finance.yahoo.com/news/bruker-brkr-q2-earnings-revenues-134500625.html?.tsrc=rss)
-- 2023-08-04 [Better Buy: Johnson & Johnson vs. Proctor & Gamble](https://finance.yahoo.com/m/0a85ecbd-7e72-3ae9-a5cd-3f3f60f51811/better-buy%3A-johnson-%26-johnson.html?.tsrc=rss)
-- 2023-08-04 [The Zacks Analyst Blog Highlights Johnson & Johnson, General Dynamics, Pioneer Natural Resources, Alibaba Group and Autodesk](https://finance.yahoo.com/news/zacks-analyst-blog-highlights-johnson-120800874.html?.tsrc=rss)
-- 2023-08-04 [Itching for a Good Trade? Johnson & Johnson Spinoff Kenvue Should Offer Relief](https://finance.yahoo.com/m/3a78d96f-5650-35cd-bdbb-969abdfd9616/itching-for-a-good-trade%3F.html?.tsrc=rss)
-- 2023-08-04 [Looking to Bet On Perfect AAA Credit Ratings? Play These ETFs](https://finance.yahoo.com/news/looking-bet-perfect-aaa-credit-171500242.html?.tsrc=rss)
-- 2023-08-04 [Q2 Earnings Season Scorecard and Research Reports for JNJ, Pioneer Natural & Others](https://finance.yahoo.com/news/q2-earnings-season-scorecard-research-165900237.html?.tsrc=rss)
-- 2023-08-03 [Sarepta (SRPT) Q2 Loss Narrower Than Expected, Sales Miss](https://finance.yahoo.com/news/sarepta-srpt-q2-loss-narrower-152800692.html?.tsrc=rss)
-- 2023-08-03 [J&J’s $40 Billion Kenvue Stock Swap: What You Need to Know](https://finance.yahoo.com/m/fd432565-c83e-37da-9e5f-ed495640c1bf/j%26j%E2%80%99s-%2440-billion-kenvue.html?.tsrc=rss)
-- 2023-08-03 [With 71% ownership of the shares, Johnson & Johnson (NYSE:JNJ) is heavily dominated by institutional owners](https://finance.yahoo.com/news/71-ownership-shares-johnson-johnson-120132672.html?.tsrc=rss)
+- 2023-08-26 [Ken Fisher’s Top 15 Healthcare Stock Picks](https://finance.yahoo.com/news/ken-fisher-top-15-healthcare-142001618.html?.tsrc=rss)
+- 2023-08-25 [Novo Nordisk's (NVO) Shares Jump 17% in a Month: Here's Why](https://finance.yahoo.com/news/novo-nordisks-nvo-shares-jump-154100109.html?.tsrc=rss)
+- 2023-08-25 [Emergent BioSolutions (EBS) Down 12% in a Week: Here's Why](https://finance.yahoo.com/news/emergent-biosolutions-ebs-down-12-153600729.html?.tsrc=rss)
+- 2023-08-25 [J&J’s Kenvue Exchange Offer Was a Big Win for the Little Guy](https://finance.yahoo.com/m/95f75135-612c-34fd-af00-a09a7a1d671e/j%26j%E2%80%99s-kenvue-exchange-offer.html?.tsrc=rss)
+- 2023-08-25 [AstraZeneca files lawsuit against U.S. over drug pricing](https://finance.yahoo.com/video/astrazeneca-files-lawsuit-against-u-150733913.html?.tsrc=rss)
+- 2023-08-25 [Pro Take: Corporate Venture Capital Provides Path for Long-Term Tech Strategy](https://finance.yahoo.com/m/1db67084-8206-336d-abe0-29535c8da36c/pro-take%3A-corporate-venture.html?.tsrc=rss)
+- 2023-08-25 [AARP to join US government in two more lawsuits over Medicare drug pricing negotiations](https://finance.yahoo.com/news/aarp-to-join-us-government-in-two-more-lawsuits-over-medicare-drug-pricing-negotiations-205350458.html?.tsrc=rss)
+- 2023-08-24 [CVS Health launches new brand Cordavis to target $100 billion biosimilar market](https://finance.yahoo.com/news/cvs-health-launches-new-brand-cordavis-to-target-100-billion-biosimilar-market-150310022.html?.tsrc=rss)
+- 2023-08-24 [5 Defensive Stocks to Buy Amid Lingering Market Volatility](https://finance.yahoo.com/news/5-defensive-stocks-buy-amid-132700943.html?.tsrc=rss)
+- 2023-08-24 [UPDATE 2-J&J's Janssen to close part of its vaccine division -Telegraaf](https://finance.yahoo.com/news/1-j-js-janssen-close-163054387.html?.tsrc=rss)
 
 
                 

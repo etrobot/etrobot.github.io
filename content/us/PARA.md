@@ -1,41 +1,41 @@
 
 ---
-title: "1002 PARA"
+title: "PARA"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:27:14
+date: 2023-08-27T10:21:28
 draft: true
-tags: ['Paramount Global', 'PARA', 'Media conglomerate', 'Acquisition talks', 'Content production']
+tags: ['earnings call', 'revenues beat', 'subscriber growth', 'value trap concerns', 'entertainment industry']
 author: Friday Wall
 ---
 
-score:1002
+score:-42
 ### Chances:
-1. Paramount Global's stock demonstrated a recent gain of 4.14%, indicating positive investor sentiment.
-2. Steady growth in viewership driven by strength in Paramount+ is expected to aid Paramount Global's second-quarter performance.
-3. Potential acquisition talks with KKR & Co Inc to sell book publisher Simon & Schuster for $1.65 billion could have positive implications for Paramount Global's financial status.
-4. The recombination of CBS and Viacom into Paramount Global creates a global media conglomerate, offering growth opportunities.
-5. Potential recoveries in some of Paramount Global's lagging picks, as mentioned in the news, could lead to improved financial performance.
+1. Surprise Q2 profit reported by Paramount Global.
+2. Revenues beat expectations in Q2 2023.
+3. Positive impact of subscriber growth on earnings.
+4. Company's commitment to ending strikes and adjusting fall lineup.
+5. Paramount Global to sell Simon & Schuster in a $1.62 billion deal.
 ### Risks:
-1. Despite recent gains, Paramount Global reported a Loss Per Share of $0.78, suggesting ongoing financial challenges.
-2. A reported book publisher sale for the second time and potential acquisitions indicate uncertainties in Paramount Global's strategic decisions.
-3. Tepid advertiser demand may pose risks to Paramount Global's revenue generation, especially amid an ongoing advertising environment challenge.
-4. The ongoing Hollywood writers' and actors' strikes may impact Paramount Global's operations and content production.
-5. Competition in the media and entertainment industry, with consumers having more entertainment options, may affect Paramount Global's market position.
-### Score:1002
-chances characters count - risks characters count = 2
+1. Analysts remaining bearish despite positive earnings results.
+2. Slowing growth in streaming and potential impact on earnings.
+3. Potential value trap concerns explored in comprehensive analysis.
+4. Mixed earnings season for streamers and entertainment stocks.
+5. Decline in viewership hitting record low for traditional TV.
+### Score:-42
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:PARA">}}
 ### References:
-- 2023-08-05 [Is Paramount Global (PARA) a Potential Value Trap? A Comprehensive Analysis](https://finance.yahoo.com/news/paramount-global-para-potential-value-163654132.html?.tsrc=rss)
-- 2023-08-04 [3 Warren Buffett Stocks That Could Go Parabolic](https://finance.yahoo.com/m/3e100f61-0a43-30e9-8e13-1e1bfe6d10a7/3-warren-buffett-stocks-that.html?.tsrc=rss)
-- 2023-08-04 [KKR in Advanced Talks to Buy Simon & Schuster for Roughly $1.65 Billion](https://finance.yahoo.com/m/57487510-10fb-3d48-b597-b24f3cbea34e/kkr-in-advanced-talks-to-buy.html?.tsrc=rss)
-- 2023-08-04 [UPDATE 1-KKR in advanced talks to buy Simon & Schuster for $1.65 bln -sources](https://finance.yahoo.com/news/1-kkr-advanced-talks-buy-220251014.html?.tsrc=rss)
-- 2023-08-04 [KKR in advanced talks to buy Simon & Schuster for $1.65 billion -sources](https://finance.yahoo.com/news/kkr-advanced-talks-buy-simon-212456481.html?.tsrc=rss)
-- 2023-08-03 [Paramount Global (PARA) to Report Q2 Earnings: What's in Store?](https://finance.yahoo.com/news/paramount-global-para-report-q2-155400572.html?.tsrc=rss)
-- 2023-08-03 [WBD earnings miss: Ad environment is 'just not picking up," analyst says](https://finance.yahoo.com/video/wbd-earnings-miss-ad-environment-140502722.html?.tsrc=rss)
-- 2023-08-03 [The Future of Media: Paramount Hosts Career Day for Reel Works' Student Filmmakers](https://finance.yahoo.com/news/future-media-paramount-hosts-career-134500602.html?.tsrc=rss)
-- 2023-08-03 [‘Pee-wee’s Playhouse’ Was Always More Than a Kids’ Show](https://finance.yahoo.com/m/bdff43fa-ead9-32a9-8579-7c963cb16ed7/%E2%80%98pee-wee%E2%80%99s-playhouse%E2%80%99-was.html?.tsrc=rss)
-- 2023-08-02 [CBS partners with Nickelodeon for family-friendly Super Bowl telecast](https://finance.yahoo.com/video/cbs-partners-nickelodeon-family-friendly-213217734.html?.tsrc=rss)
+- 2023-08-26 [Is Paramount Global (PARA) Too Good to Be True? A Comprehensive Analysis of a Potential Value Trap](https://finance.yahoo.com/news/paramount-global-para-too-good-233357144.html?.tsrc=rss)
+- 2023-08-26 [Amazon, Disney discussing ESPN streaming deal: Report](https://finance.yahoo.com/video/amazon-disney-discussing-espn-streaming-202622848.html?.tsrc=rss)
+- 2023-08-25 [Warner Bros. Discovery (WBD) to Launch CNN Max News Channel](https://finance.yahoo.com/news/warner-bros-discovery-wbd-launch-150800519.html?.tsrc=rss)
+- 2023-08-24 [Nvidia results, Russia plane crash, India moon landing: Top stories](https://finance.yahoo.com/video/nvidia-results-russia-plane-crash-214125030.html?.tsrc=rss)
+- 2023-08-24 [Hollywood strikes: Studios release details of offer to WGA](https://finance.yahoo.com/video/hollywood-strikes-studios-release-details-202246164.html?.tsrc=rss)
+- 2023-08-23 [Americans are canceling more streaming plans as prices balloon](https://finance.yahoo.com/news/americans-are-canceling-more-streaming-plans-as-prices-balloon-153035743.html?.tsrc=rss)
+- 2023-08-23 [PATH Launches Limited Edition Teenage Mutant Ninja Turtles: Mutant Mayhem Bottles in Partnership with Paramount Consumer Products](https://finance.yahoo.com/news/path-launches-limited-edition-teenage-140000101.html?.tsrc=rss)
+- 2023-08-23 [Streaming cancellation rates rose in July: Report](https://finance.yahoo.com/video/streaming-cancellation-rates-rose-july-211424438.html?.tsrc=rss)
+- 2023-08-23 [Hollywood strikes:  'A lose-lose situation' as fears mount over a $4 billion economic hit](https://finance.yahoo.com/news/hollywood-strikes-a-lose-lose-situation-as-fears-mount-over-a-4-billion-economic-hit-193730757.html?.tsrc=rss)
+- 2023-08-22 [Paramount Consumer Products to Sponsor Press Center at Toy Fair® 2023](https://finance.yahoo.com/news/paramount-consumer-products-sponsor-press-173200454.html?.tsrc=rss)
 
 
                 

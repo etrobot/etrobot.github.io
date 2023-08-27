@@ -1,40 +1,41 @@
 
 ---
-title: "1151 CPNG"
+title: "CPNG"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T12:13:38
+date: 2023-08-27T10:28:31
 draft: true
-tags: ['Coupang, Inc.', 'CPNG', 'E-commerce', 'Growth Stocks', 'Stock Performance']
+tags: ['e-commerce growth', 'profit sustainability', 'valuation concern', 'institutional investors', 'market volatility']
 author: Friday Wall
 ---
 
-score:1151
+score:-27
 ### Chances:
-1. Coupang's estimated fair value is US$25.12 based on 2 Stage Free Cash Flow to Equity.
-2. E-commerce industry indicators, such as predictions of growth for Amazon and other players, suggest a potential bounce back for Coupang.
-3. Coupang's stock saw a double-digit share price rise in the recent past.
-4. Businesses that have the potential to grow substantially could be attractive investment opportunities.
-5. These three businesses, yet to join the market's rally in 2023, may be brilliant buy-and-hold investments when looking a decade ahead.
+1. Coupang sustains profit streak, sees logistics investments pay off.
+2. Coupang's Q2 earnings and revenues beat estimates.
+3. Coupang stock clears key benchmark, hitting 80-plus RS rating.
+4. Coupang's sales beat estimates after big spending pays off.
+5. Positive momentum and growth trends in Coupang's returns on capital.
 ### Risks:
-1. Coupang's stock prices may be aligned with market trends and may not always reflect its long-term growth potential.
-2. Coupang's stock went up by 9.0% over the past three months, which could impact its short-term performance.
-3. Investing in growth stocks under $25 may carry specific risks and challenges.
-4. The global economy's recent hits could pose risks for Coupang's future performance.
-### Score:1151
-chances characters count - risks characters count = 151
+1. Earnings misses in Q1 and valuation concerns for Coupang's stock.
+2. Dependence on economic recovery for e-commerce growth.
+3. Competition in the e-commerce industry and potential market corrections.
+4. Volatility in the stock price affecting institutional investors.
+5. Market uncertainty and potential impact of global events on e-commerce sector.
+### Score:-27
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:CPNG">}}
 ### References:
-- 2023-08-02 [Returns On Capital Are Showing Encouraging Signs At Coupang (NYSE:CPNG)](https://finance.yahoo.com/news/returns-capital-showing-encouraging-signs-140034420.html?.tsrc=rss)
-- 2023-08-02 [3 Top Stocks to Buy for the Long Haul](https://finance.yahoo.com/m/679bb08e-e6f0-305a-91eb-0746cfe34195/3-top-stocks-to-buy-for-the.html?.tsrc=rss)
-- 2023-07-29 [Is Coupang, Inc. (NYSE:CPNG) Potentially Undervalued?](https://finance.yahoo.com/news/coupang-inc-nyse-cpng-potentially-120032510.html?.tsrc=rss)
-- 2023-07-27 [12 Best Growth Stocks Under $25](https://finance.yahoo.com/news/12-best-growth-stocks-under-134720081.html?.tsrc=rss)
-- 2023-07-26 [Coupang to Announce Second Quarter 2023 Results on August 8, 2023](https://finance.yahoo.com/news/coupang-announce-second-quarter-2023-200000582.html?.tsrc=rss)
-- 2023-07-25 [Coupang, Inc. (NYSE:CPNG) Shares Could Be 32% Below Their Intrinsic Value Estimate](https://finance.yahoo.com/news/coupang-inc-nyse-cpng-shares-110046021.html?.tsrc=rss)
-- 2023-07-20 [Coupang, Inc. (NYSE:CPNG) is a favorite amongst institutional investors who own 51%](https://finance.yahoo.com/news/coupang-inc-nyse-cpng-favorite-140028880.html?.tsrc=rss)
-- 2023-07-15 [Coupang (NYSE:CPNG) shareholder returns have been , earning 11% in 1 year](https://finance.yahoo.com/news/coupang-nyse-cpng-shareholder-returns-110121302.html?.tsrc=rss)
-- 2023-07-11 [Alibaba (BABA) Soars 8.0%: Is Further Upside Left in the Stock?](https://finance.yahoo.com/news/alibaba-baba-soars-8-0-163900749.html?.tsrc=rss)
-- 2023-07-06 [Coupang, Inc. (NYSE:CPNG) On An Uptrend: Could Fundamentals Be Driving The Stock?](https://finance.yahoo.com/news/coupang-inc-nyse-cpng-uptrend-120034163.html?.tsrc=rss)
+- 2023-08-26 [3 Unstoppable Growth Stocks to Buy Before They Soar](https://finance.yahoo.com/m/63112174-a07d-31c8-a6c3-df538e055eb8/3-unstoppable-growth-stocks.html?.tsrc=rss)
+- 2023-08-25 [A Closer Look at Coupang](https://finance.yahoo.com/news/closer-look-coupang-162740659.html?.tsrc=rss)
+- 2023-08-24 [Is There An Opportunity With Coupang, Inc.'s (NYSE:CPNG) 22% Undervaluation?](https://finance.yahoo.com/news/opportunity-coupang-inc-nyse-cpng-120016714.html?.tsrc=rss)
+- 2023-08-20 [Where Will Coupang Stock Be in 1 Year?](https://finance.yahoo.com/m/fb19bca8-e81b-3a99-abba-d48ef2bba596/where-will-coupang-stock-be.html?.tsrc=rss)
+- 2023-08-20 [After a year of 4.2% returns, Coupang, Inc.'s (NYSE:CPNG) share price drop last week may have less of an impact on institutional investors](https://finance.yahoo.com/news/4-2-returns-coupang-inc-140018911.html?.tsrc=rss)
+- 2023-08-18 [Stanley Druckenmiller 13F Portfolio: Top 15 Stocks](https://finance.yahoo.com/news/stanley-druckenmiller-13f-portfolio-top-113949998.html?.tsrc=rss)
+- 2023-08-17 [Why Coupang, Inc. (CPNG) Might be Well Poised for a Surge](https://finance.yahoo.com/news/why-coupang-inc-cpng-might-162006741.html?.tsrc=rss)
+- 2023-08-16 [Does Coupang, Inc. (CPNG) Have the Potential to Rally 26.68% as Wall Street Analysts Expect?](https://finance.yahoo.com/news/does-coupang-inc-cpng-potential-135508076.html?.tsrc=rss)
+- 2023-08-16 [Is Chuy's (CHUY) Stock Outpacing Its Retail-Wholesale Peers This Year?](https://finance.yahoo.com/news/chuys-chuy-stock-outpacing-retail-190804969.html?.tsrc=rss)
+- 2023-08-15 [This E-Commerce Stock Just Delivered Blowout Earnings. Is It Time to Buy?](https://finance.yahoo.com/m/6638bd18-799a-3b73-a221-6f49f675366e/this-e-commerce-stock-just.html?.tsrc=rss)
 
 
                 

@@ -1,38 +1,41 @@
 
 ---
-title: "0858 GM"
+title: "GM"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:12:43
+date: 2023-08-27T09:22:53
 draft: true
-tags: ['General Motors Company', 'GM', 'Electric Vehicles', 'Labor Union', 'EV Market']
+tags: ['EV technology', 'partnerships', 'labor negotiations', 'stock decline', 'market uncertainty']
 author: Friday Wall
 ---
 
-score:858
+score:-24
 ### Chances:
-1. General Motors plans to boost employment next year despite concerns over the shift to electric vehicles, which could signal positive growth for the company.
-2. The expectation of offering unionized workers higher wages might indicate a positive outlook for General Motors' financial performance and workforce morale.
-3. Investors are betting on highly profitable niches such as electric boats in the competitive EV market, which could bode well for General Motors' electric vehicle offerings.
+1. Positive potential for rebound after recent earnings report decline.
+2. Collaboration with battery materials startup for EV battery technology.
+3. Partnership with Hyundai Motor to scale up Indian operations.
+4. Investment in EV battery startup to shift future focus to cheaper materials.
+5. Interest and investment in EV market amid potential value increase.
 ### Risks:
-1. The United Auto Workers' (UAW) ambitious contract demands for large pay rises could impact General Motors' ability to make sound business decisions and hurt its financial performance.
-2. General Motors' joint venture with LG Energy Solution rejecting a push by Democratic U.S. senators for workers' coverage under a national labor agreement may raise labor relations concerns.
-3. The highly competitive EV market might pose challenges for General Motors in maintaining market share and profitability.
-4. The ongoing contract talks with the United Auto Workers (UAW) union could result in potential labor disruptions and uncertainties.
-### Score:858
-chances characters count - risks characters count = -142
+1. Labor strikes authorized by workers impacting production and operations.
+2. Decline in stock value since last earnings report, potential for further decline.
+3. Cutting of jobs and IT operations affecting company's workforce.
+4. Market uncertainty due to EV glut and potential supply-demand imbalance.
+5. Potential challenges in negotiating labor deals with UAW and other automakers.
+### Score:-24
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:GM">}}
 ### References:
-- 2023-08-05 [GM vows to boost jobs next year despite EV shift](https://finance.yahoo.com/news/gm-vows-boost-jobs-next-212554746.html?.tsrc=rss)
-- 2023-08-04 [UAW Demands 40% Pay Hike in Labor Talks With Detroit Automakers](https://finance.yahoo.com/m/7c908415-8ac9-3ebc-b90f-415cce095e99/uaw-demands-40%25-pay-hike-in.html?.tsrc=rss)
-- 2023-08-04 [GM criticizes autoworkers union's contract demands](https://ca.finance.yahoo.com/news/gm-criticizes-autoworkers-unions-contract-224957034.html?.tsrc=rss)
-- 2023-08-04 [UPDATE 2-GM criticizes autoworkers union's contract demands](https://finance.yahoo.com/news/1-gm-criticizes-autoworkers-unions-224105342.html?.tsrc=rss)
-- 2023-08-03 [UPDATE 1-GM JV battery firm rejects including Ohio workers under national agreement](https://finance.yahoo.com/news/1-gm-jv-battery-firm-232858687.html?.tsrc=rss)
-- 2023-08-03 [A $15 Billion Electric Vehicle Niche Is Flying Under Wall Street’s Radar](https://finance.yahoo.com/news/15-billion-electric-vehicle-niche-230000388.html?.tsrc=rss)
-- 2023-08-03 [Automobile ETFs in the Spotlight After Upbeat Q2 Earnings](https://finance.yahoo.com/news/automobile-etfs-spotlight-upbeat-q2-210000967.html?.tsrc=rss)
-- 2023-08-03 [Elon Musk's Tesla Is Creating a Big Problem For General Motors](https://finance.yahoo.com/m/ac71bb38-070b-3651-a363-1308dd131725/elon-musk%27s-tesla-is-creating.html?.tsrc=rss)
-- 2023-08-02 [UAW Says Costly EV Transition Won’t Change Union’s Demands](https://finance.yahoo.com/m/882adffe-93c2-3ad2-864f-9723965890c5/uaw-says-costly-ev-transition.html?.tsrc=rss)
-- 2023-08-02 [Q2 2023 Gentherm Inc Earnings Call](https://finance.yahoo.com/news/q2-2023-gentherm-inc-earnings-032809745.html?.tsrc=rss)
+- 2023-08-26 [150,000 Workers Vote to Authorize Strikes at Stellantis, GM, and Ford](https://finance.yahoo.com/m/d4365a39-ddb0-3fd0-ab5e-8b88912804b7/150%2C000-workers-vote-to.html?.tsrc=rss)
+- 2023-08-26 [UAW authorizes strike against Ford, GM, Stellantis](https://finance.yahoo.com/video/uaw-authorizes-strike-against-ford-164719007.html?.tsrc=rss)
+- 2023-08-26 [GM Battery Plant Offers EV Workers Higher Wages After Solvent Leak](https://finance.yahoo.com/m/c6bf5614-3689-3fbb-9141-e54bea05b6d3/gm-battery-plant-offers-ev.html?.tsrc=rss)
+- 2023-08-26 [United Auto Workers Members Vote to Authorize Potential Strike](https://finance.yahoo.com/m/06c7ca02-945f-35ef-a4af-c7ebaa509da1/united-auto-workers-members.html?.tsrc=rss)
+- 2023-08-25 [Tesla diner and drive-in theater in LA is one step closer to reality](https://finance.yahoo.com/news/tesla-diner-and-drive-in-theater-in-la-is-one-step-closer-to-reality-142514662.html?.tsrc=rss)
+- 2023-08-25 [General Motors to close information technology center near Phoenix and eliminate 940 jobs](https://finance.yahoo.com/news/general-motors-close-information-technology-184056593.html?.tsrc=rss)
+- 2023-08-24 [General Motors Company (GM) Down 12.4% Since Last Earnings Report: Can It Rebound?](https://finance.yahoo.com/news/general-motors-company-gm-down-153049777.html?.tsrc=rss)
+- 2023-08-24 [10 Best EV Charging Stocks According to Hedge Funds](https://finance.yahoo.com/news/10-best-ev-charging-stocks-140857103.html?.tsrc=rss)
+- 2023-08-24 [General Motors (GM) Shuts Innovation Center & Cuts Jobs](https://finance.yahoo.com/news/general-motors-gm-shuts-innovation-135000469.html?.tsrc=rss)
+- 2023-08-24 [Warren Buffett Dumps 45% of This Auto Stock: Time to Panic?](https://finance.yahoo.com/m/dafba16e-8ef0-3dba-a497-cd5f1d6d7caa/warren-buffett-dumps-45%25-of.html?.tsrc=rss)
 
 
                 

@@ -1,40 +1,41 @@
 
 ---
-title: "0858 WBD"
+title: "WBD"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:53:15
+date: 2023-08-27T09:15:40
 draft: true
-tags: ['Warner Bros. Discovery, Inc.', 'WBD', 'Q2 Earnings', 'Hollywood Strike', 'Streaming']
+tags: ['streaming services', 'box office performance', 'content pipeline', 'earnings performance', 'industry trends']
 author: Friday Wall
 ---
 
-score:858
+score:-7
 ### Chances:
-1. Warner Bros. Discovery is working on bringing news and live sports to U.S. streaming platforms, which could help increase its subscriber base.
-2. The CEO, David Zaslav, is hopeful about resolving negotiations with striking Hollywood writers and actors' unions, which could potentially benefit the company's content offerings.
-3. ESPN's talks with potential strategic partners for streaming could present opportunities for Warner Bros. Discovery as a major broadcaster of games in local markets.
-4. The company's ability to generate cash flow may be seen as positive by investors despite missing earnings estimates, and it may have a comparative advantage over other legacy media companies.
+1. Warner Bros. Discovery launching 'CNN Max' streaming service in September.
+2. Addition of CNN Live-News service to Max streaming platform.
+3. Expanding content offerings with MLB playoffs on streaming.
+4. Box office success of 'Barbie' movie and positive box office rebound.
+5. Potential future tie-ups with leagues and rivals for streaming growth.
 ### Risks:
-1. Warner Bros. Discovery is facing a content crisis ahead of 2024 amidst the writers and actors' strikes, which could impact its content production and viewership.
-2. The ongoing Hollywood writers' and actors' strikes could potentially extend until October or November, affecting the company's content pipeline and financial performance.
-3. The company's earnings missed analyst estimates on both the top and bottom line, indicating potential challenges in revenue generation and profitability.
-4. The advertising environment is not picking up, which may affect the company's revenue from advertising and its overall financial performance.
-5. The streaming industry is highly competitive, and Warner Bros. Discovery needs to balance its content offerings to increase subscriber base without cannibalizing its traditional TV networks.
-### Score:858
-chances characters count - risks characters count = -142
+1. Delays in movie releases affecting content pipeline and revenue streams.
+2. Effects of Hollywood strikes on production and ad environment.
+3. Mixed earnings performance with missed estimates and ad revenue challenges.
+4. Rising streaming cancellation rates and pricing concerns.
+5. Impact of competition and changing viewership patterns on traditional TV.
+### Score:-7
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NASDAQ:WBD">}}
 ### References:
-- 2023-08-04 [Warner Bros. Discovery to Make Sports and News Available on Streaming](https://finance.yahoo.com/m/c29108fc-af57-3ed7-9e6d-9e04baaea126/warner-bros.-discovery-to.html?.tsrc=rss)
-- 2023-08-04 [WBD's cost-savings during Hollywood strikes is 'a paradox': Reporter](https://finance.yahoo.com/video/wbds-cost-savings-during-hollywood-202631678.html?.tsrc=rss)
-- 2023-08-04 [Disney’s ESPN Plots Its Streaming Future, Seeking Tie-Ups With Leagues and Rivals](https://finance.yahoo.com/m/751a53da-34fa-305d-a1b6-0a9046eae4be/disney%E2%80%99s-espn-plots-its.html?.tsrc=rss)
-- 2023-08-04 [Warner’s Streaming and Ad Misses Outweigh Its Huge Hit](https://finance.yahoo.com/m/c1bc506b-c0c2-33e0-b3d3-e01c6985b1cf/warner%E2%80%99s-streaming-and-ad.html?.tsrc=rss)
-- 2023-08-04 [Stocks to Watch Thursday: Qualcomm, PayPal, Etsy, AB InBev](https://finance.yahoo.com/m/7827d145-e41d-3129-8ca5-364aed90a456/stocks-to-watch-thursday%3A.html?.tsrc=rss)
-- 2023-08-03 [Warner Bros. Discovery CEO David Zaslav 'hopeful' Hollywood strikes end soon](https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-hopeful-hollywood-strikes-end-soon-144435440.html?.tsrc=rss)
-- 2023-08-03 [WBD earnings miss: Ad environment is 'just not picking up," analyst says](https://finance.yahoo.com/video/wbd-earnings-miss-ad-environment-140502722.html?.tsrc=rss)
-- 2023-08-03 [Warner Bros. Discovery Q2 earnings miss estimates but free cash flow improves](https://finance.yahoo.com/news/warnerbrosdiscovery-earnings-second-quarter-2023-august-3-2023-111847144.html?.tsrc=rss)
-- 2023-08-03 [WARNER BROS. DISCOVERY REPORTS SECOND-QUARTER 2023 RESULTS](https://finance.yahoo.com/news/warner-bros-discovery-reports-second-110500088.html?.tsrc=rss)
-- 2023-08-03 [Warner Bros. Discovery Announces Commencement of Cash Tender Offers for Any and All](https://finance.yahoo.com/news/warner-bros-discovery-announces-commencement-110000864.html?.tsrc=rss)
+- 2023-08-26 [The Score: Macy’s, Nvidia, Warner Bros. Discovery and More Stocks That Defined the Week](https://finance.yahoo.com/m/791e4b6b-d533-31c5-a95b-c92a8b0c245e/the-score%3A-macy%E2%80%99s%2C-nvidia%2C.html?.tsrc=rss)
+- 2023-08-26 [Amazon, Disney discussing ESPN streaming deal: Report](https://finance.yahoo.com/video/amazon-disney-discussing-espn-streaming-202622848.html?.tsrc=rss)
+- 2023-08-26 [Wedbush upgrades AMC amid stock conversion](https://finance.yahoo.com/video/wedbush-upgrades-amc-amid-stock-201404408.html?.tsrc=rss)
+- 2023-08-25 [Warner Bros. Discovery Delays Releases of New ‘Lord of the Rings,’ ‘Dune’ and ‘Godzilla’ Films](https://finance.yahoo.com/m/d2b4a346-cd15-37cd-bbeb-0e8987ea1ebd/warner-bros.-discovery-delays.html?.tsrc=rss)
+- 2023-08-25 [Warner Bros. Discovery launching 'CNN Max' in September](https://finance.yahoo.com/video/warner-bros-discovery-launching-cnn-205849672.html?.tsrc=rss)
+- 2023-08-25 [Warner Bros. Discovery Adds CNN Live-News Service to Max Streaming Platform](https://finance.yahoo.com/m/e26de700-4416-36b1-a154-7fc8176f85f6/warner-bros.-discovery-adds.html?.tsrc=rss)
+- 2023-08-25 [WARNER BROS. DISCOVERY ANNOUNCES CONFERENCE PARTICIPATION FOR THE MONTH OF SEPTEMBER](https://finance.yahoo.com/news/warner-bros-discovery-announces-conference-200500160.html?.tsrc=rss)
+- 2023-08-25 ['Barbie' tops 'Super Mario Bros. Movie' as highest-grossing film of 2023](https://finance.yahoo.com/news/barbie-tops-super-mario-bros-movie-as-highest-grossing-film-of-2023-172503946.html?.tsrc=rss)
+- 2023-08-24 [Warner Bros. Discovery announces 24-hour streaming news channel 'CNN Max'](https://finance.yahoo.com/news/warner-bros-discovery-announces-24-hour-streaming-news-channel-cnn-max-131307062.html?.tsrc=rss)
+- 2023-08-24 [Nvidia results, Russia plane crash, India moon landing: Top stories](https://finance.yahoo.com/video/nvidia-results-russia-plane-crash-214125030.html?.tsrc=rss)
 
 
                 

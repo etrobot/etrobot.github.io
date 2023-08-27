@@ -1,41 +1,37 @@
 
 ---
-title: "1049 X"
+title: "X"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T11:54:26
+date: 2023-08-18T09:53:38
 draft: true
-tags: ['United States Steel Corporation', 'US Steel', 'AI and Robotics', 'Infrastructure Projects', 'Manufacturing Industry']
+tags: ['Steel Industry', 'Acquisition', 'Labor Relations', 'Competition Regulation', 'Political Factors']
 author: Friday Wall
 ---
 
-score:1049
+score:65
 ### Chances:
-1. United States Steel Corp. is exploring the use of artificial intelligence, robotics, and automation in its operations, showing its commitment to technological advancements and efficiency.
-2. US Steel Corp.'s Big River expansions proceeding on track and on time may contribute to business growth and increased demand.
-3. The Biden administration's Inflation Reduction Act is seen as a positive for the manufacturing industry, potentially benefiting US Steel's operations.
-4. United States Steel Corporation appoints Emily Chieng as Investor Relations Officer, which could enhance communication and investor relations efforts.
-5. Nucor, U.S. Steel, and other companies counting on infrastructure projects and auto production to raise demand may positively impact US Steel's performance.
+1. The proposed acquisition of United States Steel by Cleveland-Cliffs has the potential to create a strong American steel champion, which could compete against Chinese dominance in the steel industry.
+2. Cleveland-Cliffs' acquisition of the United Steelworkers' right to bid on the sale of United States Steel indicates that the former is positioning itself as a strong contender for the acquisition, potentially leading to a favorable outcome for Cleveland-Cliffs.
+3. Cleveland-Cliffs' agreement to assume all agreements between United States Steel and the United Steelworkers suggests a commitment to maintaining positive labor relations and employee benefits.
 ### Risks:
-1. The requirement for fenceline monitoring of benzene emissions, urged by the Environmental Integrity Project, may result in increased compliance costs for US Steel.
-2. Forward-looking statements based on certain assumptions may subject US Steel to risks and uncertainties, affecting actual future results.
-3. The steel industry is susceptible to market fluctuations and global economic conditions, which may impact US Steel's financial performance.
-4. While US Steel aims to adopt technological advancements, the successful implementation of AI, robotics, and automation may face challenges.
-5. The company's performance is dependent on factors such as steel prices, trade policies, and raw material costs, which could be unpredictable.
-### Score:1049
-chances characters count - risks characters count = 49
+1. The potential acquisition of United States Steel by Cleveland-Cliffs could attract scrutiny from US competition regulators due to concerns about reduced competition and potential monopoly issues in the steel industry.
+2. Political headwinds, such as the request from U.S. Senator J.D. Vance to rule out a foreign buyer, could impact the bidding process and the eventual acquisition of United States Steel.
+3. The union's involvement and preference for Cleveland-Cliffs as the suitor for United States Steel could lead to negotiations and labor-related challenges if the acquisition goes through.
+### Score:65
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:X">}}
 ### References:
-- 2023-08-05 [Proposed EPA rules would further tighten emissions from U.S. Steel Clairton plant](https://finance.yahoo.com/m/902206ac-b6e4-3ad1-b761-30292ce4b6a3/proposed-epa-rules-would.html?.tsrc=rss)
-- 2023-08-03 [U.S. Steelmakers Are Still Expanding as Demand Slows](https://finance.yahoo.com/m/bce9d9aa-6dbe-393d-8fcd-5e59f492f4c1/u.s.-steelmakers-are-still.html?.tsrc=rss)
-- 2023-08-03 [2 longtime Pittsburgh manufacturers are diving in deep with new AI](https://finance.yahoo.com/m/bd839629-c5e1-3d4d-9ae5-2799e4c98dda/2-longtime-pittsburgh.html?.tsrc=rss)
-- 2023-08-02 [U. S. Steel Names Goldman Sachs Alum Emily Chieng as Investor Relations Officer](https://finance.yahoo.com/news/u-steel-names-goldman-sachs-140100906.html?.tsrc=rss)
-- 2023-07-29 [United States Steel Corporation (NYSE:X) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/united-states-steel-corporation-nyse-151935215.html?.tsrc=rss)
-- 2023-07-29 [United States Steel (X) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/581269a2-453a-3131-8788-cd297f08d920/united-states-steel-%28x%29-q2.html?.tsrc=rss)
-- 2023-07-29 [U.S. Steel-SunCoke deal to sell blast furnaces still isn't complete](https://finance.yahoo.com/m/8270b9b8-856c-395c-a480-dfb13e002be1/u.s.-steel-suncoke-deal-to.html?.tsrc=rss)
-- 2023-07-29 [US Steel CEO: Rename IRA the 'Manufacturing Renaissance Act'](https://finance.yahoo.com/video/us-steel-ceo-rename-ira-160328529.html?.tsrc=rss)
-- 2023-07-28 [US Steel CEO Hails IRA as a ‘Manufacturing Renaissance Act’](https://finance.yahoo.com/news/us-steel-ceo-hails-ira-153910070.html?.tsrc=rss)
-- 2023-07-28 [U.S. Steel's (X) Q2 Earnings and Revenues Top Estimates](https://finance.yahoo.com/news/u-steels-x-q2-earnings-150700107.html?.tsrc=rss)
+- 2023-08-18 [Bid for US Steel promises national security through consolidation](https://finance.yahoo.com/m/dcf49a99-56ca-39a1-b01a-93419527e8cb/bid-for-us-steel-promises.html?.tsrc=rss)
+- 2023-08-18 [USW transfers its right to bid on U.S. Steel to Cleveland Cliffs](https://finance.yahoo.com/m/c7ca218a-bf56-3faf-b57c-aded35401109/usw-transfers-its-right-to.html?.tsrc=rss)
+- 2023-08-18 [Cleveland-Cliffs Receives Exclusive Assignment of Right to Bid from United Steelworkers](https://finance.yahoo.com/news/cleveland-cliffs-receives-exclusive-assignment-021300866.html?.tsrc=rss)
+- 2023-08-18 [UPDATE 1-US Senator Vance asks US Steel to rule out foreign buyer](https://finance.yahoo.com/news/1-us-senator-vance-asks-013337258.html?.tsrc=rss)
+- 2023-08-18 [UPDATE 2-U.S. Steel says union cannot block company's sale](https://finance.yahoo.com/news/1-u-steel-says-union-012222608.html?.tsrc=rss)
+- 2023-08-18 [U.S. Steel says union cannot block company's sale](https://finance.yahoo.com/news/u-steel-says-union-cannot-205826415.html?.tsrc=rss)
+- 2023-08-18 [US Senator Vance asks US Steel to rule out foreign buyer](https://ca.finance.yahoo.com/news/us-senator-vance-asks-us-203543199.html?.tsrc=rss)
+- 2023-08-18 [Stock Market Today: Tech Stocks Lag as Treasury Yields Spike](https://finance.yahoo.com/news/stock-market-today-tech-stocks-200942558.html?.tsrc=rss)
+- 2023-08-18 [Who owns the largest amount of shares in U.S. Steel, Cleveland-Cliffs?](https://finance.yahoo.com/m/b9c589d6-521e-3a84-a7eb-1efc544c113c/who-owns-the-largest-amount.html?.tsrc=rss)
+- 2023-08-18 [U.S. Steel clarifies role of union in change in company’s control](https://finance.yahoo.com/m/ec4d03fe-55f2-35ae-8ae8-c959c975688e/u.s.-steel-clarifies-role-of.html?.tsrc=rss)
 
 
                 

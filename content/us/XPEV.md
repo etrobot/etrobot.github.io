@@ -1,39 +1,41 @@
 
 ---
-title: "0974 XPEV"
+title: "XPEV"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:59:13
+date: 2023-08-27T09:05:38
 draft: true
-tags: ['XPeng Inc.', 'XPEV', 'Electric Vehicle Industry', 'Autonomous Driving', 'China EV Market']
+tags: ['Q2 earnings', 'delivery growth', 'EV market competition', 'partnership news', 'market cap drop']
 author: Friday Wall
 ---
 
-score:974
+score:-8
 ### Chances:
-1. Demand for electric vehicles and charging solutions is boosting earnings and sales for EV stocks, including XPeng Inc.
-2. XPeng is a leading Chinese smart electric vehicle company, which indicates its potential for growth in the expanding EV market.
-3. The company's Senior Director of XPeng's autonomous driving team, Dr. Liyun Li, will assume the responsibilities of the resigned Vice President of Autonomous Driving, Dr. Xinzhou Wu, ensuring continuity in the autonomous driving division.
-4. XPeng's involvement in the XNGP project team suggests a focus on innovation and future technological advancements in the EV industry.
+1. XPeng stock gains after Q2 earnings miss, indicating investor optimism.
+2. Positive upgrade and partnership news contribute to XPeng stock surge.
+3. Anticipated jump in Q3 deliveries and recovery hints for XPeng amid a wider loss.
+4. China's EV market growth and increased deliveries potentially benefit XPeng.
+5. XPeng's strong market presence and potential for recovery based on delivery numbers.
 ### Risks:
-1. The EV market in China is competitive, and any slowdown in electric vehicle sales or market demand could impact XPeng's financial performance.
-2. The resignation of the Vice President of Autonomous Driving for personal and family reasons may have implications on the company's autonomous driving development and innovation.
-3. The potential partnership with Zhejiang Leapmotor Technology and Volkswagen for the Jetta brand may face regulatory and competitive challenges in the Chinese EV market.
-4. Competition from other Chinese electric vehicle manufacturers, such as Nio, Li Auto, and BYD, could put pressure on XPeng's market share and profitability.
-### Score:974
-chances characters count - risks characters count = -26
+1. XPeng reports Q2 earnings and sales miss, leading to stock decline.
+2. Earnings loss and sales slump impact XPeng's net loss and market performance.
+3. Competitive price war with Tesla affects XPeng's performance and profitability.
+4. Market cap drop and management changes create uncertainty around XPeng's future.
+5. China's regulatory environment and local EV rivals impacting XPeng's stock performance.
+### Score:-8
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:XPEV">}}
 ### References:
-- 2023-08-05 [EVgo Charging Network Sees Revenue Soar, Uplifted By Project Tied To Warren Buffett](https://finance.yahoo.com/m/c4c0a1f4-2dbe-3ae7-892e-787f3f0f68f4/evgo-charging-network-sees.html?.tsrc=rss)
-- 2023-08-04 [These Are The 6 Best EV Stocks To Buy And Watch Now](https://finance.yahoo.com/m/122449e8-b87b-33a5-ae22-63ae3842e91b/these-are-the-6-best-ev.html?.tsrc=rss)
-- 2023-08-04 [Tesla's EV Sales in China Fell More Than 30% in July](https://finance.yahoo.com/m/87c99d5e-c30e-30af-b758-576d440fc4ff/tesla%27s-ev-sales-in-china.html?.tsrc=rss)
-- 2023-08-03 [Baidu's Ernie Bot to be used in Great Wall Motor's vehicles to enhance conversation between driver and car](https://finance.yahoo.com/news/baidus-ernie-bot-used-great-093000387.html?.tsrc=rss)
-- 2023-08-03 [A $15 Billion Electric Vehicle Niche Is Flying Under Wall Street’s Radar](https://finance.yahoo.com/news/15-billion-electric-vehicle-niche-230000388.html?.tsrc=rss)
-- 2023-08-02 [UPDATE 1-XPeng's vice president of autonomous driving resigns](https://finance.yahoo.com/news/1-xpengs-vice-president-autonomous-140732265.html?.tsrc=rss)
-- 2023-08-02 [XPENG Announces Management Change](https://finance.yahoo.com/news/xpeng-announces-management-change-122000542.html?.tsrc=rss)
-- 2023-08-02 [UPDATE 2-Volkswagen in talks with Leapmotor on tech tie-up for Jetta brand - China media](https://finance.yahoo.com/news/2-volkswagen-talks-leapmotor-tech-073153335.html?.tsrc=rss)
-- 2023-08-02 [Li Auto Pops To High On Robust Sales, But Nio May Have Edge Ahead](https://finance.yahoo.com/m/a9fd54d4-429a-311e-8940-0f35c650f4c8/li-auto-pops-to-high-on.html?.tsrc=rss)
-- 2023-08-01 [NIO, Li, and XPeng Post Huge Deliveries Numbers. That’s Good for Tesla Stock.](https://finance.yahoo.com/m/a7951287-7b13-3a51-b54a-654528200465/nio%2C-li%2C-and-xpeng-post-huge.html?.tsrc=rss)
+- 2023-08-27 [These Are The 5 Best China Stocks To Buy And Watch Now](https://finance.yahoo.com/m/519b97ea-e947-3491-92e3-86d237569982/these-are-the-5-best-china.html?.tsrc=rss)
+- 2023-08-24 [XPeng (XPEV) Gains 7.2% Since Q2 Earnings and Sales Miss](https://finance.yahoo.com/news/xpeng-xpev-gains-7-2-144500570.html?.tsrc=rss)
+- 2023-08-24 [Xpeng's former autonomous driving head joins Nvidia](https://finance.yahoo.com/news/xpengs-former-autonomous-driving-head-095342414.html?.tsrc=rss)
+- 2023-08-24 [CORRECTED-Xpeng's former autonomous driving head joins Nvidia](https://finance.yahoo.com/news/xpengs-former-autonomous-driving-head-095101485.html?.tsrc=rss)
+- 2023-08-22 [XPeng Stock Soars Above Key Level Amid Hopes For Earlier Profitability](https://finance.yahoo.com/m/97f3ad61-8328-3787-bde1-6a8fcdb058a8/xpeng-stock-soars-above-key.html?.tsrc=rss)
+- 2023-08-21 [XPeng Inc. (NYSE:XPEV) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/xpeng-inc-nyse-xpev-q2-123220300.html?.tsrc=rss)
+- 2023-08-21 [XPeng stock upgraded by BofA analyst on Volkswagen partnership](https://finance.yahoo.com/video/xpeng-stock-upgraded-bofa-analyst-142547662.html?.tsrc=rss)
+- 2023-08-21 [XPeng Stock Surges on Upgrade. Positive Free Cash Flow Is in Sight.](https://finance.yahoo.com/m/9037609f-3541-3b5d-b846-b7430dc5398d/xpeng-stock-surges-on.html?.tsrc=rss)
+- 2023-08-21 [XPeng upgraded, Napco downgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/xpeng-upgraded-napco-downgraded-wall-134450213.html?.tsrc=rss)
+- 2023-08-21 [4 big analyst picks: BofA now bullish on EV maker XPeng, propelling shares higher](https://finance.yahoo.com/news/4-big-analyst-picks-xpeng-050507111.html?.tsrc=rss)
 
 
                 

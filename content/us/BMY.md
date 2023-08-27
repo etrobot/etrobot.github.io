@@ -1,47 +1,41 @@
 
 ---
-title: "1273 BMY"
+title: "BMY"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T12:13:03
+date: 2023-08-27T10:33:03
 draft: true
-tags: ['Bristol-Myers Squibb Company', 'BMY', 'Pharmaceuticals', 'Q2 Earnings', 'Generic Erosion']
+tags: ['label expansion', 'positive data', 'health campaigns', 'governance initiatives', 'lawsuits impact']
 author: Friday Wall
 ---
 
-score:1273
+score:0
 ### Chances:
-1. Institutions' substantial holdings in Bristol-Myers Squibb imply significant influence on the stock.
-2. Merck's stronger-than-expected second-quarter earnings may signal positive prospects for the pharmaceutical sector.
-3. Bristol-Myers Squibb's earnings and revenue surprises for Q2 2023 could provide insights into the stock's future performance.
-4. Pfizer's mixed second-quarter earnings may impact the pharmaceutical industry amid uncertainty around COVID.
-5. Qualcomm's downgrade and Wingstop's upgrade by Wall Street's top analyst could influence investor sentiment in the sector.
-6. Attractively valued corporations like Bristol Myers Squibb and Pfizer may present investment opportunities.
-7. Howard Marks' perspective on share price volatility may apply to Bristol-Myers Squibb's stock.
-8. Crocs stock's fall and AbbVie's better-than-expected Q2 sales of arthritis medication Humira could offer industry insights.
-9. Giovanni Caforio, CEO of Bristol-Myers Squibb, presented second-quarter results, including a sales miss for the oncology drug Revlimid.
+1. Bristol Myers' Opdivo receives European Commission approval for label expansion.
+2. Bristol Myers Squibb showcases positive updated NSCLC data.
+3. Bristol Myers Squibb launches Clear Understanding Campaign for plaque psoriasis.
+4. Bristol Myers Squibb progresses in environmental, social, and governance initiatives.
+5. Bristol Myers Squibb enters $4 billion accelerated share repurchase agreements.
 ### Risks:
-1. Bristol-Myers Squibb's sales shortfall and reduced financial outlook due to generic erosion for Revlimid may impact future performance.
-2. Lower-than-expected sales of cancer-fighting drugs Revlimid and Pomalyst affected Bristol-Myers Squibb's second-quarter results.
-3. Slow, sometimes nonexistent, revenue growth in past quarters has affected Bristol Myers Squibb's stock performance.
-4. Competition from generic alternatives has been hurting Bristol-Myers Squibb's sales figures.
-5. Uncertainty around COVID remains a headwind for Pfizer's second-quarter earnings.
-6. Bristol-Myers Squibb's Q2 earnings and revenue surprises of -12.06% and 4.96% could affect investor sentiment.
-7. The company's cuts to its 2023 forecast may raise concerns about Bristol-Myers Squibb's future outlook.
-### Score:1273
-chances characters count - risks characters count = 273
+1. Lawsuits against U.S. over drug pricing, potential impact on drug negotiations.
+2. Mixed quarterly results reported by Pfizer and Merck due to COVID uncertainty.
+3. Tumbling sales of Revlimid impacting Bristol Myers' revenue and forecast.
+4. Competition and business declines affecting pharmaceutical industry stocks.
+5. Insiders disposing stock at Bristol-Myers Squibb may indicate bearish signals.
+### Score:0
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:BMY">}}
 ### References:
-- 2023-08-06 [Bristol-Myers Squibb Company (NYSE:BMY) is favoured by institutional owners who hold 78% of the company](https://finance.yahoo.com/news/bristol-myers-squibb-company-nyse-120045924.html?.tsrc=rss)
-- 2023-08-03 [Qualcomm downgraded, Wingstop upgraded: Wall Street's top analyst calls](https://finance.yahoo.com/news/qualcomm-downgraded-wingstop-upgraded-wall-140329294.html?.tsrc=rss)
-- 2023-08-03 [Here's Why Investors Should Buy These 2 Medical Stocks After Earnings](https://finance.yahoo.com/news/heres-why-investors-buy-2-053100534.html?.tsrc=rss)
-- 2023-08-02 [Pfizer reports mixed quarterly results on uncertain COVID outlook](https://finance.yahoo.com/news/pfizer-reports-mixed-quarterly-results-on-uncertain-covid-outlook-191025365.html?.tsrc=rss)
-- 2023-08-02 [Merck upgrades guidance on stronger 2023 outlook as COVID business declines](https://finance.yahoo.com/news/merck-upgrades-guidance-on-stronger-2023-outlook-as-covid-business-declines-182600017.html?.tsrc=rss)
-- 2023-07-31 [These 4 Measures Indicate That Bristol-Myers Squibb (NYSE:BMY) Is Using Debt Reasonably Well](https://finance.yahoo.com/news/4-measures-indicate-bristol-myers-110024578.html?.tsrc=rss)
-- 2023-07-28 [Bristol Myers Squibb (BMY) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/ec34ff23-91bf-31e3-a659-b33e851ff698/bristol-myers-squibb-%28bmy%29-q2.html?.tsrc=rss)
-- 2023-07-28 [Bristol-Myers (BMY) Q2 Earnings, Sales Miss, '23 View Lowered](https://finance.yahoo.com/news/bristol-myers-bmy-q2-earnings-175500502.html?.tsrc=rss)
-- 2023-07-28 [Bristol Myers Slashes Forecast on Tumbling Revlimid Sales](https://finance.yahoo.com/m/974be2e8-5c39-3e74-abfd-45c04fe83685/bristol-myers-slashes.html?.tsrc=rss)
-- 2023-07-27 [Crocs record revenue, AbbVie's Humira sales, Bristol-Myers competition: Top stocks](https://finance.yahoo.com/video/crocs-record-revenue-abbvies-humira-144233709.html?.tsrc=rss)
+- 2023-08-25 [AstraZeneca files lawsuit against U.S. over drug pricing](https://finance.yahoo.com/video/astrazeneca-files-lawsuit-against-u-150733913.html?.tsrc=rss)
+- 2023-08-25 [Retrospective Observational Study Assessing Real-World Clinical Impact of Switching or Continuing Eliquis® or Rivaroxaban Presented at the European Society of Cardiology (ESC) Congress 2023](https://finance.yahoo.com/news/retrospective-observational-study-assessing-real-142200001.html?.tsrc=rss)
+- 2023-08-25 [AARP to join US government in two more lawsuits over Medicare drug pricing negotiations](https://finance.yahoo.com/news/aarp-to-join-us-government-in-two-more-lawsuits-over-medicare-drug-pricing-negotiations-205350458.html?.tsrc=rss)
+- 2023-08-24 [Watertown biotech shares spike after accidental data publication at Roche](https://finance.yahoo.com/m/433cda4f-ecf1-3c15-8b08-eef56e8b7c0a/watertown-biotech-shares.html?.tsrc=rss)
+- 2023-08-23 [Bristol Myers' (BMY) Opdivo Gets EC Nod for Label Expansion](https://finance.yahoo.com/news/bristol-myers-bmy-opdivo-gets-152800263.html?.tsrc=rss)
+- 2023-08-23 [25 Most Innovative Companies Of All Time](https://finance.yahoo.com/news/25-most-innovative-companies-time-132448083.html?.tsrc=rss)
+- 2023-08-23 [Bristol Myers Squibb Shares Progress Toward Its Environmental, Social, and Governance Initiatives and Its Health Equity Commitments](https://finance.yahoo.com/news/bristol-myers-squibb-shares-progress-115500414.html?.tsrc=rss)
+- 2023-08-23 [Bristol Myers Squibb Receives European Commission Approval for Opdivo (nivolumab) as an Adjuvant Treatment for Patients with Completely Resected Stage IIB or IIC Melanoma](https://finance.yahoo.com/news/bristol-myers-squibb-receives-european-201800378.html?.tsrc=rss)
+- 2023-08-22 [Should You Be Impressed By Bristol-Myers Squibb Company's (NYSE:BMY) ROE?](https://finance.yahoo.com/news/impressed-bristol-myers-squibb-companys-130028029.html?.tsrc=rss)
+- 2023-08-22 [Medicare drug price negotiations unlikely to be derailed by lawsuits: UBS](https://finance.yahoo.com/news/medicare-drug-price-negotiations-unlikely-to-be-derailed-by-lawsuits-ubs-165832314.html?.tsrc=rss)
 
 
                 

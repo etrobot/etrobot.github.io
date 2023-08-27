@@ -1,39 +1,41 @@
 
 ---
-title: "1072 PBR"
+title: "PBR"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T09:47:45
+date: 2023-08-27T09:07:19
 draft: true
-tags: ['Petrobras', 'Petróleo Brasileiro S.A.', 'oil company', 'refineries', 'dividend policy']
+tags: ['oil production', 'investments', 'operational progress', 'economic uncertainties', 'strategic moves']
 author: Friday Wall
 ---
 
-score:1072
+score:-6
 ### Chances:
-1. Petrobras is closely following negotiations for a majority stake in Braskem SA and may act on proposals, indicating potential expansion opportunities.
-2. The company may further increase the average capacity use of its refineries, setting production records, and hitting targets, showing positive operational performance.
-3. Petrobras' new conservative policy for shareholder payouts may lead to a more sustainable dividend approach, attracting investors.
-4. President Luiz Inacio Lula da Silva's non-interference in fuel price adjustments could support Petrobras' autonomy and market confidence.
+1. Petrobras expects another 40 years of oil production, indicating long-term sustainability.
+2. Petrobras' second FPSO begins operations, signaling operational progress.
+3. Exclusive insights suggest Petrobras may increase investments in its new 5-year plan.
+4. Petrobras awards 5-year service contract and initiates call for SHF radio links, indicating operational growth.
+5. Petrobras seeks access to Braskem's due diligence, showing potential strategic moves.
 ### Risks:
-1. The decline in profits and the politically contentious dividend cut may impact investor sentiment and lead to share price declines.
-2. Brazilian state-owned oil company's stock performance may be influenced by external volatility in the oil and energy markets.
-3. The ongoing negotiations and discussions about dividend policy and share buyback may create uncertainty in the stock's short-term outlook.
-4. Changes in political and regulatory conditions in Brazil could affect Petrobras' operations and financial performance.
-### Score:1072
-chances characters count - risks characters count = 72
+1. Earnings miss in Q2 due to lower oil prices and potential impact on financial performance.
+2. Fuel price hikes could speed up inflation and lead to economic uncertainties.
+3. Controversy and opposition related to oil drilling in the Amazon could affect Petrobras' reputation.
+4. Fluctuations in dividend policy, stock buybacks, and potential changes in business strategies.
+5. Market impact of analyst cuts and challenges in the energy sector due to market dynamics.
+### Score:-6
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:PBR">}}
 ### References:
-- 2023-08-05 [Noble Corporation (NYSE:NE) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/news/noble-corporation-nyse-ne-q2-152347446.html?.tsrc=rss)
-- 2023-08-05 [Petrobras Ready to Act if Bids for Braskem Stake Move Ahead](https://finance.yahoo.com/news/petrobras-ready-act-bids-braskem-204557640.html?.tsrc=rss)
-- 2023-08-05 [Petrobras Slashes Contentious Dividends and Buys Back Shares](https://finance.yahoo.com/news/petrobras-slashes-contentious-dividends-buys-103505277.html?.tsrc=rss)
-- 2023-08-04 [UPDATE 2-Petrobras may further raise refinery capacity use in third quarter](https://finance.yahoo.com/news/1-brazils-petrobras-start-share-145128440.html?.tsrc=rss)
-- 2023-08-04 [Q2 2023 Noble Corporation PLC Earnings Call](https://finance.yahoo.com/news/q2-2023-noble-corporation-plc-043234391.html?.tsrc=rss)
-- 2023-08-02 [Brazil’s Lula Hasn’t Intervened in Fuel Prices, Petrobras CEO Says](https://finance.yahoo.com/news/brazil-lula-hasn-t-intervened-220537113.html?.tsrc=rss)
-- 2023-07-28 [UPDATE 2-Petrobras board to discuss new dividend policy on Friday -source](https://finance.yahoo.com/news/1-petrobras-board-discuss-dividend-165645654.html?.tsrc=rss)
-- 2023-07-21 [Brazil’s Audit Court Is Likely to Put Braskem Sale on Hold](https://finance.yahoo.com/news/brazil-audit-court-likely-put-193008547.html?.tsrc=rss)
-- 2023-07-21 [Petrobras: A High-Yield Energy Stock That Is Undervalued](https://finance.yahoo.com/news/petrobras-high-yield-energy-stock-162024493.html?.tsrc=rss)
-- 2023-07-20 [Petrobras (PBR) Boosts Refining Plan Amid Rising Diesel Imports](https://finance.yahoo.com/news/petrobras-pbr-boosts-refining-plan-111100276.html?.tsrc=rss)
+- 2023-08-25 [Brazil’s Inflation Speeds Past Forecasts After Key Rate Cut](https://finance.yahoo.com/news/brazil-inflation-speeds-past-forecasts-130430149.html?.tsrc=rss)
+- 2023-08-23 [Petrobras Gets Help From Brazil’s Attorney General to Explore the Amazon](https://finance.yahoo.com/news/petrobras-gets-help-brazil-attorney-205923621.html?.tsrc=rss)
+- 2023-08-23 [Petrobras' (PBR) Chief Expects Another 40 Years of Oil Production](https://finance.yahoo.com/news/petrobras-pbr-chief-expects-another-125700198.html?.tsrc=rss)
+- 2023-08-22 [Mubadala’s Oil Refinery Bonds Take Hit From Petrobras’s New Policy](https://finance.yahoo.com/news/mubadala-oil-refinery-bonds-hit-171050083.html?.tsrc=rss)
+- 2023-08-21 [Ken Fisher’s Top 15 Energy Stock Picks](https://finance.yahoo.com/news/ken-fisher-top-15-energy-181444280.html?.tsrc=rss)
+- 2023-08-18 [Petrobras' (PBR) Second FPSO Begins Operations at Campos Basin](https://finance.yahoo.com/news/petrobras-pbr-second-fpso-begins-140000327.html?.tsrc=rss)
+- 2023-08-18 [Fight for Brazil chemicals group Braskem draws in foreign bidders — and Lula government](https://finance.yahoo.com/m/cab4cd77-17ba-36f9-a613-3a56b590ff89/fight-for-brazil-chemicals.html?.tsrc=rss)
+- 2023-08-16 [Investors Heavily Search Petroleo Brasileiro S.A.- Petrobras (PBR): Here is What You Need to Know](https://finance.yahoo.com/news/investors-heavily-search-petroleo-brasileiro-130006713.html?.tsrc=rss)
+- 2023-08-16 [Petrobras (PBR) Rebalances With Market Via Fuel Price Hike](https://finance.yahoo.com/news/petrobras-pbr-rebalances-market-via-122200093.html?.tsrc=rss)
+- 2023-08-16 [Petrobras (PBR) Q2 Earnings Miss Estimates on Lower Oil Price](https://finance.yahoo.com/news/petrobras-pbr-q2-earnings-miss-120600400.html?.tsrc=rss)
 
 
                 

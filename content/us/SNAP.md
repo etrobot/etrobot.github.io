@@ -1,40 +1,41 @@
 
 ---
-title: "0965 SNAP"
+title: "SNAP"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-06T10:08:59
+date: 2023-08-27T09:06:45
 draft: true
-tags: ['Snap Inc.', 'SNAP', 'Social Media', 'AI-driven Features', 'Advertising Revenue']
+tags: ['generative AI', 'growth plans', 'EPS performance', 'metaverse competition', 'data privacy']
 author: Friday Wall
 ---
 
-score:965
+score:15
 ### Chances:
-1. Snap's stock has rallied about 40%, indicating a potential recovery from its lowest price in nearly four years last October.
-2. Meta's report of double-digit revenue growth and better-than-expected third-quarter guidance suggests a positive outlook for social media companies, which may have a spillover effect on Snap's stock.
-3. Snap's revenue beat analysts' estimates by $10 million, despite a 4% year-over-year decline, which may signal resilience in the face of challenging market conditions.
-4. Companies like Meta are reportedly building chatbots with different personalities for their social media sites, indicating a growing interest in AI-driven features that Snap could potentially leverage for future growth.
+1. Snap expands generative AI capabilities with 'Dreams' feature, signaling innovation.
+2. Snap's announcement of new safety measures and compliance with EU's DSA is positive.
+3. Strategic appointments and growth plans in India may contribute to future success.
+4. Snap's focus on augmented reality and VR, as indicated by its ranking among biggest AR and VR companies.
+5. EPS beating expectations in Q2 2023 earnings announcement shows positive financial performance.
 ### Risks:
-1. Snap's advertising revenue is still declining, and the company has struggled more than most digital industries during the last 12 months.
-2. Investors are being cautious with tech stories and the impacts of AI technologies, which may affect Snap's stock performance.
-3. Businesses slashing their marketing budgets for fear of lesser returns on investment could negatively impact Snap's advertising-driven revenue.
-4. Snap's stock price plunged 19% during after-hours trading after posting its second-quarter earnings report, indicating potential market volatility and sensitivity to earnings results.
-5. Snap's stock sank to its lowest price in nearly four years, and it's important to consider the challenges and competition in the social media industry.
-### Score:965
-chances characters count - risks characters count = -35
+1. Decline in stock since last earnings report and potential need for rebound.
+2. Issues with Snap's generative AI, 'My AI,' posting unintended content and raising concerns.
+3. Competition in the metaverse space, potential crash, and challenges in becoming a real business.
+4. Volatility in stock price, analyst downgrades, and potential bubble burst in AI stocks.
+5. Data privacy concerns, underage user scrutiny, and potential regulatory implications.
+### Score:15
+investment score = chances characters count - risks characters count
 
-investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="NYSE:SNAP">}}
 ### References:
-- 2023-08-05 [Mark Zuckerberg is copying Snapchat again—but this time it’s because of Apple](https://finance.yahoo.com/news/mark-zuckerberg-copying-snapchat-again-185948117.html?.tsrc=rss)
-- 2023-08-02 [AI hype boomed to start 2023. Earnings reveal gains won't appear 'overnight.'](https://finance.yahoo.com/news/ai-hype-boomed-to-start-2023-earnings-reveal-gains-wont-appear-overnight-170501800.html?.tsrc=rss)
-- 2023-08-01 [Better Buy: Meta Platforms vs. Snap](https://finance.yahoo.com/m/e9b12075-fd28-3823-adc8-ce03b89bdcd2/better-buy%3A-meta-platforms.html?.tsrc=rss)
-- 2023-07-30 [Snap Stock Sinks: Here's Why That's a Buying Opportunity](https://finance.yahoo.com/m/9d7b7404-4e82-3835-935d-9eb54d25024b/snap-stock-sinks%3A-here%27s-why.html?.tsrc=rss)
-- 2023-07-29 [Is Snap Stock a Buy on the Dip?](https://finance.yahoo.com/m/f6ced525-00ff-35ed-b9eb-07d173cd66dd/is-snap-stock-a-buy-on-the.html?.tsrc=rss)
-- 2023-07-29 [Roku, Intel, Meta, Snap: Earnings season winners and losers](https://finance.yahoo.com/video/roku-intel-meta-snap-earnings-204959393.html?.tsrc=rss)
-- 2023-07-28 [Is It Too Late to Buy Snap Stock?](https://finance.yahoo.com/m/53bea7dc-fb9e-32ce-a3bc-59019c3b932b/is-it-too-late-to-buy-snap.html?.tsrc=rss)
-- 2023-07-28 [4 big analyst cuts: Snap slashed to Hold, Southwest gets several downgrades](https://finance.yahoo.com/news/4-big-analyst-cuts-snap-071455281.html?.tsrc=rss)
-- 2023-07-27 [Meta Has Rebounded But The Metaverse Is Still Far From Reality](https://finance.yahoo.com/news/meta-rebounded-metaverse-still-far-154838606.html?.tsrc=rss)
-- 2023-07-27 [Why Elon Musk’s Plan for a Super App Won’t Be Easy in America](https://finance.yahoo.com/m/db7a5f91-54c6-3387-aa8c-c796c3506288/why-elon-musk%E2%80%99s-plan-for-a.html?.tsrc=rss)
+- 2023-08-26 [Snap (SNAP) Stock Sinks As Market Gains: What You Should Know](https://finance.yahoo.com/news/snap-snap-stock-sinks-market-215007780.html?.tsrc=rss)
+- 2023-08-25 [SNAP Announces New Safety Measures to Comply With EU's DSA](https://finance.yahoo.com/news/snap-announces-safety-measures-comply-160300977.html?.tsrc=rss)
+- 2023-08-24 [Snap (SNAP) Down 13.9% Since Last Earnings Report: Can It Rebound?](https://finance.yahoo.com/news/snap-snap-down-13-9-153046817.html?.tsrc=rss)
+- 2023-08-24 [Snap seeks salvation by tapping into Google’s talent pipeline](https://finance.yahoo.com/news/snap-seeks-salvation-tapping-google-175148851.html?.tsrc=rss)
+- 2023-08-24 [EU's Breton urges Big Tech to use new online content rules to restore trust](https://finance.yahoo.com/news/eus-breton-urges-big-tech-162412519.html?.tsrc=rss)
+- 2023-08-23 [Snap confirms EU users will soon be able to opt out of content 'personalization'](https://techcrunch.com/2023/08/23/snapchat-dsa-compliance/?.tsrc=rss)
+- 2023-08-23 [Snap Hints At India Growth Plans By Roping In Former Google Exec As Managing Director: Report](https://finance.yahoo.com/news/snap-hints-india-growth-plans-133030440.html?.tsrc=rss)
+- 2023-08-23 [Snap Appoints India Head, Announces Revamp in Growth Push](https://finance.yahoo.com/news/snap-appoints-india-head-announces-060742303.html?.tsrc=rss)
+- 2023-08-22 [SNAP Expands Generative AI Capabilities With Dreams Feature](https://finance.yahoo.com/news/snap-expands-generative-ai-capabilities-144500578.html?.tsrc=rss)
+- 2023-08-22 [20 Biggest Augmented Reality And VR Companies In The World](https://finance.yahoo.com/news/20-biggest-augmented-reality-vr-195138941.html?.tsrc=rss)
 
 
                 
