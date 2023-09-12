@@ -1,20 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech industry on FinanClub</title>
+    <title>Tech Industry on FinanClub</title>
     <link>https://finan.club/tags/tech-industry/</link>
-    <description>Recent content in tech industry on FinanClub</description>
+    <description>Recent content in Tech Industry on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:31:25 +0000</lastBuildDate><atom:link href="https://finan.club/tags/tech-industry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 06:30:43 +0000</lastBuildDate><atom:link href="https://finan.club/tags/tech-industry/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BILI</title>
-      <link>https://finan.club/us/bili/</link>
-      <pubDate>Sat, 12 Aug 2023 06:31:25 +0000</pubDate>
+      <title>SE</title>
+      <link>https://finan.club/us/se/</link>
+      <pubDate>Mon, 11 Sep 2023 06:30:43 +0000</pubDate>
       
-      <guid>https://finan.club/us/bili/</guid>
-      <description>score:1024
-Chances: Highlighting the use of Zacks Earnings ESP to find stocks expected to beat quarterly earnings estimates. Discussing Bilibili&amp;rsquo;s potential for a likely earnings beat in its upcoming report and the key expectations. Announcing the scheduled earnings call and unaudited financial results reporting for Bilibili&amp;rsquo;s Q2 2023 results.</description>
+      <guid>https://finan.club/us/se/</guid>
+      <description>score:35
+Chances: Sea Limited reported strong Q2 2023 earnings with revenue growth, which may attract investors looking for growth opportunities. Despite recent setbacks, some analysts believe Sea Limited has significant long-term potential and could rebound in the future. Sea Limited&amp;rsquo;s focus on growth over profits signals its commitment to expanding its market presence and capturing opportunities.</description>
+    </item>
+    
+    <item>
+      <title>SMAR</title>
+      <link>https://finan.club/us/smar/</link>
+      <pubDate>Mon, 11 Sep 2023 05:06:12 +0000</pubDate>
+      
+      <guid>https://finan.club/us/smar/</guid>
+      <description>score:19
+Chances: Smartsheet Inc. reported Q2 2024 earnings that exceeded guidance with 26% YoY revenue growth, which is a positive sign for the company. Smartsheet was recognized as a 2023 Gartner® Peer Insights™ Customers’ Choice for Collaborative Work Management, indicating strong market presence.</description>
+    </item>
+    
+    <item>
+      <title>NOK</title>
+      <link>https://finan.club/us/nok/</link>
+      <pubDate>Mon, 11 Sep 2023 04:38:26 +0000</pubDate>
+      
+      <guid>https://finan.club/us/nok/</guid>
+      <description>score:2
+Chances: Nokia&amp;rsquo;s involvement in rural broadband PON deployment presents growth potential in expanding connectivity. Launch of 5G private wireless services in Thailand indicates Nokia&amp;rsquo;s commitment to advancing technology. Introduction of 25G PON kit and improved home connectivity software demonstrates Nokia&amp;rsquo;s innovation in high-speed connectivity solutions.</description>
+    </item>
+    
+    <item>
+      <title>GOOGL</title>
+      <link>https://finan.club/us/googl/</link>
+      <pubDate>Mon, 11 Sep 2023 04:37:52 +0000</pubDate>
+      
+      <guid>https://finan.club/us/googl/</guid>
+      <description>score:-15
+Chances: Alphabet&amp;rsquo;s expansion into artificial intelligence (AI) is seen as a growth opportunity, with AI software potential to be a $14 trillion market. Google CEO Sundar Pichai&amp;rsquo;s belief in the significance of AI technology presents potential for long-term growth in the company.</description>
+    </item>
+    
+    <item>
+      <title>AAPL</title>
+      <link>https://finan.club/us/aapl/</link>
+      <pubDate>Mon, 11 Sep 2023 04:28:05 +0000</pubDate>
+      
+      <guid>https://finan.club/us/aapl/</guid>
+      <description>score:-49
+Chances: Apple&amp;rsquo;s upcoming iPhone 15 launch is highly anticipated and could drive stock growth. Despite recent market cap losses, some analysts view Apple as a buying opportunity. Apple&amp;rsquo;s resilience in the face of market challenges is noteworthy. Strong performance in certain product segments like iPhones may support future growth.</description>
     </item>
     
   </channel>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>operational risks on FinanClub</title>
+    <title>Operational Risks on FinanClub</title>
     <link>https://finan.club/tags/operational-risks/</link>
-    <description>Recent content in operational risks on FinanClub</description>
+    <description>Recent content in Operational Risks on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:23:27 +0000</lastBuildDate><atom:link href="https://finan.club/tags/operational-risks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 05:42:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/operational-risks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GOLD</title>
-      <link>https://finan.club/us/gold/</link>
-      <pubDate>Sat, 12 Aug 2023 06:23:27 +0000</pubDate>
+      <title>CVE</title>
+      <link>https://finan.club/us/cve/</link>
+      <pubDate>Mon, 11 Sep 2023 05:42:26 +0000</pubDate>
       
-      <guid>https://finan.club/us/gold/</guid>
-      <description>score:-36
-Chances: Barrick Gold beat earnings estimates in Q2 due to higher average realized price of gold, indicating positive financial performance. The company maintained its full-year production outlook for gold and copper, indicating stable operational performance and growth potential. Risks: Barrick Gold CEO Mark Bristow stated the company won&amp;rsquo;t be pressured into major acquisitions, potentially affecting its competitive position and growth strategy.</description>
+      <guid>https://finan.club/us/cve/</guid>
+      <description>score:-64
+Chances: Cenovus Energy has delivered a solid 57% CAGR over the past 3 years, indicating positive performance for shareholders. The company beat quarterly profit estimates, with shares climbing as a result, suggesting strong financial performance. Cenovus Energy&amp;rsquo;s fundamentals appear strong, indicating potential growth opportunities in the energy sector.</description>
     </item>
     
   </channel>

@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>banking on FinanClub</title>
+    <title>Banking on FinanClub</title>
     <link>https://finan.club/tags/banking/</link>
-    <description>Recent content in banking on FinanClub</description>
+    <description>Recent content in Banking on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Aug 2023 06:30:50 +0000</lastBuildDate><atom:link href="https://finan.club/tags/banking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 06:24:23 +0000</lastBuildDate><atom:link href="https://finan.club/tags/banking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NYCB</title>
-      <link>https://finan.club/us/nycb/</link>
-      <pubDate>Sat, 12 Aug 2023 06:30:50 +0000</pubDate>
+      <title>BK</title>
+      <link>https://finan.club/us/bk/</link>
+      <pubDate>Mon, 11 Sep 2023 06:24:23 +0000</pubDate>
       
-      <guid>https://finan.club/us/nycb/</guid>
-      <description>score:1065
-Chances: Highlighting high-yield dividend stocks with rapid growth, where UWM Holdings ranks as a leading mortgage lender. Announcing the hiring of Michele Celestino as EVP and Head of Commercial and Private Banking, Southeast at Flagstar Bank, N.A., a subsidiary of NYCB. Announcing the successful completion of Flagstar Bank&amp;rsquo;s MortgageTech Accelerator program by fintech graduates.</description>
+      <guid>https://finan.club/us/bk/</guid>
+      <description>score:-23
+Chances: BNY Mellon launches an open banking payments solution, Bankify, indicating a move towards modern banking technology. BNY Mellon appoints Sinead Colton-Grant as Chief Investment Officer, showcasing strategic leadership changes. BNY Mellon joins the FedNow® Service, advancing the U.S. payment system, which could lead to new opportunities.</description>
+    </item>
+    
+    <item>
+      <title>KEY</title>
+      <link>https://finan.club/us/key/</link>
+      <pubDate>Mon, 11 Sep 2023 04:56:14 +0000</pubDate>
+      
+      <guid>https://finan.club/us/key/</guid>
+      <description>score:-8
+Chances: KeyBank provided a $5 million line of credit to advance small businesses, indicating support for growth. KeyBank celebrated the opening of a new, full-service branch, demonstrating expansion efforts. KeyCorp is paying a dividend of $0.205, offering a 7.1% dividend yield, which may attract income-seeking investors.</description>
+    </item>
+    
+    <item>
+      <title>HBAN</title>
+      <link>https://finan.club/us/hban/</link>
+      <pubDate>Mon, 11 Sep 2023 04:46:03 +0000</pubDate>
+      
+      <guid>https://finan.club/us/hban/</guid>
+      <description>score:40
+Chances: Huntington Bancshares is paying out a dividend of $0.155, which may attract income-focused investors. The bank&amp;rsquo;s focus on transforming medical billing with software could lead to revenue growth in the healthcare industry. Huntington National Bank ranks No. 1 among regional banks in the J.</description>
+    </item>
+    
+    <item>
+      <title>BAC</title>
+      <link>https://finan.club/us/bac/</link>
+      <pubDate>Mon, 11 Sep 2023 04:32:32 +0000</pubDate>
+      
+      <guid>https://finan.club/us/bac/</guid>
+      <description>score:63
+Chances: Bank of America is favored by institutional owners, with 58% ownership, indicating investor confidence. Higher interest rates have historically benefited Bank of America, which could lead to improved profitability. Bank of America is expanding its credit card cashback rewards, which may attract more customers.</description>
     </item>
     
   </channel>

@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cybersecurity on FinanClub</title>
+    <title>Cybersecurity on FinanClub</title>
     <link>https://finan.club/tags/cybersecurity/</link>
-    <description>Recent content in cybersecurity on FinanClub</description>
+    <description>Recent content in Cybersecurity on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2023 02:55:30 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 06:06:40 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FTNT</title>
+      <link>https://finan.club/us/ftnt/</link>
+      <pubDate>Mon, 11 Sep 2023 06:06:40 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ftnt/</guid>
+      <description>score:159
+Chances: Fortinet has caught the eye of investors, indicating potential investment opportunities. The company won Google Cloud Technology Partner of the Year Award for Security, showcasing its capabilities. Fortinet expands its SASE solution to provide cloud-delivered enterprise-grade protection, positioning itself for growth.</description>
+    </item>
+    
+    <item>
+      <title>VZ</title>
+      <link>https://finan.club/us/vz/</link>
+      <pubDate>Mon, 11 Sep 2023 04:37:16 +0000</pubDate>
+      
+      <guid>https://finan.club/us/vz/</guid>
+      <description>score:23
+Chances: Verizon increases dividend for the 17th consecutive year, indicating a strong commitment to dividend payments. Verizon launches new technologies and connectivity solutions, potentially expanding its customer base. The company extends partnerships with the NFL and MetLife Stadium, showcasing a focus on sports and entertainment sectors.</description>
+    </item>
+    
     <item>
       <title>S</title>
       <link>https://finan.club/us/s/</link>
@@ -15,16 +35,6 @@
       <guid>https://finan.club/us/s/</guid>
       <description>score:-33
 Chances: SentinelOne raises full-year forecast, adds partnership with Wiz still on SentinelOne Announces Second Quarter Fiscal Year 2024 Financial Results SentinelOne Leads the Way in XDR SentinelOne and Netskope Team to Secure Modern Workforce SentinelOne Stock: Bull vs. Bear Risks: SentinelOne scraps Wiz partnership nearly a week after bid interest SentinelOne Might Be Up for Sale &amp;ndash; What Should You Do if You Own the Stock?</description>
-    </item>
-    
-    <item>
-      <title>BB</title>
-      <link>https://finan.club/us/bb/</link>
-      <pubDate>Sun, 27 Aug 2023 09:00:11 +0000</pubDate>
-      
-      <guid>https://finan.club/us/bb/</guid>
-      <description>score:26
-Chances: BlackBerry added CA$671 million to its market cap in the past 7 days. BlackBerry&amp;rsquo;s Q1 earnings and revenues beat estimates and were up year-over-year. BlackBerry selected by Mobility in Harmony (MIH) Consortium for next-gen EV development. Private equity firm Veritas makes takeover offer for BlackBerry.</description>
     </item>
     
   </channel>
