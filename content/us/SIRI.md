@@ -2,40 +2,37 @@
 ---
 title: "SIRI"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-27T10:04:52
+date: 2023-12-12T05:49:06
 draft: true
-tags: ['media industry', 'Q2 earnings', 'dividend', 'stock price surge', 'volatility']
+tags: ['Nasdaq 100', 'Competitive advantages', 'Wall Street', 'SEC filings', 'Investing caution']
 author: Friday Wall
 ---
 
-score:-16
+score:161
 ### Chances:
-1. Strong contender in the media industry with good outperformance potential.
-2. Positive Q2 earnings match and potential growth.
-3. Dividend declaration and positive financial results.
-4. Recent stock price surge and analyst upgrades.
-5. Participation in important industry conferences.
+1. One Nasdaq 100 component, with a slew of competitive advantages, is cheaper than it's ever been as a publicly traded company.
+2. Three historically inexpensive, brand-name companies owned by one of Wall Street's most successful investors are ripe for the picking in December.
+3. Recent filings with the SEC have revealed that Gilchrist Malcolm Ian Grant, a director of Liberty SiriusXM Group (NASDAQ:LSXMA), sold 3,258 shares of the company on November 28, 2023.
 ### Risks:
-1. Stock price volatility and short-squeeze focus.
-2. Revenues missing estimates and potential short-term setbacks.
-3. Challenges in making sound judgments due to short-squeeze static.
-4. Negative impact of short-term rally and potential pullbacks.
-5. Negative market sentiment due to historical losses.
-### Score:-16
-investment score = chances characters count - risks characters count
+1. You probably had a good month in the markets, but a fifth of the stocks out there are trading lower through the rally.
+2. The Oracle of Omaha's company is requesting secrecy as it builds up its stake in one or more businesses.
+3. This year has been a little dry when it comes to Warren Buffett stocks.
+### Score:161
+chances characters count - risks characters count = -839
 
-{{<tradingview symbol="NASDAQ:SIRI">}}
+investment score = 1000 + chances characters count - risks characters count
+{{<tradingview symbol="Nasdaq:SIRI">}}
 ### References:
-- 2023-08-14 [Roku Stock: Buy, Sell, or Hold?](https://finance.yahoo.com/m/8220651e-8a7a-3aae-b01c-c8f6b2155eaf/roku-stock%3A-buy%2C-sell%2C-or.html?.tsrc=rss)
-- 2023-08-11 [Sirius XM Holdings Inc: A Strong Contender in the Media - Diversified Industry with a High GF Score](https://finance.yahoo.com/news/sirius-xm-holdings-inc-strong-183208444.html?.tsrc=rss)
-- 2023-08-05 [Tupperware shares jump on debt restructuring deal](https://finance.yahoo.com/video/tupperware-shares-jump-debt-restructuring-195009365.html?.tsrc=rss)
-- 2023-08-05 [New Liberty Live Stock Is Cheap Play on Live Nation](https://finance.yahoo.com/m/1950a288-146f-39c5-bfa4-5d7da1bbc70e/new-liberty-live-stock-is.html?.tsrc=rss)
-- 2023-08-04 [2 Nasdaq 100 Stocks That Are Surefire Buys in August and 1 to Avoid](https://finance.yahoo.com/m/146664f1-05f7-3d84-9cd2-031b23c3853c/2-nasdaq-100-stocks-that-are.html?.tsrc=rss)
-- 2023-08-02 [Sirius XM (SIRI) Q2 Earnings Match Estimates, Revenues Miss](https://finance.yahoo.com/news/sirius-xm-siri-q2-earnings-153300132.html?.tsrc=rss)
-- 2023-08-02 [Sirius XM Holdings Inc. (NASDAQ:SIRI) Passed Our Checks, And It's About To Pay A US$0.024 Dividend](https://finance.yahoo.com/news/sirius-xm-holdings-inc-nasdaq-100154074.html?.tsrc=rss)
-- 2023-08-02 [15 Most Popular Music Streaming Services](https://finance.yahoo.com/news/15-most-popular-music-streaming-213711428.html?.tsrc=rss)
-- 2023-08-02 [Sirius XM (SIRI) Q2 2023 Earnings Call Transcript](https://finance.yahoo.com/m/04e8bc73-0fbf-3935-b4c7-11f7ab637756/sirius-xm-%28siri%29-q2-2023.html?.tsrc=rss)
-- 2023-08-01 [Sirius XM (SIRI) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates](https://finance.yahoo.com/news/sirius-xm-siri-q2-earnings-153005021.html?.tsrc=rss)
+- 2023-12-11 [3 Top Stocks That Just Went on Sale](https://finance.yahoo.com/m/42f0dfcb-e5a2-391f-b6d1-5294e9d96d59/3-top-stocks-that-just-went.html)
+- 2023-12-11 [1 Nasdaq 100 Stock to Buy Hand Over Fist in December and 1 to Avoid](https://finance.yahoo.com/m/abf02cdd-107b-3a79-80b0-a66fc2c346a7/1-nasdaq-100-stock-to-buy.html)
+- 2023-12-04 [The past three years for Sirius XM Holdings (NASDAQ:SIRI) investors has not been profitable](https://finance.yahoo.com/news/past-three-years-sirius-xm-113900081.html)
+- 2023-12-04 [Warren Buffett's Berkshire Hathaway Is Building a Stake in a "Confidential" Stock -- Could This Be It?](https://finance.yahoo.com/m/b384f457-cc62-3eeb-9e9e-06db236bc8c5/warren-buffett%27s-berkshire.html)
+- 2023-12-02 [Roku (ROKU) Up 33.5% Since Last Earnings Report: Can It Continue?](https://finance.yahoo.com/news/roku-roku-33-5-since-163159307.html)
+- 2023-12-01 [3 No-Brainer Warren Buffett Stocks to Buy to End the Year Right](https://finance.yahoo.com/m/c0b3d602-512f-33fa-ae7a-221081617e63/3-no-brainer-warren-buffett.html)
+- 2023-12-01 [Insider Sell: Director Gilchrist Malcolm Ian Grant Sells Shares of Liberty SiriusXM Group](https://finance.yahoo.com/news/insider-sell-director-gilchrist-malcolm-100509068.html)
+- 2023-12-01 [Sirius XM (SIRI) Up 4.4% Since Last Earnings Report: Can It Continue?](https://finance.yahoo.com/news/sirius-xm-siri-4-4-163059153.html)
+- 2023-11-30 [Looking for Value Stocks? 3 Warren Buffett Picks to Consider](https://finance.yahoo.com/news/looking-value-stocks-3-warren-133000517.html)
+- 2023-11-28 [The Shocking Stock That Warren Buffet Just Bought (and 2 He Sold)](https://finance.yahoo.com/news/shocking-stock-warren-buffet-just-022947479.html)
 
 
                 
