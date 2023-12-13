@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud computing on FinanClub</title>
+    <title>Cloud Computing on FinanClub</title>
     <link>https://finan.club/tags/cloud-computing/</link>
-    <description>Recent content in cloud computing on FinanClub</description>
+    <description>Recent content in Cloud Computing on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Sep 2023 05:33:10 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 14:42:41 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SNOW</title>
-      <link>https://finan.club/us/snow/</link>
-      <pubDate>Mon, 11 Sep 2023 05:33:10 +0000</pubDate>
+      <title>ORCL</title>
+      <link>https://finan.club/us/orcl/</link>
+      <pubDate>Tue, 12 Dec 2023 14:42:41 +0000</pubDate>
       
-      <guid>https://finan.club/us/snow/</guid>
-      <description>score:-30
-Chances: Snowflake is transforming into an AI software platform, positioning itself for growth in the AI industry. Analysts believe that Snowflake is a top AI stock to buy, considering its potential in the growing cloud computing market. The company reported strong Q2 2024 earnings with revenue growth, which is a positive sign for investors.</description>
-    </item>
-    
-    <item>
-      <title>DOCN</title>
-      <link>https://finan.club/us/docn/</link>
-      <pubDate>Sun, 27 Aug 2023 10:16:59 +0000</pubDate>
-      
-      <guid>https://finan.club/us/docn/</guid>
-      <description>score:-9
-Chances: Strong quarterly earnings results announced. Positive price performance and RS rating improvement. Expansion of AI footprint indicated after acquisition. Strategic bet on AI with a significant investment. Potential for growth as an AI-driven cloud services provider. Risks: Unexpected drop in stock price due to CEO transition.</description>
+      <guid>https://finan.club/us/orcl/</guid>
+      <description>score:68
+Chances: Oracle has been named a Leader in the 2023 Gartner® Magic Quadrant™ for Financial Planning Software and the 2023 Gartner® Magic Quadrant™ for Cloud Financial Close and Consolidation Solutions, showcasing its strong position in the market. Oracle&amp;rsquo;s fiscal second-quarter performance benefits from a steady adoption of Gen 2 Cloud, Fusion, and Autonomous Database despite slow cloud revenue growth, indicating potential for future growth in these areas.</description>
     </item>
     
   </channel>

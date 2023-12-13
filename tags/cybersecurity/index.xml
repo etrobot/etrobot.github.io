@@ -1,20 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybersecurity on FinanClub</title>
+    <title>cybersecurity on FinanClub</title>
     <link>https://finan.club/tags/cybersecurity/</link>
-    <description>Recent content in Cybersecurity on FinanClub</description>
+    <description>Recent content in cybersecurity on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 05:46:50 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 09:24:35 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSCO</title>
+      <link>https://finan.club/us/csco/</link>
+      <pubDate>Wed, 13 Dec 2023 09:24:35 +0000</pubDate>
+      
+      <guid>https://finan.club/us/csco/</guid>
+      <description>score:86
+Chances: Cisco Systems has a strong chance of further growth as it continues to revolutionize cybersecurity with its AI Assistant for Security, fortifying defenses against evolving threats. The company&amp;rsquo;s product categories, including Secure, Agile Networks, and Collaboration, position it well to capitalize on the growing demand for internet-based networking products and services.</description>
+    </item>
+    
+    <item>
+      <title>FTNT</title>
+      <link>https://finan.club/us/ftnt/</link>
+      <pubDate>Wed, 13 Dec 2023 09:23:27 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ftnt/</guid>
+      <description>score:-73
+Chances: Fortinet has added Fortinet Advisor, a generative AI (GenAI) assistant, to its portfolio of more than 40 AI-powered offerings, which shows the company&amp;rsquo;s commitment to innovation and staying ahead of the curve in the cybersecurity industry. Risks: The cybersecurity stocks, including Fortinet, have underperformed in 2023, which may pose a risk to investors looking for short-term gains.</description>
+    </item>
+    
+    <item>
+      <title>S</title>
+      <link>https://finan.club/us/s/</link>
+      <pubDate>Tue, 12 Dec 2023 14:03:16 +0000</pubDate>
+      
+      <guid>https://finan.club/us/s/</guid>
+      <description>score:59
+Chances: SentinelOne&amp;rsquo;s joint go-to-market program with Secureworks is expected to accelerate organizational cyber resilience and simplify risk management. The company&amp;rsquo;s recent rebound in stock price, positive financial results, and strong third-quarter earnings indicate a potential upward trend in the market for SentinelOne.</description>
+    </item>
+    
     <item>
       <title>BB</title>
       <link>https://finan.club/us/bb/</link>
-      <pubDate>Tue, 12 Dec 2023 05:46:50 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2023 09:14:44 +0000</pubDate>
       
       <guid>https://finan.club/us/bb/</guid>
-      <description>score:209
-Chances: BlackBerry Ltd. is focusing on intelligent security software and services, leveraging artificial intelligence and machine learning, which aligns with the growing demand for cybersecurity solutions in the market. The appointment of John Giamatteo as the new CEO and the company&amp;rsquo;s decision to streamline its centralized corporate functions indicates a strategic shift aimed at enhancing profitability and cashflow-positive operations.</description>
+      <description>score:149
+Chances: BlackBerry&amp;rsquo;s decision to appoint a new CEO and streamline its operations indicates a potential for positive change and strategic restructuring. The partnership with ECARX Holdings Inc. and Black Sesame Technologies demonstrates a focus on expanding into the global mobility technology market, which could lead to new revenue opportunities.</description>
     </item>
     
   </channel>
