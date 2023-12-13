@@ -1,24 +1,23 @@
-
 ---
 title: "SIRI"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-12-12T05:49:06
+date: 2023-12-12T09:17:43
 draft: true
-tags: ['Nasdaq 100', 'Competitive advantages', 'Wall Street', 'SEC filings', 'Investing caution']
+tags: ['Nasdaq 100', 'Investor Analysis', 'SEC Filings', 'Market Conditions', 'Stock Valuation']
 author: Friday Wall
 ---
 
-score:161
+score:-89
 ### Chances:
-1. One Nasdaq 100 component, with a slew of competitive advantages, is cheaper than it's ever been as a publicly traded company.
-2. Three historically inexpensive, brand-name companies owned by one of Wall Street's most successful investors are ripe for the picking in December.
-3. Recent filings with the SEC have revealed that Gilchrist Malcolm Ian Grant, a director of Liberty SiriusXM Group (NASDAQ:LSXMA), sold 3,258 shares of the company on November 28, 2023.
+1. One Nasdaq 100 component, with a slew of competitive advantages, is cheaper than it's ever been as a publicly traded company
+2. Three historically inexpensive, brand-name companies owned by one of Wall Street's most successful investors are ripe for the picking in December
+3. Recent filings with the SEC have revealed that Gilchrist Malcolm Ian Grant, a director of Liberty SiriusXM Group (NASDAQ:LSXMA), sold 3,258 shares of the company on November 28, 2023
 ### Risks:
-1. You probably had a good month in the markets, but a fifth of the stocks out there are trading lower through the rally.
-2. The Oracle of Omaha's company is requesting secrecy as it builds up its stake in one or more businesses.
-3. This year has been a little dry when it comes to Warren Buffett stocks.
-### Score:161
-chances characters count - risks characters count = -839
+1. You probably had a good month in the markets, but a fifth of the stocks out there are trading lower through the rally
+2. The Oracle of Omaha's company is requesting secrecy as it builds up its stake in one or more businesses
+3. This year has been a little dry when it comes to Warren Buffett stocks. Like most investors, the Oracle of Omaha himself has been quite selective and cautious in picking stocks lately, and he doesn’t seem too optimistic about economic conditions overall, if his dumping of billions of dollars of stocks is any indication
+### Score:-89
+chances characters count - risks characters count = -1089
 
 investment score = 1000 + chances characters count - risks characters count
 {{<tradingview symbol="Nasdaq:SIRI">}}

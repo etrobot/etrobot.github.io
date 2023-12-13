@@ -1,169 +1,47 @@
-
 ---
-title: "US Stock Ranking by ChatGPT"
+title: "US Stocks Picked"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-08-27T11:00:39
+date: 2023-12-13T09:25:16
 draft: true
 tags: ['ChatGPT Analyst', 'US Stock Ranking']
 author: Friday Wall
 ---
 
-I use ChatGPT to analyze and rank [most active us stocks](https://finance.yahoo.com/most-active):
+1. [SE (Sea Limited)](/us/se) *Middle* Sea Ltd. presents a promising opportunity for growth, particularly in its E-Commerce and Digital Financial Services segments, but risks associated with its gaming subsidiary Garena and regulatory bans should be carefully monitored.
 
-1. [ASX (ASE Technology Holding Co., Ltd.)](/us/asx)
-1. [ITUB (Itaú Unibanco Holding S.A.)](/us/itub)
-1. [PR (Permian Resources Corporation)](/us/pr)
-1. [DNA (Ginkgo Bioworks Holdings, Inc.)](/us/dna)
-1. [BTG (B2Gold Corp.)](/us/btg)
-1. [SQ (Block, Inc.)](/us/sq)
-1. [SLB (Schlumberger Limited)](/us/slb)
-1. [LVS (Las Vegas Sands Corp.)](/us/lvs)
-1. [DVN (Devon Energy Corporation)](/us/dvn)
-1. [PBR-A (Petróleo Brasileiro S.A. - Petrobras)](/us/pbr-a)
-1. [TEVA (Teva Pharmaceutical Industries Limited)](/us/teva)
-1. [RUN (Sunrun Inc.)](/us/run)
-1. [CCL (Carnival Corporation & plc)](/us/ccl)
-1. [APE (AMC Entertainment Holdings, Inc.)](/us/ape)
-1. [NU (Nu Holdings Ltd.)](/us/nu)
-1. [MSFT (Microsoft Corporation)](/us/msft)
-1. [ABEV (Ambev S.A.)](/us/abev)
-1. [OXY (Occidental Petroleum Corporation)](/us/oxy)
-1. [NVDA (NVIDIA Corporation)](/us/nvda)
-1. [SCHW (The Charles Schwab Corporation)](/us/schw)
-1. [MU (Micron Technology, Inc.)](/us/mu)
-1. [ENVX (Enovix Corporation)](/us/envx)
-1. [OPEN (Opendoor Technologies Inc.)](/us/open)
-1. [SE (Sea Limited)](/us/se)
-1. [BCS (Barclays PLC)](/us/bcs)
-1. [CSCO (Cisco Systems, Inc.)](/us/csco)
-1. [ORCL (Oracle Corporation)](/us/orcl)
-1. [MO (Altria Group, Inc.)](/us/mo)
-1. [RIVN (Rivian Automotive, Inc.)](/us/rivn)
-1. [PINS (Pinterest, Inc.)](/us/pins)
-1. [KVUE (Kenvue Inc.)](/us/kvue)
-1. [NKE (NIKE, Inc.)](/us/nke)
-1. [UMC (United Microelectronics Corporation)](/us/umc)
-1. [TD (The Toronto-Dominion Bank)](/us/td)
-1. [AMD (Advanced Micro Devices, Inc.)](/us/amd)
-1. [BB (BlackBerry Limited)](/us/bb)
-1. [JNJ (Johnson & Johnson)](/us/jnj)
-1. [HBAN (Huntington Bancshares Incorporated)](/us/hban)
-1. [PFE (Pfizer Inc.)](/us/pfe)
-1. [NYCB (New York Community Bancorp, Inc.)](/us/nycb)
-1. [FCX (Freeport-McMoRan Inc.)](/us/fcx)
-1. [KMI (Kinder Morgan, Inc.)](/us/kmi)
-1. [LCID (Lucid Group, Inc.)](/us/lcid)
-1. [PAGS (PagSeguro Digital Ltd.)](/us/pags)
-1. [KSS (Kohl's Corporation)](/us/kss)
-1. [EBAY (eBay Inc.)](/us/ebay)
-1. [NOK (Nokia Oyj)](/us/nok)
-1. [SNAP (Snap Inc.)](/us/snap)
-1. [DISH (DISH Network Corporation)](/us/dish)
-1. [GOLD (Barrick Gold Corporation)](/us/gold)
-1. [CVNA (Carvana Co.)](/us/cvna)
-1. [BABA (Alibaba Group Holding Limited)](/us/baba)
-1. [NCLH (Norwegian Cruise Line Holdings Ltd.)](/us/nclh)
-1. [VALE (Vale S.A.)](/us/vale)
-1. [MPW (Medical Properties Trust, Inc.)](/us/mpw)
-1. [USB (U.S. Bancorp)](/us/usb)
-1. [IQ (iQIYI, Inc.)](/us/iq)
-1. [PLTR (Palantir Technologies Inc.)](/us/pltr)
-1. [CSX (CSX Corporation)](/us/csx)
-1. [NEM (Newmont Corporation)](/us/nem)
-1. [HPE (Hewlett Packard Enterprise Company)](/us/hpe)
-1. [VFS (VinFast Auto Ltd.)](/us/vfs)
-1. [CVS (CVS Health Corporation)](/us/cvs)
-1. [KHC (The Kraft Heinz Company)](/us/khc)
-1. [KEY (KeyCorp)](/us/key)
-1. [UAA (Under Armour, Inc.)](/us/uaa)
-1. [VZ (Verizon Communications Inc.)](/us/vz)
-1. [ABCM (Abcam plc)](/us/abcm)
-1. [EXTR (Extreme Networks, Inc.)](/us/extr)
-1. [VRT (Vertiv Holdings Co)](/us/vrt)
-1. [AMZN (Amazon.com, Inc.)](/us/amzn)
-1. [TFC (Truist Financial Corporation)](/us/tfc)
-1. [CVE (Cenovus Energy Inc.)](/us/cve)
-1. [TGT (Target Corporation)](/us/tgt)
-1. [BMY (Bristol-Myers Squibb Company)](/us/bmy)
-1. [SHOP (Shopify Inc.)](/us/shop)
-1. [JPM (JPMorgan Chase & Co.)](/us/jpm)
-1. [ET (Energy Transfer LP)](/us/et)
-1. [BSX (Boston Scientific Corporation)](/us/bsx)
-1. [JD (JD.com, Inc.)](/us/jd)
-1. [PYPL (PayPal Holdings, Inc.)](/us/pypl)
-1. [META (Meta Platforms, Inc.)](/us/meta)
-1. [AGNC (AGNC Investment Corp.)](/us/agnc)
-1. [XEL (Xcel Energy Inc.)](/us/xel)
-1. [BILI (Bilibili Inc.)](/us/bili)
-1. [U (Unity Software Inc.)](/us/u)
-1. [CLF (Cleveland-Cliffs Inc.)](/us/clf)
-1. [HST (Host Hotels & Resorts, Inc.)](/us/hst)
-1. [RLX (RLX Technology Inc.)](/us/rlx)
-1. [PBR (Petróleo Brasileiro S.A. - Petrobras)](/us/pbr)
-1. [WBD (Warner Bros. Discovery, Inc.)](/us/wbd)
-1. [TWNK (Hostess Brands, Inc.)](/us/twnk)
-1. [WBA (Walgreens Boots Alliance, Inc.)](/us/wba)
-1. [XPEV (XPeng Inc.)](/us/xpev)
-1. [NEE (NextEra Energy, Inc.)](/us/nee)
-1. [WFC (Wells Fargo & Company)](/us/wfc)
-1. [DOCN (DigitalOcean Holdings, Inc.)](/us/docn)
-1. [PTON (Peloton Interactive, Inc.)](/us/pton)
-1. [SPR (Spirit AeroSystems Holdings, Inc.)](/us/spr)
-1. [DKNG (DraftKings Inc.)](/us/dkng)
-1. [GPS (The Gap, Inc.)](/us/gps)
-1. [C (Citigroup Inc.)](/us/c)
-1. [MRO (Marathon Oil Corporation)](/us/mro)
-1. [TSLA (Tesla, Inc.)](/us/tsla)
-1. [M (Macy's, Inc.)](/us/m)
-1. [INTC (Intel Corporation)](/us/intc)
-1. [STLA (Stellantis N.V.)](/us/stla)
-1. [SIRI (Sirius XM Holdings Inc.)](/us/siri)
-1. [SWN (Southwestern Energy Company)](/us/swn)
-1. [F (Ford Motor Company)](/us/f)
-1. [MRVL (Marvell Technology, Inc.)](/us/mrvl)
-1. [LYFT (Lyft, Inc.)](/us/lyft)
-1. [RIG (Transocean Ltd.)](/us/rig)
-1. [DIS (The Walt Disney Company)](/us/dis)
-1. [T (AT&T Inc.)](/us/t)
-1. [CMCSA (Comcast Corporation)](/us/cmcsa)
-1. [RBLX (Roblox Corporation)](/us/rblx)
-1. [GRAB (Grab Holdings Limited)](/us/grab)
-1. [GM (General Motors Company)](/us/gm)
-1. [BAC (Bank of America Corporation)](/us/bac)
-1. [TAL (TAL Education Group)](/us/tal)
-1. [CPNG (Coupang, Inc.)](/us/cpng)
-1. [SOFI (SoFi Technologies, Inc.)](/us/sofi)
-1. [TME (Tencent Music Entertainment Group)](/us/tme)
-1. [O (Realty Income Corporation)](/us/o)
-1. [AUR (Aurora Innovation, Inc.)](/us/aur)
-1. [AMC (AMC Entertainment Holdings, Inc.)](/us/amc)
-1. [AAPL (Apple Inc.)](/us/aapl)
-1. [KDP (Keurig Dr Pepper Inc.)](/us/kdp)
-1. [AFRM (Affirm Holdings, Inc.)](/us/afrm)
-1. [GOOGL (Alphabet Inc.)](/us/googl)
-1. [BEKE (KE Holdings Inc.)](/us/beke)
-1. [PARA (Paramount Global)](/us/para)
-1. [SNOW (Snowflake Inc.)](/us/snow)
-1. [UBER (Uber Technologies, Inc.)](/us/uber)
-1. [PDD (PDD Holdings Inc.)](/us/pdd)
-1. [GOOG (Alphabet Inc.)](/us/goog)
-1. [JWN (Nordstrom, Inc.)](/us/jwn)
-1. [PCG (PG&E Corporation)](/us/pcg)
-1. [IONQ (IonQ, Inc.)](/us/ionq)
-1. [NIO (NIO Inc.)](/us/nio)
-1. [KGC (Kinross Gold Corporation)](/us/kgc)
-1. [PLUG (Plug Power Inc.)](/us/plug)
-1. [BA (The Boeing Company)](/us/ba)
-1. [UPST (Upstart Holdings, Inc.)](/us/upst)
-1. [S (SentinelOne, Inc.)](/us/s)
-1. [DAL (Delta Air Lines, Inc.)](/us/dal)
-1. [HPQ (HP Inc.)](/us/hpq)
-1. [XOM (Exxon Mobil Corporation)](/us/xom)
-1. [LYG (Lloyds Banking Group plc)](/us/lyg)
-1. [AI (C3.ai, Inc.)](/us/ai)
-1. [JBLU (JetBlue Airways Corporation)](/us/jblu)
-1. [AAL (American Airlines Group Inc.)](/us/aal)
-1. [BBD (Banco Bradesco S.A.)](/us/bbd)
+1. [TOST (Toast, Inc.)](/us/tost) *Small* Despite stock price volatility and analyst downgrades, Toast continues to thrive in the restaurant industry with its innovative technology and consistent revenue growth, making it a compelling investment opportunity.
+
+1. [U (Unity Software Inc.)](/us/u) *Middle* Despite challenges, Unity Software (U) presents potential investment opportunities in the VR and hypergrowth stock market.
+
+1. [INFY (Infosys Limited)](/us/infy) *Middle* Infosys has strong potential for growth in its digital services and strategic collaborations, but faces risks from uncertainties in financial management and market dynamics.
+
+1. [DISH (DISH Network Corporation)](/us/dish) *Small* DISH Network faces tough competition in the media industry, but the recent FCC approval and strategic partnerships provide opportunities for growth and revenue generation.
+
+1. [CSCO (Cisco Systems, Inc.)](/us/csco) *Mega* Cisco Systems has strong growth potential in the cybersecurity and networking industry, but faces legal and sustainability risks that investors should consider.
+
+1. [NEM (Newmont Corporation)](/us/nem) *Middle* Newmont Corporation presents a favorable opportunity for investors given the current macroeconomic environment and the performance of the gold market.
+
+1. [OGN (Organon & Co.)](/us/ogn) *Small* Organon & Co. shows potential for growth and positive impact in the healthcare and pharmaceutical sectors, while facing risks related to market conditions and product performance.
+
+1. [RBLX (Roblox Corporation)](/us/rblx) *Middle* Roblox presents an opportunity for growth and innovation in the online gaming sector, but investors should be mindful of potential risks and market volatility.
+
+1. [GPS (The Gap, Inc.)](/us/gps) *Small* Gap, Inc. shows potential for growth and international expansion, but risks include softness in wholesale business and competition in the retail industry.
+
+1. [O (Realty Income Corporation)](/us/o) *Middle* Realty Income Corp. presents a strong opportunity for investors seeking dependable income through consistent monthly cash dividends, but it also carries risks related to market volatility and economic conditions.
+
+1. [ROIV (Roivant Sciences Ltd.)](/us/roiv) *Small* Roivant Sciences Ltd. shows promise with its product portfolio and leadership, but faces risks with recent setbacks and asset sales.
+
+1. [ARRY (Array Technologies, Inc.)](/us/arry) *Small* The solar energy industry presents significant growth opportunities driven by increased demand, government support, and billionaire investor confidence, although it is accompanied by potential policy and market risks.
+
+1. [ON (ON Semiconductor Corporation)](/us/on) *Middle* ON Semiconductor Corp. shows promising potential in the semiconductor and automotive industries, but may face challenges due to the current state of the EV market.
+
+1. [FTNT (Fortinet, Inc.)](/us/ftnt) *Middle* Fortinet's focus on AI innovation and strategic partnerships, along with the challenges in the cybersecurity market, indicates potential for long-term growth with some short-term risks.
+
+1. [RIVN (Rivian Automotive, Inc.)](/us/rivn) *Middle* Rivian has promising prospects, but faces challenges in the competitive electric vehicle market, making it a potentially intriguing investment opportunity.
+
+1. [UAL (United Airlines Holdings, Inc.)](/us/ual) *Middle* United Airlines faces both opportunities and challenges in the current market, with labor discontent and potential travel disruptions posing risks, while the projected surge in year-end travel offers a chance for increased revenue.
+
+1. [PINS (Pinterest, Inc.)](/us/pins) *Middle* The growing partnership with Amazon, the use of AI for innovation, and the potential for increased reliance on Pinterest for shopping make it a high potential stock for 2024, but potential competition and market saturation pose risks.
 
 
                 
