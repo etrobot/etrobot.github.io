@@ -1,25 +1,29 @@
 ---
 title: "UAL"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-12-13T09:24:44
+date: 2023-12-14T09:05:03
 draft: true
-tags: ['transportation services', 'airline industry', 'travel disruptions', 'customer dissatisfaction', 'economic impact']
+tags: ['Airline Industry', 'Labor Discontent', 'Projected Surge in Travel', 'Elite Service Tiers', 'Airline Fees']
 author: Friday Wall
 ---
 
-score:-103
+score:-110
 ### Chances:
-1. Labor discontent is rife in the skies over the U.S., which could lead to potential disruptions in United Airlines' operations.
-2. United Airlines is likely to benefit from the projected surge in year-end travel, along with other major airlines in the U.S.
+1. Labor discontent is rife in the skies over the U.S.
+2. American Airlines (AAL), Southwest Airlines (LUV), Delta Air Lines (DAL) and United Airlines (UAL) are likely to benefit from the projected surge in year-end travel.
+3. Delta Air Lines has a program called Delta 360, described as an invitation-only service tier for its top SkyMiles members.
+4. United Airlines has an official elite tier above its Premier 1K program called Global Services.
 ### Risks:
-1. Complaints about airlines, including United Airlines, have been numerous in 2023, indicating potential customer dissatisfaction and negative impact on the company's reputation.
-2. Shortages of air-traffic controllers, airplanes, and pilots could lead to higher fares, delays, cancellations, and disruption for United Airlines and the entire airline industry.
-### Score:-103
-chances characters count - risks characters count = -1103
+1. Complaints about airlines were so numerous in 2023 that the Transportation Department couldn’t even count all the grievances it received for several months.
+2. Shortages of air-traffic controllers, airplanes and pilots all add up to one conclusion: Travelers will likely be facing higher fares along with more delays, cancellations and disruption.
+3. United Airlines CEO Scott Kirby has addressed consumers' latest concerns in a new interview amid record holiday travel where he discussed skyrocketing airline fees and worries of poor pilot mental health.
+### Score:-110
+chances characters count - risks characters count = -1110
 
 investment score = 1000 + chances characters count - risks characters count
 {{<tradingview symbol="Nasdaq:UAL">}}
 ### References:
+- 2023-12-13 [Is United Airlines Holdings, Inc.'s (NASDAQ:UAL) ROE Of 32% Impressive?](https://finance.yahoo.com/news/united-airlines-holdings-inc-nasdaq-114653140.html)
 - 2023-12-13 [Flight Attendants Want More from U.S. Airlines. It Might Take a Strike to Get There.](https://finance.yahoo.com/news/flight-attendants-want-more-u-204812434.html)
 - 2023-12-12 [Year-End Travel Set to Hit Record High: 4 Stocks in Focus](https://finance.yahoo.com/news/end-travel-set-hit-record-150300960.html)
 - 2023-12-12 [United Airlines (UAL) Stock Drops Despite Market Gains: Important Facts to Note](https://finance.yahoo.com/news/united-airlines-ual-stock-drops-224520175.html)
@@ -29,7 +33,6 @@ investment score = 1000 + chances characters count - risks characters count
 - 2023-12-08 [United Airlines has a big price change for passengers now](https://finance.yahoo.com/m/d1ab0ab6-11a6-304b-b3c7-f86f0813158d/united-airlines-has-a-big.html)
 - 2023-12-07 [Zacks Earnings Trends Highlights: Disney and United Airlines](https://finance.yahoo.com/news/zacks-earnings-trends-highlights-disney-111500212.html)
 - 2023-12-05 [United Airlines (UAL) Rises As Market Takes a Dip: Key Facts](https://finance.yahoo.com/news/united-airlines-ual-rises-market-224514087.html)
-- 2023-12-02 [United Airlines CEO Kirby responds to major industry complaints](https://finance.yahoo.com/m/35ce58e0-c8d5-3086-82f5-d89033562156/united-airlines-ceo-kirby.html)
 
 
                 

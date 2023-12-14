@@ -1,23 +1,19 @@
 ---
 title: "INFY"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-12-13T09:24:53
+date: 2023-12-14T09:05:25
 draft: true
-tags: ['Digital services', 'AI-first strategy', 'Strategic collaborations', 'Financial leadership', 'Competitive industry']
+tags: ['Tech', 'Digital Services', 'Consulting', 'Finance', 'Customer Growth']
 author: Friday Wall
 ---
 
-score:95
+score:28
 ### Chances:
-1. Infosys has shown strong growth in its omnichannel and AI-first offerings, which has led to significant customer growth and transaction volumes.
-2. The company's strategic collaborations with TK Elevator and Proximus demonstrate its commitment to modernizing and transforming digital landscapes for its clients.
-3. The appointment of insider Jayesh Sanghrajka as the new finance chief provides stability and continuity for the company's financial leadership.
+1. Infosys has shown strong growth in customer base and transaction volumes, indicating a positive outlook for the company.
 ### Risks:
-1. The resignation of the current finance chief could lead to uncertainties in the financial management of the company.
-2. Infosys operates in a highly competitive industry and faces the risk of technological disruption and changing market dynamics.
-3. The economic outlook for Asia, where Infosys is headquartered, could impact the company's growth and performance.
-### Score:95
-chances characters count - risks characters count = -905
+1. The resignation of the finance chief may pose a risk to the company if not managed properly.
+### Score:28
+chances characters count - risks characters count = -972
 
 investment score = 1000 + chances characters count - risks characters count
 {{<tradingview symbol="NYSE:INFY">}}
