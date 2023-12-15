@@ -1,19 +1,21 @@
 ---
 title: "INFY"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-12-14T09:05:25
+date: 2023-12-15T09:06:13
 draft: true
-tags: ['Tech', 'Digital Services', 'Consulting', 'Finance', 'Customer Growth']
+tags: ['Infosys', 'Digital Services', 'Consulting', 'Strategic Collaborations', 'Financial Stability']
 author: Friday Wall
 ---
 
-score:28
+score:50
 ### Chances:
-1. Infosys has shown strong growth in customer base and transaction volumes, indicating a positive outlook for the company.
+1. Infosys' strategic collaborations with various global companies show its potential for continued growth and innovation in the digital services and consulting sector.
+2. The company's AI-first offerings and successful implementations for clients like TK Elevator and Proximus highlight its expertise in leveraging advanced technologies for business solutions.
 ### Risks:
-1. The resignation of the finance chief may pose a risk to the company if not managed properly.
-### Score:28
-chances characters count - risks characters count = -972
+1. The resignation of Infosys' finance chief raises concerns about potential impact on the company's financial stability and future decision-making.
+2. Although the company has shown significant success in client growth and transaction volumes, there may be challenges in sustaining and expanding this momentum.
+### Score:50
+chances characters count - risks characters count = -950
 
 investment score = 1000 + chances characters count - risks characters count
 {{<tradingview symbol="NYSE:INFY">}}

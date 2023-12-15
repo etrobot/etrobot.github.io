@@ -1,35 +1,35 @@
 ---
 title: "O"
 subtitle: "Stock Analysis by ChatGPT"
-date: 2023-12-14T09:04:21
+date: 2023-12-15T09:03:59
 draft: true
-tags: ['Real Estate', 'Dividend Stocks', 'Investing', 'REITs', 'Wealth Generation']
+tags: ['Dividend stock', 'REIT', 'Revenue growth', 'Stock rating', 'Dividend increase']
 author: Friday Wall
 ---
 
-score:-96
+score:-16
 ### Chances:
-1. Realty Income Corp. (O) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects.
-2. Real estate stands as a cornerstone of wealth generation, and as 19th-century British philosopher and economist John Stuart Mill once, said, 'Landlords grow rich in their sleep.'
+1. Realty Income Corp. (O) has increased its dividends for 31 straight years, indicating a strong track record of dividend growth.
+2. The company recorded significant revenue growth of 24.1% in the last quarter, showcasing its ability to generate consistent cash flows.
 ### Risks:
-1. REITs are expected to rebound in 2024, but the realm of real estate investment trusts (REITs) has had it incredibly rough in 2023 in contrast to the S&P 500’s double-digit gains, making selecting the best REITs a challenging task.
-2. Many dividend stocks have sold off over the past year due to higher interest rates making lower-risk investments like bonds and bank CDs more attractive income-generating options.
-### Score:-96
-chances characters count - risks characters count = -1096
+1. Realty Income stock is currently trading near three-year lows, indicating potential downside risk in the short term.
+2. The effectiveness of the average brokerage recommendation (ABR) for Realty Income Corp. has been called into question, which casts doubt on the stock's potential.
+### Score:-16
+chances characters count - risks characters count = -1016
 
 investment score = 1000 + chances characters count - risks characters count
 {{<tradingview symbol="NYSE:O">}}
 ### References:
+- 2023-12-15 [Want To Defeat Inflation? Three REITs That Keep Raising Dividends](https://finance.yahoo.com/news/want-defeat-inflation-three-reits-200431445.html)
+- 2023-12-15 [How to Make $500 Monthly From Realty Income Corp](https://finance.yahoo.com/news/500-monthly-realty-income-corp-175403098.html)
+- 2023-12-14 [Is It Worth Investing in Realty Income Corp. (O) Based on Wall Street's Bullish Views?](https://finance.yahoo.com/news/worth-investing-realty-income-corp-143006733.html)
+- 2023-12-14 [Realty Income Corporation (O) is Attracting Investor Attention: Here is What You Should Know](https://finance.yahoo.com/news/realty-income-corporation-o-attracting-140012761.html)
+- 2023-12-14 [Here's 1 Fantastic Dividend Stock to Buy in December](https://www.fool.com/investing/2023/12/14/1-fantastic-dividend-stock-to-buy-in-december/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&.tsrc=rss)
+- 2023-12-14 [Want $200 in Monthly Dividend Income in 2024? Invest $27,000 in This Ultra-High-Yield Trio](https://www.fool.com/investing/2023/12/14/want-200-monthly-dividend-income-2024-invest-27000/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&.tsrc=rss)
 - 2023-12-14 [This Hot REIT Stock Still Has 20% Upside, According to 1 Wall Street Analyst](https://www.fool.com/investing/2023/12/13/this-hot-reit-stock-still-has-20-upside/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&.tsrc=rss)
 - 2023-12-14 [Realty Income Corp. (O) Upgraded to Buy: Here's What You Should Know](https://finance.yahoo.com/news/realty-income-corp-o-upgraded-170005480.html)
 - 2023-12-14 [Realty Income (O) Rewards Investors With 123rd Dividend Hike](https://finance.yahoo.com/news/realty-income-o-rewards-investors-160300536.html)
 - 2023-12-13 [123rd Common Stock Monthly Dividend Increase Declared by Realty Income](https://finance.yahoo.com/news/123rd-common-stock-monthly-dividend-210500260.html)
-- 2023-12-13 [How To Collect $1,000 In Monthly Rental Income Without Becoming A Landlord](https://finance.yahoo.com/news/collect-1-000-monthly-rental-182610066.html)
-- 2023-12-12 [10 of the Best REITs for 2024](https://www.fool.com/investing/2023/12/12/10-of-the-best-reits-for-2024/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article&.tsrc=rss)
-- 2023-12-12 [Here Are My 5 Largest Stock Positions Heading Into 2024](https://finance.yahoo.com/news/5-largest-stock-positions-heading-110300865.html)
-- 2023-12-12 [Vertical Farming a Green Shoot for Struggling Commercial Space](https://finance.yahoo.com/news/vertical-farming-green-shoot-struggling-160030958.html)
-- 2023-12-10 [4 Top Dividend Stocks Yielding More Than 4% to Buy Hand-Over-Fist This December](https://finance.yahoo.com/m/07f6850b-4af1-364f-bab7-b8d920358477/4-top-dividend-stocks.html)
-- 2023-12-08 [2 Top Growth Stocks That Are Screaming Buys in December](https://finance.yahoo.com/m/6a94abee-5bf3-3a85-9cb3-c0fe2844d4db/2-top-growth-stocks-that-are.html)
 
 
                 
