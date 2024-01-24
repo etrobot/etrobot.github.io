@@ -6,15 +6,25 @@
     <description>Recent content in Cloud Computing on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 09:02:49 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 09:06:38 +0000</lastBuildDate><atom:link href="https://finan.club/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSCO</title>
+      <link>https://finan.club/us/csco/</link>
+      <pubDate>Wed, 24 Jan 2024 09:06:38 +0000</pubDate>
+      
+      <guid>https://finan.club/us/csco/</guid>
+      <description>score:82
+Chances: Cisco Systems, Inc. has the opportunity to benefit from the shift to remote work, as well as trends in cloud computing and corporate and telecom networks. Advancements in artificial intelligence, particularly generative AI, could provide new opportunities for Cisco products and services.</description>
+    </item>
+    
     <item>
       <title>ORCL</title>
       <link>https://finan.club/us/orcl/</link>
-      <pubDate>Sat, 20 Jan 2024 09:02:49 +0000</pubDate>
+      <pubDate>Wed, 24 Jan 2024 09:04:08 +0000</pubDate>
       
       <guid>https://finan.club/us/orcl/</guid>
-      <description>score:55
-Chances: Oracle Corp. has been recognized as a Leader in the cloud database management systems by Gartner, indicating strong positioning in the cloud market. The company continues to introduce new capabilities to its cloud enterprise performance management, showcasing a commitment to innovation and addressing customer needs.</description>
+      <description>score:104
+Chances: Oracle has been recognized as a Leader in cloud database management by Gartner, showcasing its strong position in the industry. The company is introducing new capabilities to its cloud enterprise applications, indicating potential for growth and innovation. The general availability of the Oracle Cloud Infrastructure Generative AI service and new innovations in generative AI present opportunities for enterprise use cases and market expansion.</description>
     </item>
     
   </channel>
