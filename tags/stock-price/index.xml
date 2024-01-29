@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stock price on FinanClub</title>
+    <title>Stock Price on FinanClub</title>
     <link>https://finan.club/tags/stock-price/</link>
-    <description>Recent content in stock price on FinanClub</description>
+    <description>Recent content in Stock Price on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 09:05:36 +0000</lastBuildDate><atom:link href="https://finan.club/tags/stock-price/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 09:08:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/stock-price/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MRK</title>
-      <link>https://finan.club/us/mrk/</link>
-      <pubDate>Sat, 20 Jan 2024 09:05:36 +0000</pubDate>
+      <title>LBRT</title>
+      <link>https://finan.club/us/lbrt/</link>
+      <pubDate>Mon, 29 Jan 2024 09:08:26 +0000</pubDate>
       
-      <guid>https://finan.club/us/mrk/</guid>
-      <description>score:65
-Chances: The latest trading day saw Merck (MRK) settling at $118.49, representing a -0.12% change from its previous close. Merck&amp;rsquo;s stock price might be vulnerable to institutional stake. Risks: Many Merck &amp;amp; Co., Inc. insiders have been selling their stock over the past year, which may be a cause for concern.</description>
+      <guid>https://finan.club/us/lbrt/</guid>
+      <description>score:-33
+Chances: Stock price is up 14% this week Board of Directors has increased share repurchase authorization to $750 million Establishment of the Bettering Human Lives Foundation shows commitment to social responsibility Risks: Earnings and revenue surprises for the quarter ended December 2023 were below expectations Uncertainty in the oil and natural gas exploration and production industry Effectiveness of price targets set by Wall Street analysts is questionable Score:-33 chances characters count - risks characters count = -33</description>
+    </item>
+    
+    <item>
+      <title>M</title>
+      <link>https://finan.club/us/m/</link>
+      <pubDate>Mon, 29 Jan 2024 09:06:05 +0000</pubDate>
+      
+      <guid>https://finan.club/us/m/</guid>
+      <description>score:59
+Chances: Macy&amp;rsquo;s stock climbed following news of a potential takeover bid from private-equity firm Sycamore Partners. The company&amp;rsquo;s rejection of the $5.8 billion offer from Arkhouse Management and Brigade Capital shows their focus on long-term growth and strategic e-commerce integration. Front-line worker training and reduction in the use of third-party security services are positive initiatives that could enhance operational efficiency.</description>
     </item>
     
   </channel>

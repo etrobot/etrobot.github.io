@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech industry on FinanClub</title>
+    <title>Tech Industry on FinanClub</title>
     <link>https://finan.club/tags/tech-industry/</link>
-    <description>Recent content in Tech industry on FinanClub</description>
+    <description>Recent content in Tech Industry on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2024 09:06:37 +0000</lastBuildDate><atom:link href="https://finan.club/tags/tech-industry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 09:02:44 +0000</lastBuildDate><atom:link href="https://finan.club/tags/tech-industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EBAY</title>
+      <link>https://finan.club/us/ebay/</link>
+      <pubDate>Mon, 29 Jan 2024 09:02:44 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ebay/</guid>
+      <description>score:179
+Chances: eBay stock gained in early trading Wednesday after the e-commerce company announced plans to lay off 9% of its staff. The job cuts should save eBay about $200 million a year, says one analyst, and &amp;lsquo;suggest business remains under pressure.&amp;rsquo; The company has a revenue-generating business model, but faces formidable competition from other global e-commerce retailers.</description>
+    </item>
+    
     <item>
       <title>MSFT</title>
       <link>https://finan.club/us/msft/</link>
