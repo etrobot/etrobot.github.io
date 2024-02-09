@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>volatility on FinanClub</title>
+    <title>Volatility on FinanClub</title>
     <link>https://finan.club/tags/volatility/</link>
-    <description>Recent content in volatility on FinanClub</description>
+    <description>Recent content in Volatility on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 09:06:03 +0000</lastBuildDate><atom:link href="https://finan.club/tags/volatility/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2024 09:04:23 +0000</lastBuildDate><atom:link href="https://finan.club/tags/volatility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARDX</title>
+      <link>https://finan.club/us/ardx/</link>
+      <pubDate>Fri, 09 Feb 2024 09:04:23 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ardx/</guid>
+      <description>score:47
+Chances: Ardelyx (ARDX) has been upgraded to a Zacks Rank #2 (Buy), indicating growing optimism about its earnings prospects. The biotech market is projected to experience robust growth from 2024 to 2030, with an expanding clinical trial pipeline and strong regulatory support for startups.</description>
+    </item>
+    
     <item>
       <title>OWL</title>
       <link>https://finan.club/us/owl/</link>
@@ -25,16 +35,6 @@ Chances: Blue Owl Capital Inc. and Blue Owl Capital Corporation are both schedul
       <guid>https://finan.club/us/mrna/</guid>
       <description>score:-55
 Chances: Moderna&amp;rsquo;s product pipeline includes a wide range of modalities, such as prophylactic vaccines, cancer vaccines, and localized regenerative therapeutics, providing opportunities for significant future growth. The company&amp;rsquo;s focus on intratumoral immuno-oncology and systemic intracellular therapeutics reflects a strong commitment to addressing complex medical challenges with innovative solutions.</description>
-    </item>
-    
-    <item>
-      <title>IMGN</title>
-      <link>https://finan.club/us/imgn/</link>
-      <pubDate>Tue, 16 Jan 2024 09:03:26 +0000</pubDate>
-      
-      <guid>https://finan.club/us/imgn/</guid>
-      <description>score:155
-Chances: ImmunoGen has seen solid earnings estimate revision activity over the past two months. The company belongs to a strong industry with growing optimism about its earnings prospects. ImmunoGen made it to the Zacks Rank #1 (Strong Buy) momentum stocks list. ImmunoGen has announced inducement grants under Nasdaq Listing Rule.</description>
     </item>
     
   </channel>
