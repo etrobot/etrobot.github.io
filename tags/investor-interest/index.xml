@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investor Interest on FinanClub</title>
+    <title>Investor interest on FinanClub</title>
     <link>https://finan.club/tags/investor-interest/</link>
-    <description>Recent content in Investor Interest on FinanClub</description>
+    <description>Recent content in Investor interest on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2024 09:06:14 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-interest/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 09:04:01 +0000</lastBuildDate><atom:link href="https://finan.club/tags/investor-interest/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SNOW</title>
-      <link>https://finan.club/us/snow/</link>
-      <pubDate>Mon, 05 Feb 2024 09:06:14 +0000</pubDate>
+      <title>TSM</title>
+      <link>https://finan.club/us/tsm/</link>
+      <pubDate>Tue, 20 Feb 2024 09:04:01 +0000</pubDate>
       
-      <guid>https://finan.club/us/snow/</guid>
-      <description>score:4
-Chances: Warren Buffett&amp;rsquo;s team invested in this company before the IPO, indicating potential for long-term success. Snowflake&amp;rsquo;s Cloud Data Platform is an innovative technology that powers Data Cloud, indicating potential for industry disruption. The company&amp;rsquo;s platform supports a wide range of use cases that achieve the customer&amp;rsquo;s most important business goals, indicating strong market demand.</description>
+      <guid>https://finan.club/us/tsm/</guid>
+      <description>score:27
+Chances: The Biden administration&amp;rsquo;s pledge of $1.5 billion in grants to GlobalFoundries signifies a major opportunity for the domestic semiconductor industry to revitalize. Investors are bullish on the chance for more gains in shares of Nvidia Corp.&amp;rsquo;s top memory supplier SK Hynix Inc.</description>
+    </item>
+    
+    <item>
+      <title>RKLB</title>
+      <link>https://finan.club/us/rklb/</link>
+      <pubDate>Tue, 20 Feb 2024 09:03:47 +0000</pubDate>
+      
+      <guid>https://finan.club/us/rklb/</guid>
+      <description>score:156
+Chances: Rocket Lab has successfully launched its 44th Electron rocket, showcasing its consistent capability in the space launch market. The approval from the Federal Aviation Administration for reentry of Varda Space Industries’ in-space manufacturing capsule demonstrates Rocket Lab&amp;rsquo;s regulatory compliance and operational expertise.</description>
     </item>
     
   </channel>
