@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Airline industry on FinanClub</title>
+    <title>Airline Industry on FinanClub</title>
     <link>https://finan.club/tags/airline-industry/</link>
-    <description>Recent content in Airline industry on FinanClub</description>
+    <description>Recent content in Airline Industry on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2024 09:06:32 +0000</lastBuildDate><atom:link href="https://finan.club/tags/airline-industry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 09:08:08 +0000</lastBuildDate><atom:link href="https://finan.club/tags/airline-industry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JBLU</title>
+      <link>https://finan.club/us/jblu/</link>
+      <pubDate>Wed, 21 Feb 2024 09:08:08 +0000</pubDate>
+      
+      <guid>https://finan.club/us/jblu/</guid>
+      <description>score:72
+Chances: JetBlue (JBLU) stock was upgraded to Buy from Hold by Deutsche Bank, which also raised its price target on the airline’s shares to $9. Airlines’ plans to increase their U.S. carrying capacity more slowly should offer a boost to Southwest Airlines and other regional airlines.</description>
+    </item>
+    
     <item>
       <title>LUV</title>
       <link>https://finan.club/us/luv/</link>
@@ -15,16 +25,6 @@
       <guid>https://finan.club/us/luv/</guid>
       <description>score:16
 Chances: Southwest Airlines Co. invites you to listen to a live webcast of its fourth quarter 2023 financial results, indicating transparency and potential positive news for investors. The future of the U.S. economy is promising, marked by a robust recovery in the travel sector, which could benefit Southwest Airlines and its stock performance.</description>
-    </item>
-    
-    <item>
-      <title>UAL</title>
-      <link>https://finan.club/us/ual/</link>
-      <pubDate>Wed, 27 Dec 2023 09:05:02 +0000</pubDate>
-      
-      <guid>https://finan.club/us/ual/</guid>
-      <description>score:96
-Chances: United Airlines is a founding member of Star Alliance, a global aviation partnership, which could provide the company with valuable market access and customer loyalty. The U.S. Transportation Department&amp;rsquo;s scrutiny of airline loyalty programs could lead to increased transparency and benefits for frequent fliers, potentially boosting customer satisfaction and retention for United Airlines.</description>
     </item>
     
   </channel>
