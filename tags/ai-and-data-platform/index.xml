@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI and data platform on FinanClub</title>
+    <link>https://finan.club/tags/ai-and-data-platform/</link>
+    <description>Recent content in AI and data platform on FinanClub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2024 09:03:39 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ai-and-data-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBM</title>
+      <link>https://finan.club/us/ibm/</link>
+      <pubDate>Fri, 01 Mar 2024 09:03:39 +0000</pubDate>
+      
+      <guid>https://finan.club/us/ibm/</guid>
+      <description>score:247
+Chances: IBM closed at $185.03 in the latest trading session, marking a -0.15% move from the prior day. IBM announced the availability of the popular open-source Mixtral-8x7B large language model (LLM) on its watsonx AI and data platform, as it continues to expand capabilities to help clients innovate.</description>
+    </item>
+    
+  </channel>
+</rss>
