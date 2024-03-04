@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technology innovation on FinanClub</title>
+    <title>Technology Innovation on FinanClub</title>
     <link>https://finan.club/tags/technology-innovation/</link>
-    <description>Recent content in technology innovation on FinanClub</description>
+    <description>Recent content in Technology Innovation on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 09:05:24 +0000</lastBuildDate><atom:link href="https://finan.club/tags/technology-innovation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 09:05:02 +0000</lastBuildDate><atom:link href="https://finan.club/tags/technology-innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FLEX</title>
-      <link>https://finan.club/us/flex/</link>
-      <pubDate>Wed, 31 Jan 2024 09:05:24 +0000</pubDate>
+      <title>CCCS</title>
+      <link>https://finan.club/us/cccs/</link>
+      <pubDate>Mon, 04 Mar 2024 09:05:02 +0000</pubDate>
       
-      <guid>https://finan.club/us/flex/</guid>
-      <description>score:-4
-Chances: FLEX&amp;rsquo;s third-quarter performance is likely to have benefited from increased demand for its solutions in the industrial and automotive segments. The company&amp;rsquo;s shares saw a double-digit share price rise. Risks: In an era of dynamic market fluctuations, identifying value stocks that promise significant growth potential is paramount.</description>
+      <guid>https://finan.club/us/cccs/</guid>
+      <description>score:-3
+Chances: CCC Intelligent Solutions Holdings Inc. has announced strong year-end financials with revenue and adjusted EBITDA surpassing guidance, indicating potential for growth and performance in the coming years. The company&amp;rsquo;s cloud-based software as a service platform is being well-received in the property and casualty insurance economy, showing promising opportunities for expansion and market penetration.</description>
+    </item>
+    
+    <item>
+      <title>CFLT</title>
+      <link>https://finan.club/us/cflt/</link>
+      <pubDate>Mon, 04 Mar 2024 09:04:55 +0000</pubDate>
+      
+      <guid>https://finan.club/us/cflt/</guid>
+      <description>score:19
+Chances: Confluent has rallied 50% in February, fueled by better-than-expected fourth-quarter earnings and an optimistic outlook. Rising data streaming adoption can drive solid growth for Confluent. Confluent is developing a technology that every investor should learn about. Risks: Confluent Inc reported an insider sale according to a recent SEC filing.</description>
     </item>
     
   </channel>
