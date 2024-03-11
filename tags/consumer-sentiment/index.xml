@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>consumer sentiment on FinanClub</title>
+    <title>Consumer Sentiment on FinanClub</title>
     <link>https://finan.club/tags/consumer-sentiment/</link>
-    <description>Recent content in consumer sentiment on FinanClub</description>
+    <description>Recent content in Consumer Sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 09:05:52 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 09:03:00 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JBLU</title>
-      <link>https://finan.club/us/jblu/</link>
-      <pubDate>Fri, 23 Feb 2024 09:05:52 +0000</pubDate>
+      <title>FNMA</title>
+      <link>https://finan.club/us/fnma/</link>
+      <pubDate>Mon, 11 Mar 2024 09:03:00 +0000</pubDate>
       
-      <guid>https://finan.club/us/jblu/</guid>
-      <description>score:120
-Chances: A rising economic situation, a moderation in the rate of inflation, and the prospect of lower interest rates later this year have a positive effect on the average consumer, leading to potential gains for airline carriers. JetBlue stock was upgraded to Buy from Hold by Deutsche Bank, which also raised its price target on the airline’s shares to $9.</description>
+      <guid>https://finan.club/us/fnma/</guid>
+      <description>score:13
+Chances: Consumer sentiment towards housing is increasing, driven by optimism among sellers, which could lead to an uptick in home listings. Fannie Mae&amp;rsquo;s Home Purchase Sentiment Index has increased for the third consecutive month, indicating growing positivity in the housing market. Fannie Mae&amp;rsquo;s benchmark issuance program, CAS, is experiencing strong activity, with approximately $1.</description>
     </item>
     
   </channel>
