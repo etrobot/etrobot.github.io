@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ride-sharing on FinanClub</title>
+    <title>Ride-Sharing on FinanClub</title>
     <link>https://finan.club/tags/ride-sharing/</link>
-    <description>Recent content in Ride-sharing on FinanClub</description>
+    <description>Recent content in Ride-Sharing on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Feb 2024 09:02:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ride-sharing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 09:05:11 +0000</lastBuildDate><atom:link href="https://finan.club/tags/ride-sharing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LYFT</title>
+      <link>https://finan.club/us/lyft/</link>
+      <pubDate>Wed, 13 Mar 2024 09:05:11 +0000</pubDate>
+      
+      <guid>https://finan.club/us/lyft/</guid>
+      <description>score:-122
+Chances: Lyft has made significant strides under the leadership of new CEO David Risher, both on the cost side and on the execution side. The global public transit market was valued highly. Risks: Uber and Lyft are threatening to end service in Minneapolis-St.</description>
+    </item>
+    
     <item>
       <title>UBER</title>
       <link>https://finan.club/us/uber/</link>
