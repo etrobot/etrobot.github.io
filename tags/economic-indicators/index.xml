@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Economic Indicators on FinanClub</title>
+    <title>Economic indicators on FinanClub</title>
     <link>https://finan.club/tags/economic-indicators/</link>
-    <description>Recent content in Economic Indicators on FinanClub</description>
+    <description>Recent content in Economic indicators on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 09:29:54 +0000</lastBuildDate><atom:link href="https://finan.club/tags/economic-indicators/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 09:02:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/economic-indicators/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NVDA</title>
-      <link>https://finan.club/us/nvda/</link>
-      <pubDate>Fri, 18 Aug 2023 09:29:54 +0000</pubDate>
+      <title>FNMA</title>
+      <link>https://finan.club/us/fnma/</link>
+      <pubDate>Wed, 20 Mar 2024 09:02:26 +0000</pubDate>
       
-      <guid>https://finan.club/us/nvda/</guid>
-      <description>score:46
-Chances: NVIDIA has witnessed a strong rebound in 2023, driven by excitement over artificial intelligence (AI) and positive economic indicators. The surge in AI enthusiasm has contributed to NVIDIA&amp;rsquo;s remarkable stock performance and tripling of its value in 2023. Consensus estimates suggest significant earnings growth for NVIDIA in the current fiscal year due to its involvement in AI technologies.</description>
+      <guid>https://finan.club/us/fnma/</guid>
+      <description>score:73
+Chances: Strong employment numbers and hotter-than-expected inflation data will keep mortgage rates higher for longer, according to Fannie Mae. Consumer sentiment toward housing inched higher for a third consecutive month in February, driven by optimism among sellers. U.S. homebuying sentiment rose for a third consecutive month in February largely because a growing view among current homeowners that now is a good time to sell their house could bode well for a much-needed uptick in home listings.</description>
     </item>
     
   </channel>
