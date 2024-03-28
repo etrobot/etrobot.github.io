@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Consumer sentiment on FinanClub</title>
+    <title>Consumer Sentiment on FinanClub</title>
     <link>https://finan.club/tags/consumer-sentiment/</link>
-    <description>Recent content in Consumer sentiment on FinanClub</description>
+    <description>Recent content in Consumer Sentiment on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 09:03:08 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 09:03:21 +0000</lastBuildDate><atom:link href="https://finan.club/tags/consumer-sentiment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FNMA</title>
-      <link>https://finan.club/us/fnma/</link>
-      <pubDate>Mon, 25 Mar 2024 09:03:08 +0000</pubDate>
+      <title>WBA</title>
+      <link>https://finan.club/us/wba/</link>
+      <pubDate>Thu, 28 Mar 2024 09:03:21 +0000</pubDate>
       
-      <guid>https://finan.club/us/fnma/</guid>
-      <description>score:94
-Chances: Fannie Mae&amp;rsquo;s CEO, Priscilla Almodovar, oversees a significant amount of mortgage assets and is the only Latina CEO on the Fortune 500, indicating strong leadership. Consumer sentiment toward housing and homebuying sentiment have both shown positive trends in recent months, potentially indicating a favorable market for Fannie Mae&amp;rsquo;s services.</description>
+      <guid>https://finan.club/us/wba/</guid>
+      <description>score:60
+Chances: Walgreens Boots Alliance is set to post its second-quarter earnings results, which could potentially bring positive news for investors. The US GDP reading for the fourth quarter is expected to show a 3.2% growth rate, which may bode well for the overall market sentiment.</description>
     </item>
     
   </channel>
