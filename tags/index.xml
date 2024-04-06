@@ -6,11 +6,11 @@
     <description>Recent content in Tags on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2024 09:06:14 +0000</lastBuildDate><atom:link href="https://finan.club/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Apr 2024 09:05:19 +0000</lastBuildDate><atom:link href="https://finan.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT Analyst</title>
       <link>https://finan.club/tags/chatgpt-analyst/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:14 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2024 09:05:19 +0000</pubDate>
       
       <guid>https://finan.club/tags/chatgpt-analyst/</guid>
       <description></description>
@@ -19,63 +19,756 @@
     <item>
       <title>US Stock Ranking</title>
       <link>https://finan.club/tags/us-stock-ranking/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:14 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2024 09:05:19 +0000</pubDate>
       
       <guid>https://finan.club/tags/us-stock-ranking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Legal risks</title>
-      <link>https://finan.club/tags/legal-risks/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:08 +0000</pubDate>
+      <title>AI</title>
+      <link>https://finan.club/tags/ai/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:14 +0000</pubDate>
       
-      <guid>https://finan.club/tags/legal-risks/</guid>
+      <guid>https://finan.club/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Media industry</title>
-      <link>https://finan.club/tags/media-industry/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:08 +0000</pubDate>
+      <title>Cloud Computing</title>
+      <link>https://finan.club/tags/cloud-computing/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:14 +0000</pubDate>
       
-      <guid>https://finan.club/tags/media-industry/</guid>
+      <guid>https://finan.club/tags/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Merger talks</title>
-      <link>https://finan.club/tags/merger-talks/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:08 +0000</pubDate>
+      <title>Competition</title>
+      <link>https://finan.club/tags/competition/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:14 +0000</pubDate>
       
-      <guid>https://finan.club/tags/merger-talks/</guid>
+      <guid>https://finan.club/tags/competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Services</title>
+      <link>https://finan.club/tags/financial-services/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:14 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/financial-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Management</title>
+      <link>https://finan.club/tags/network-management/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:14 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/network-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Storage</title>
+      <link>https://finan.club/tags/data-storage/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:09 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/data-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earnings</title>
+      <link>https://finan.club/tags/earnings/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:09 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/earnings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Trends</title>
+      <link>https://finan.club/tags/industry-trends/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:09 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/industry-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Performance</title>
+      <link>https://finan.club/tags/market-performance/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:09 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://finan.club/tags/tech/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:09 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biopharmaceutical</title>
+      <link>https://finan.club/tags/biopharmaceutical/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:04 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/biopharmaceutical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical trials</title>
+      <link>https://finan.club/tags/clinical-trials/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:04 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Stability</title>
+      <link>https://finan.club/tags/financial-stability/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:04 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/financial-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>market volatility</title>
+      <link>https://finan.club/tags/market-volatility/</link>
+      <pubDate>Sat, 06 Apr 2024 09:05:04 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-volatility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stock performance</title>
       <link>https://finan.club/tags/stock-performance/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:08 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2024 09:05:04 +0000</pubDate>
       
       <guid>https://finan.club/tags/stock-performance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Strategic growth</title>
-      <link>https://finan.club/tags/strategic-growth/</link>
-      <pubDate>Fri, 05 Apr 2024 09:06:08 +0000</pubDate>
+      <title>Content Collaboration</title>
+      <link>https://finan.club/tags/content-collaboration/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:59 +0000</pubDate>
       
-      <guid>https://finan.club/tags/strategic-growth/</guid>
+      <guid>https://finan.club/tags/content-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Performance</title>
+      <link>https://finan.club/tags/financial-performance/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:59 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/financial-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media Industry</title>
+      <link>https://finan.club/tags/media-industry/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:59 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/media-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mergers and Acquisitions</title>
+      <link>https://finan.club/tags/mergers-and-acquisitions/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:59 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/mergers-and-acquisitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming services</title>
+      <link>https://finan.club/tags/streaming-services/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:59 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/streaming-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apparel Retail</title>
+      <link>https://finan.club/tags/apparel-retail/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:54 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/apparel-retail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawsuit Risk</title>
+      <link>https://finan.club/tags/lawsuit-risk/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:54 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/lawsuit-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revenue Diversification</title>
+      <link>https://finan.club/tags/revenue-diversification/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:54 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/revenue-diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beverages</title>
+      <link>https://finan.club/tags/beverages/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:47 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/beverages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEO transition</title>
+      <link>https://finan.club/tags/ceo-transition/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:47 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/ceo-transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumer preferences</title>
+      <link>https://finan.club/tags/consumer-preferences/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:47 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/consumer-preferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Expansion</title>
+      <link>https://finan.club/tags/market-expansion/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:47 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-alcoholic</title>
+      <link>https://finan.club/tags/non-alcoholic/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:47 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/non-alcoholic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Market Expansion</title>
+      <link>https://finan.club/tags/global-market-expansion/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:42 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/global-market-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>https://finan.club/tags/innovation/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:42 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renewable energy</title>
+      <link>https://finan.club/tags/renewable-energy/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:42 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Technology</title>
+      <link>https://finan.club/tags/solar-technology/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:42 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/solar-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital payments</title>
+      <link>https://finan.club/tags/digital-payments/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:36 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/digital-payments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investor Sentiment</title>
+      <link>https://finan.club/tags/investor-sentiment/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:36 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/investor-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Analysis</title>
+      <link>https://finan.club/tags/market-analysis/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:36 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Platforms</title>
+      <link>https://finan.club/tags/technology-platforms/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:36 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/technology-platforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://finan.club/tags/cybersecurity/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:23 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Leadership</title>
+      <link>https://finan.club/tags/market-leadership/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:23 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://finan.club/tags/technology/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:23 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asset portfolio</title>
+      <link>https://finan.club/tags/asset-portfolio/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/asset-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contract risk</title>
+      <link>https://finan.club/tags/contract-risk/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/contract-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Growth potential</title>
+      <link>https://finan.club/tags/growth-potential/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/growth-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oil and gas exploration</title>
+      <link>https://finan.club/tags/oil-and-gas-exploration/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/oil-and-gas-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>volatility impact</title>
+      <link>https://finan.club/tags/volatility-impact/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/volatility-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>https://finan.club/tags/cryptocurrency/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:13 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investment</title>
+      <link>https://finan.club/tags/investment/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:13 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory risks</title>
+      <link>https://finan.club/tags/regulatory-risks/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:13 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/regulatory-risks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail Trading</title>
+      <link>https://finan.club/tags/retail-trading/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:13 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/retail-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Sector</title>
+      <link>https://finan.club/tags/ai-sector/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:08 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/ai-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partnerships</title>
+      <link>https://finan.club/tags/partnerships/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:08 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/partnerships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://finan.club/tags/social-media/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:08 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>https://finan.club/tags/virtual-reality/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:08 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazil</title>
+      <link>https://finan.club/tags/brazil/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:02 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/brazil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>https://finan.club/tags/energy/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:02 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership Stability</title>
+      <link>https://finan.club/tags/leadership-stability/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:02 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/leadership-stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oil &amp; Gas</title>
+      <link>https://finan.club/tags/oil-gas/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:02 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/oil-gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://finan.club/tags/sustainability/</link>
+      <pubDate>Sat, 06 Apr 2024 09:04:02 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>https://finan.club/tags/disney/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:57 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entertainment industry</title>
+      <link>https://finan.club/tags/entertainment-industry/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:57 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/entertainment-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International market</title>
+      <link>https://finan.club/tags/international-market/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:57 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/international-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media partnerships</title>
+      <link>https://finan.club/tags/media-partnerships/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:57 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/media-partnerships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial</title>
+      <link>https://finan.club/tags/financial/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:43 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lending</title>
+      <link>https://finan.club/tags/lending/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:43 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/lending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neobank</title>
+      <link>https://finan.club/tags/neobank/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:43 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/neobank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airline Industry</title>
+      <link>https://finan.club/tags/airline-industry/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:29 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/airline-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>employee relations</title>
+      <link>https://finan.club/tags/employee-relations/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:29 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/employee-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Conditions</title>
+      <link>https://finan.club/tags/market-conditions/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:29 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-conditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safety concerns</title>
+      <link>https://finan.club/tags/safety-concerns/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:29 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/safety-concerns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory Challenges</title>
+      <link>https://finan.club/tags/regulatory-challenges/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:24 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/regulatory-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rideshare Market</title>
+      <link>https://finan.club/tags/rideshare-market/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:24 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/rideshare-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Sector</title>
+      <link>https://finan.club/tags/technology-sector/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:24 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/technology-sector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acquisition</title>
       <link>https://finan.club/tags/acquisition/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:56 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2024 09:03:20 +0000</pubDate>
       
       <guid>https://finan.club/tags/acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Sector</title>
+      <link>https://finan.club/tags/energy-sector/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:20 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/energy-sector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Gas</title>
+      <link>https://finan.club/tags/natural-gas/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:20 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/natural-gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipeline Industry</title>
+      <link>https://finan.club/tags/pipeline-industry/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:20 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/pipeline-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vertical Integration</title>
+      <link>https://finan.club/tags/vertical-integration/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:20 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/vertical-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buy Point</title>
+      <link>https://finan.club/tags/buy-point/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/buy-point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investment opportunity</title>
+      <link>https://finan.club/tags/investment-opportunity/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/investment-opportunity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stock Growth</title>
+      <link>https://finan.club/tags/stock-growth/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:17 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/stock-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Results</title>
+      <link>https://finan.club/tags/financial-results/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:12 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/financial-results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare Real Estate</title>
+      <link>https://finan.club/tags/healthcare-real-estate/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:12 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/healthcare-real-estate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>merger</title>
+      <link>https://finan.club/tags/merger/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:12 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/merger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S&amp;P 500</title>
+      <link>https://finan.club/tags/sp-500/</link>
+      <pubDate>Sat, 06 Apr 2024 09:03:12 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/sp-500/</guid>
       <description></description>
     </item>
     
@@ -161,60 +854,6 @@
     </item>
     
     <item>
-      <title>Apparel</title>
-      <link>https://finan.club/tags/apparel/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/apparel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dividend Investing</title>
-      <link>https://finan.club/tags/dividend-investing/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/dividend-investing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retail</title>
-      <link>https://finan.club/tags/retail/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/retail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stock Analysis</title>
-      <link>https://finan.club/tags/stock-analysis/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/stock-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trademark Infringement</title>
-      <link>https://finan.club/tags/trademark-infringement/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/trademark-infringement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investment</title>
-      <link>https://finan.club/tags/investment/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/investment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pinterest</title>
       <link>https://finan.club/tags/pinterest/</link>
       <pubDate>Fri, 05 Apr 2024 09:05:33 +0000</pubDate>
@@ -224,11 +863,11 @@
     </item>
     
     <item>
-      <title>Social Media</title>
-      <link>https://finan.club/tags/social-media/</link>
+      <title>Stock Analysis</title>
+      <link>https://finan.club/tags/stock-analysis/</link>
       <pubDate>Fri, 05 Apr 2024 09:05:33 +0000</pubDate>
       
-      <guid>https://finan.club/tags/social-media/</guid>
+      <guid>https://finan.club/tags/stock-analysis/</guid>
       <description></description>
     </item>
     
@@ -238,78 +877,6 @@
       <pubDate>Fri, 05 Apr 2024 09:05:33 +0000</pubDate>
       
       <guid>https://finan.club/tags/tech-company/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beverage</title>
-      <link>https://finan.club/tags/beverage/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:20 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/beverage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Company Performance</title>
-      <link>https://finan.club/tags/company-performance/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:20 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/company-performance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Growth potential</title>
-      <link>https://finan.club/tags/growth-potential/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:20 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/growth-potential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership Transition</title>
-      <link>https://finan.club/tags/leadership-transition/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:20 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/leadership-transition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-Border Money Transfer</title>
-      <link>https://finan.club/tags/cross-border-money-transfer/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:16 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/cross-border-money-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fintech</title>
-      <link>https://finan.club/tags/fintech/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:16 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/fintech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investment Potential</title>
-      <link>https://finan.club/tags/investment-potential/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:16 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/investment-potential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Market Trends</title>
-      <link>https://finan.club/tags/market-trends/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:16 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-trends/</guid>
       <description></description>
     </item>
     
@@ -328,15 +895,6 @@
       <pubDate>Fri, 05 Apr 2024 09:05:02 +0000</pubDate>
       
       <guid>https://finan.club/tags/energy-stocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Gas</title>
-      <link>https://finan.club/tags/natural-gas/</link>
-      <pubDate>Fri, 05 Apr 2024 09:05:02 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/natural-gas/</guid>
       <description></description>
     </item>
     
@@ -386,51 +944,6 @@
     </item>
     
     <item>
-      <title>market volatility</title>
-      <link>https://finan.club/tags/market-volatility/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:58 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-volatility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Africa</title>
-      <link>https://finan.club/tags/africa/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:53 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy</title>
-      <link>https://finan.club/tags/energy/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:53 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploration</title>
-      <link>https://finan.club/tags/exploration/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:53 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/exploration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investing</title>
-      <link>https://finan.club/tags/investing/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:53 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/investing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Brazilian Payments Market</title>
       <link>https://finan.club/tags/brazilian-payments-market/</link>
       <pubDate>Fri, 05 Apr 2024 09:04:49 +0000</pubDate>
@@ -476,51 +989,6 @@
     </item>
     
     <item>
-      <title>Bearish rating</title>
-      <link>https://finan.club/tags/bearish-rating/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:45 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/bearish-rating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Credit cards</title>
-      <link>https://finan.club/tags/credit-cards/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:45 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/credit-cards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retail engagement</title>
-      <link>https://finan.club/tags/retail-engagement/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:45 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/retail-engagement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trading activity</title>
-      <link>https://finan.club/tags/trading-activity/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:45 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/trading-activity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volatility</title>
-      <link>https://finan.club/tags/volatility/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:45 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/volatility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biden Administration</title>
       <link>https://finan.club/tags/biden-administration/</link>
       <pubDate>Fri, 05 Apr 2024 09:04:32 +0000</pubDate>
@@ -557,96 +1025,6 @@
     </item>
     
     <item>
-      <title>renewable energy</title>
-      <link>https://finan.club/tags/renewable-energy/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/renewable-energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficiency initiative</title>
-      <link>https://finan.club/tags/efficiency-initiative/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:27 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/efficiency-initiative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Market share gains</title>
-      <link>https://finan.club/tags/market-share-gains/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:27 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-share-gains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regulatory scrutiny</title>
-      <link>https://finan.club/tags/regulatory-scrutiny/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:27 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/regulatory-scrutiny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stock market volatility</title>
-      <link>https://finan.club/tags/stock-market-volatility/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:27 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/stock-market-volatility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TikTok ban</title>
-      <link>https://finan.club/tags/tiktok-ban/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:27 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/tiktok-ban/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brazil</title>
-      <link>https://finan.club/tags/brazil/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/brazil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gas Supply</title>
-      <link>https://finan.club/tags/gas-supply/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/gas-supply/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate Cuts</title>
-      <link>https://finan.club/tags/rate-cuts/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/rate-cuts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renewable</title>
-      <link>https://finan.club/tags/renewable/</link>
-      <pubDate>Fri, 05 Apr 2024 09:04:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/renewable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Corporate News</title>
       <link>https://finan.club/tags/corporate-news/</link>
       <pubDate>Fri, 05 Apr 2024 09:03:42 +0000</pubDate>
@@ -665,101 +1043,11 @@
     </item>
     
     <item>
-      <title>Industry Trends</title>
-      <link>https://finan.club/tags/industry-trends/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:42 +0000</pubDate>
+      <title>Apparel</title>
+      <link>https://finan.club/tags/apparel/</link>
+      <pubDate>Thu, 04 Apr 2024 09:04:27 +0000</pubDate>
       
-      <guid>https://finan.club/tags/industry-trends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI Boom</title>
-      <link>https://finan.club/tags/ai-boom/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/ai-boom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://finan.club/tags/artificial-intelligence/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT Solutions</title>
-      <link>https://finan.club/tags/it-solutions/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/it-solutions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PC Market</title>
-      <link>https://finan.club/tags/pc-market/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/pc-market/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech Stocks</title>
-      <link>https://finan.club/tags/tech-stocks/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/tech-stocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Earnings</title>
-      <link>https://finan.club/tags/earnings/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/earnings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare real estate</title>
-      <link>https://finan.club/tags/healthcare-real-estate/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/healthcare-real-estate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investment trust</title>
-      <link>https://finan.club/tags/investment-trust/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/investment-trust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>merger</title>
-      <link>https://finan.club/tags/merger/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/merger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real estate</title>
-      <link>https://finan.club/tags/real-estate/</link>
-      <pubDate>Fri, 05 Apr 2024 09:03:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/real-estate/</guid>
+      <guid>https://finan.club/tags/apparel/</guid>
       <description></description>
     </item>
     
@@ -836,114 +1124,6 @@
     </item>
     
     <item>
-      <title>Activist Investor</title>
-      <link>https://finan.club/tags/activist-investor/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:44 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/activist-investor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bob Iger</title>
-      <link>https://finan.club/tags/bob-iger/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:44 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/bob-iger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disney</title>
-      <link>https://finan.club/tags/disney/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:44 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/disney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entertainment Industry</title>
-      <link>https://finan.club/tags/entertainment-industry/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:44 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/entertainment-industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stock Price</title>
-      <link>https://finan.club/tags/stock-price/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:44 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/stock-price/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Lending</title>
-      <link>https://finan.club/tags/digital-lending/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/digital-lending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Earnings prospects</title>
-      <link>https://finan.club/tags/earnings-prospects/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/earnings-prospects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financial Services</title>
-      <link>https://finan.club/tags/financial-services/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/financial-services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neobank</title>
-      <link>https://finan.club/tags/neobank/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:38 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/neobank/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regulatory risks</title>
-      <link>https://finan.club/tags/regulatory-risks/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:09 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/regulatory-risks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ride Sharing</title>
-      <link>https://finan.club/tags/ride-sharing/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:09 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/ride-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://finan.club/tags/technology/</link>
-      <pubDate>Thu, 04 Apr 2024 09:03:09 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aerospace</title>
       <link>https://finan.club/tags/aerospace/</link>
       <pubDate>Thu, 04 Apr 2024 09:02:44 +0000</pubDate>
@@ -971,33 +1151,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>https://finan.club/tags/ai/</link>
-      <pubDate>Thu, 04 Apr 2024 09:02:40 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Center</title>
-      <link>https://finan.club/tags/data-center/</link>
-      <pubDate>Thu, 04 Apr 2024 09:02:40 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/data-center/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pipeline Assets</title>
-      <link>https://finan.club/tags/pipeline-assets/</link>
-      <pubDate>Thu, 04 Apr 2024 09:02:40 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/pipeline-assets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Biotech</title>
       <link>https://finan.club/tags/biotech/</link>
       <pubDate>Thu, 04 Apr 2024 09:02:14 +0000</pubDate>
@@ -1012,15 +1165,6 @@
       <pubDate>Thu, 04 Apr 2024 09:02:14 +0000</pubDate>
       
       <guid>https://finan.club/tags/financial-risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Innovation</title>
-      <link>https://finan.club/tags/innovation/</link>
-      <pubDate>Thu, 04 Apr 2024 09:02:14 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/innovation/</guid>
       <description></description>
     </item>
     
@@ -1048,15 +1192,6 @@
       <pubDate>Wed, 03 Apr 2024 09:05:08 +0000</pubDate>
       
       <guid>https://finan.club/tags/annuities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financial Performance</title>
-      <link>https://finan.club/tags/financial-performance/</link>
-      <pubDate>Wed, 03 Apr 2024 09:05:08 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/financial-performance/</guid>
       <description></description>
     </item>
     
@@ -1097,6 +1232,15 @@
     </item>
     
     <item>
+      <title>Investment Potential</title>
+      <link>https://finan.club/tags/investment-potential/</link>
+      <pubDate>Wed, 03 Apr 2024 09:04:39 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/investment-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Market sentiment</title>
       <link>https://finan.club/tags/market-sentiment/</link>
       <pubDate>Wed, 03 Apr 2024 09:04:39 +0000</pubDate>
@@ -1106,11 +1250,20 @@
     </item>
     
     <item>
-      <title>Market Performance</title>
-      <link>https://finan.club/tags/market-performance/</link>
+      <title>Tech Stocks</title>
+      <link>https://finan.club/tags/tech-stocks/</link>
+      <pubDate>Wed, 03 Apr 2024 09:04:39 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/tech-stocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Estate</title>
+      <link>https://finan.club/tags/real-estate/</link>
       <pubDate>Wed, 03 Apr 2024 09:03:04 +0000</pubDate>
       
-      <guid>https://finan.club/tags/market-performance/</guid>
+      <guid>https://finan.club/tags/real-estate/</guid>
       <description></description>
     </item>
     
@@ -1120,15 +1273,6 @@
       <pubDate>Wed, 03 Apr 2024 09:03:04 +0000</pubDate>
       
       <guid>https://finan.club/tags/rental-housing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sustainability</title>
-      <link>https://finan.club/tags/sustainability/</link>
-      <pubDate>Wed, 03 Apr 2024 09:03:04 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/sustainability/</guid>
       <description></description>
     </item>
     
@@ -1183,6 +1327,24 @@
       <pubDate>Tue, 02 Apr 2024 09:05:31 +0000</pubDate>
       
       <guid>https://finan.club/tags/growth-stocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Trends</title>
+      <link>https://finan.club/tags/market-trends/</link>
+      <pubDate>Tue, 02 Apr 2024 09:05:31 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/market-trends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail</title>
+      <link>https://finan.club/tags/retail/</link>
+      <pubDate>Tue, 02 Apr 2024 09:05:31 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/retail/</guid>
       <description></description>
     </item>
     
@@ -1286,11 +1448,11 @@
     </item>
     
     <item>
-      <title>Lending</title>
-      <link>https://finan.club/tags/lending/</link>
+      <title>Fintech</title>
+      <link>https://finan.club/tags/fintech/</link>
       <pubDate>Mon, 01 Apr 2024 09:05:30 +0000</pubDate>
       
-      <guid>https://finan.club/tags/lending/</guid>
+      <guid>https://finan.club/tags/fintech/</guid>
       <description></description>
     </item>
     
@@ -1457,15 +1619,6 @@
     </item>
     
     <item>
-      <title>Market Conditions</title>
-      <link>https://finan.club/tags/market-conditions/</link>
-      <pubDate>Mon, 01 Apr 2024 09:02:50 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-conditions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RH Forecast</title>
       <link>https://finan.club/tags/rh-forecast/</link>
       <pubDate>Mon, 01 Apr 2024 09:02:50 +0000</pubDate>
@@ -1579,6 +1732,15 @@
       <pubDate>Fri, 29 Mar 2024 09:05:04 +0000</pubDate>
       
       <guid>https://finan.club/tags/consumer-lender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investing</title>
+      <link>https://finan.club/tags/investing/</link>
+      <pubDate>Fri, 29 Mar 2024 09:05:04 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/investing/</guid>
       <description></description>
     </item>
     
@@ -1754,15 +1916,6 @@
     </item>
     
     <item>
-      <title>Airline Industry</title>
-      <link>https://finan.club/tags/airline-industry/</link>
-      <pubDate>Tue, 26 Mar 2024 09:05:18 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/airline-industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cost Pressures</title>
       <link>https://finan.club/tags/cost-pressures/</link>
       <pubDate>Tue, 26 Mar 2024 09:05:18 +0000</pubDate>
@@ -1817,15 +1970,6 @@
     </item>
     
     <item>
-      <title>Competition</title>
-      <link>https://finan.club/tags/competition/</link>
-      <pubDate>Tue, 26 Mar 2024 09:04:16 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/competition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shareholder-Friendly</title>
       <link>https://finan.club/tags/shareholder-friendly/</link>
       <pubDate>Tue, 26 Mar 2024 09:04:16 +0000</pubDate>
@@ -1867,15 +2011,6 @@
       <pubDate>Mon, 25 Mar 2024 09:05:37 +0000</pubDate>
       
       <guid>https://finan.club/tags/cancer-vaccine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical trials</title>
-      <link>https://finan.club/tags/clinical-trials/</link>
-      <pubDate>Mon, 25 Mar 2024 09:05:37 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/clinical-trials/</guid>
       <description></description>
     </item>
     
@@ -2006,11 +2141,29 @@
     </item>
     
     <item>
+      <title>Stock Price</title>
+      <link>https://finan.club/tags/stock-price/</link>
+      <pubDate>Thu, 21 Mar 2024 09:07:15 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/stock-price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tesla</title>
       <link>https://finan.club/tags/tesla/</link>
       <pubDate>Thu, 21 Mar 2024 09:07:15 +0000</pubDate>
       
       <guid>https://finan.club/tags/tesla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://finan.club/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 21 Mar 2024 09:06:45 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -2173,15 +2326,6 @@
       <pubDate>Wed, 20 Mar 2024 09:03:17 +0000</pubDate>
       
       <guid>https://finan.club/tags/quantum-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investment opportunity</title>
-      <link>https://finan.club/tags/investment-opportunity/</link>
-      <pubDate>Wed, 20 Mar 2024 09:02:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/investment-opportunity/</guid>
       <description></description>
     </item>
     
@@ -2357,24 +2501,6 @@
     </item>
     
     <item>
-      <title>Cybersecurity</title>
-      <link>https://finan.club/tags/cybersecurity/</link>
-      <pubDate>Fri, 15 Mar 2024 09:06:07 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/cybersecurity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biopharmaceutical</title>
-      <link>https://finan.club/tags/biopharmaceutical/</link>
-      <pubDate>Wed, 13 Mar 2024 09:07:26 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/biopharmaceutical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cancer Immunotherapy</title>
       <link>https://finan.club/tags/cancer-immunotherapy/</link>
       <pubDate>Wed, 13 Mar 2024 09:07:26 +0000</pubDate>
@@ -2393,24 +2519,6 @@
     </item>
     
     <item>
-      <title>Data Storage</title>
-      <link>https://finan.club/tags/data-storage/</link>
-      <pubDate>Wed, 13 Mar 2024 09:02:57 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/data-storage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Market Expansion</title>
-      <link>https://finan.club/tags/market-expansion/</link>
-      <pubDate>Wed, 13 Mar 2024 09:02:57 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-expansion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aviation industry</title>
       <link>https://finan.club/tags/aviation-industry/</link>
       <pubDate>Tue, 12 Mar 2024 09:07:24 +0000</pubDate>
@@ -2425,15 +2533,6 @@
       <pubDate>Tue, 12 Mar 2024 09:07:24 +0000</pubDate>
       
       <guid>https://finan.club/tags/boeing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>safety concerns</title>
-      <link>https://finan.club/tags/safety-concerns/</link>
-      <pubDate>Tue, 12 Mar 2024 09:07:24 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/safety-concerns/</guid>
       <description></description>
     </item>
     
@@ -2537,6 +2636,15 @@
     </item>
     
     <item>
+      <title>Volatility</title>
+      <link>https://finan.club/tags/volatility/</link>
+      <pubDate>Mon, 11 Mar 2024 09:08:12 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/volatility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automotive</title>
       <link>https://finan.club/tags/automotive/</link>
       <pubDate>Mon, 11 Mar 2024 09:06:09 +0000</pubDate>
@@ -2551,33 +2659,6 @@
       <pubDate>Mon, 11 Mar 2024 09:06:09 +0000</pubDate>
       
       <guid>https://finan.club/tags/electric-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>business strategy</title>
-      <link>https://finan.club/tags/business-strategy/</link>
-      <pubDate>Mon, 11 Mar 2024 09:05:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/business-strategy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>corporate restructuring</title>
-      <link>https://finan.club/tags/corporate-restructuring/</link>
-      <pubDate>Mon, 11 Mar 2024 09:05:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/corporate-restructuring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ethics</title>
-      <link>https://finan.club/tags/ethics/</link>
-      <pubDate>Mon, 11 Mar 2024 09:05:33 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/ethics/</guid>
       <description></description>
     </item>
     
@@ -2969,15 +3050,6 @@
     </item>
     
     <item>
-      <title>Consumer Preferences</title>
-      <link>https://finan.club/tags/consumer-preferences/</link>
-      <pubDate>Thu, 29 Feb 2024 09:04:19 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/consumer-preferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Emerging Markets</title>
       <link>https://finan.club/tags/emerging-markets/</link>
       <pubDate>Thu, 29 Feb 2024 09:04:19 +0000</pubDate>
@@ -3086,11 +3158,11 @@
     </item>
     
     <item>
-      <title>Regulatory challenges</title>
-      <link>https://finan.club/tags/regulatory-challenges/</link>
+      <title>Ride-sharing</title>
+      <link>https://finan.club/tags/ride-sharing/</link>
       <pubDate>Thu, 29 Feb 2024 09:02:26 +0000</pubDate>
       
-      <guid>https://finan.club/tags/regulatory-challenges/</guid>
+      <guid>https://finan.club/tags/ride-sharing/</guid>
       <description></description>
     </item>
     
@@ -3136,15 +3208,6 @@
       <pubDate>Wed, 28 Feb 2024 09:05:45 +0000</pubDate>
       
       <guid>https://finan.club/tags/education-technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy Sector</title>
-      <link>https://finan.club/tags/energy-sector/</link>
-      <pubDate>Wed, 28 Feb 2024 09:04:13 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/energy-sector/</guid>
       <description></description>
     </item>
     
@@ -3253,15 +3316,6 @@
       <pubDate>Tue, 27 Feb 2024 09:07:13 +0000</pubDate>
       
       <guid>https://finan.club/tags/economic-outlook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital payments</title>
-      <link>https://finan.club/tags/digital-payments/</link>
-      <pubDate>Tue, 27 Feb 2024 09:02:52 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/digital-payments/</guid>
       <description></description>
     </item>
     
@@ -3554,6 +3608,15 @@
     </item>
     
     <item>
+      <title>Activist Investor</title>
+      <link>https://finan.club/tags/activist-investor/</link>
+      <pubDate>Thu, 22 Feb 2024 09:02:58 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/activist-investor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Proxy Battle</title>
       <link>https://finan.club/tags/proxy-battle/</link>
       <pubDate>Thu, 22 Feb 2024 09:02:58 +0000</pubDate>
@@ -3811,24 +3874,6 @@
       <pubDate>Mon, 12 Feb 2024 09:12:12 +0000</pubDate>
       
       <guid>https://finan.club/tags/product-innovation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>https://finan.club/tags/cloud-computing/</link>
-      <pubDate>Mon, 12 Feb 2024 09:12:00 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://finan.club/tags/tech/</link>
-      <pubDate>Mon, 12 Feb 2024 09:12:00 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/tech/</guid>
       <description></description>
     </item>
     
@@ -4274,6 +4319,15 @@
     </item>
     
     <item>
+      <title>Strategic Growth</title>
+      <link>https://finan.club/tags/strategic-growth/</link>
+      <pubDate>Thu, 01 Feb 2024 09:07:59 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/strategic-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Product Launch</title>
       <link>https://finan.club/tags/product-launch/</link>
       <pubDate>Thu, 01 Feb 2024 09:07:36 +0000</pubDate>
@@ -4400,15 +4454,6 @@
     </item>
     
     <item>
-      <title>Financial Results</title>
-      <link>https://finan.club/tags/financial-results/</link>
-      <pubDate>Wed, 31 Jan 2024 09:06:36 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/financial-results/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Share Repurchase</title>
       <link>https://finan.club/tags/share-repurchase/</link>
       <pubDate>Wed, 31 Jan 2024 09:06:36 +0000</pubDate>
@@ -4477,6 +4522,15 @@
       <pubDate>Tue, 30 Jan 2024 09:04:57 +0000</pubDate>
       
       <guid>https://finan.club/tags/competitive-innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earnings prospects</title>
+      <link>https://finan.club/tags/earnings-prospects/</link>
+      <pubDate>Tue, 30 Jan 2024 09:04:57 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/earnings-prospects/</guid>
       <description></description>
     </item>
     
@@ -4967,24 +5021,6 @@
     </item>
     
     <item>
-      <title>Market Analysis</title>
-      <link>https://finan.club/tags/market-analysis/</link>
-      <pubDate>Tue, 23 Jan 2024 09:03:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/market-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Partnerships</title>
-      <link>https://finan.club/tags/partnerships/</link>
-      <pubDate>Tue, 23 Jan 2024 09:03:05 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/partnerships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AI-related businesses</title>
       <link>https://finan.club/tags/ai-related-businesses/</link>
       <pubDate>Mon, 22 Jan 2024 09:06:22 +0000</pubDate>
@@ -5107,33 +5143,6 @@
       <pubDate>Fri, 19 Jan 2024 09:07:19 +0000</pubDate>
       
       <guid>https://finan.club/tags/radar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economic recovery</title>
-      <link>https://finan.club/tags/economic-recovery/</link>
-      <pubDate>Fri, 19 Jan 2024 09:06:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/economic-recovery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labor costs</title>
-      <link>https://finan.club/tags/labor-costs/</link>
-      <pubDate>Fri, 19 Jan 2024 09:06:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/labor-costs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weather impact</title>
-      <link>https://finan.club/tags/weather-impact/</link>
-      <pubDate>Fri, 19 Jan 2024 09:06:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/weather-impact/</guid>
       <description></description>
     </item>
     
@@ -5795,42 +5804,6 @@
     </item>
     
     <item>
-      <title>Autoimmune diseases</title>
-      <link>https://finan.club/tags/autoimmune-diseases/</link>
-      <pubDate>Wed, 27 Dec 2023 09:02:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/autoimmune-diseases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical-stage trials</title>
-      <link>https://finan.club/tags/clinical-stage-trials/</link>
-      <pubDate>Wed, 27 Dec 2023 09:02:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/clinical-stage-trials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Immunology</title>
-      <link>https://finan.club/tags/immunology/</link>
-      <pubDate>Wed, 27 Dec 2023 09:02:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/immunology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Therapy development</title>
-      <link>https://finan.club/tags/therapy-development/</link>
-      <pubDate>Wed, 27 Dec 2023 09:02:32 +0000</pubDate>
-      
-      <guid>https://finan.club/tags/therapy-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Advertising Technology</title>
       <link>https://finan.club/tags/advertising-technology/</link>
       <pubDate>Tue, 26 Dec 2023 09:02:25 +0000</pubDate>
@@ -6133,6 +6106,15 @@
       <pubDate>Tue, 12 Dec 2023 14:44:36 +0000</pubDate>
       
       <guid>https://finan.club/tags/synergies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory Scrutiny</title>
+      <link>https://finan.club/tags/regulatory-scrutiny/</link>
+      <pubDate>Tue, 12 Dec 2023 14:42:28 +0000</pubDate>
+      
+      <guid>https://finan.club/tags/regulatory-scrutiny/</guid>
       <description></description>
     </item>
     
