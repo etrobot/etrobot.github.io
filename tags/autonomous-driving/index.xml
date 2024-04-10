@@ -1,30 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autonomous driving on FinanClub</title>
+    <title>Autonomous Driving on FinanClub</title>
     <link>https://finan.club/tags/autonomous-driving/</link>
-    <description>Recent content in autonomous driving on FinanClub</description>
+    <description>Recent content in Autonomous Driving on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 09:58:41 +0000</lastBuildDate><atom:link href="https://finan.club/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Apr 2024 09:04:47 +0000</lastBuildDate><atom:link href="https://finan.club/tags/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AUR</title>
-      <link>https://finan.club/us/aur/</link>
-      <pubDate>Sun, 27 Aug 2023 09:58:41 +0000</pubDate>
+      <title>GM</title>
+      <link>https://finan.club/us/gm/</link>
+      <pubDate>Wed, 10 Apr 2024 09:04:47 +0000</pubDate>
       
-      <guid>https://finan.club/us/aur/</guid>
-      <description>score:-32
-Chances: Aurora announces successful public offerings and fundraising. Expansion of commercial operations through partnerships. Introduction of new capabilities for commercial launch. Promotion of key executives and leadership changes. Participation in industry conferences and presentations. Risks: Continued losses in earnings, but improvements from previous year.</description>
-    </item>
-    
-    <item>
-      <title>LAZR</title>
-      <link>https://finan.club/us/lazr/</link>
-      <pubDate>Sat, 12 Aug 2023 06:53:05 +0000</pubDate>
-      
-      <guid>https://finan.club/us/lazr/</guid>
-      <description>score:174
-Chances: Luminar reported Q2 2023 results in line with expectations and maintains full-year financial guidance. Luminar delivered positive earnings and revenue surprises for the quarter ended June 2023. The company&amp;rsquo;s partnerships with automakers like Polestar and Nissan indicate growth prospects. Luminar&amp;rsquo;s focus on advanced semiconductor capabilities and AI technologies is positioning it well.</description>
+      <guid>https://finan.club/us/gm/</guid>
+      <description>score:-27
+Chances: General Motors&amp;rsquo; Cruise autonomous driving business is preparing to resume testing its robotaxis with safety drivers in Phoenix, marking an important step in its attempts to restart service after grounding its fleet. GM is entering the EV truck business with a splash, which could drive growth and revenue in the electric vehicle segment.</description>
     </item>
     
   </channel>
