@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gold mining on FinanClub</title>
+    <title>Gold Mining on FinanClub</title>
     <link>https://finan.club/tags/gold-mining/</link>
-    <description>Recent content in Gold mining on FinanClub</description>
+    <description>Recent content in Gold Mining on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2024 09:05:26 +0000</lastBuildDate><atom:link href="https://finan.club/tags/gold-mining/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2024 09:04:32 +0000</lastBuildDate><atom:link href="https://finan.club/tags/gold-mining/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NEM</title>
-      <link>https://finan.club/us/nem/</link>
-      <pubDate>Mon, 08 Jan 2024 09:05:26 +0000</pubDate>
+      <title>HMY</title>
+      <link>https://finan.club/us/hmy/</link>
+      <pubDate>Mon, 15 Apr 2024 09:04:32 +0000</pubDate>
       
-      <guid>https://finan.club/us/nem/</guid>
-      <description>score:42
-Chances: Gold producers are raising bets on copper through deals and investments, indicating potential growth opportunities. Expectations of interest rate cuts and a weaker dollar have fueled the rise in gold prices, presenting a positive outlook for gold mining companies like Newmont Corp.</description>
+      <guid>https://finan.club/us/hmy/</guid>
+      <description>score:-28
+Chances: Gold prices have surged recently and are trading at near all-time highs. Risks: The rally that catapulted U.S. equities to newer and higher valuations seems to have come to an end. Score:-28 chances characters count - risks characters count = -28</description>
+    </item>
+    
+    <item>
+      <title>BTG</title>
+      <link>https://finan.club/us/btg/</link>
+      <pubDate>Mon, 15 Apr 2024 09:04:12 +0000</pubDate>
+      
+      <guid>https://finan.club/us/btg/</guid>
+      <description>score:2
+Chances: Mali&amp;rsquo;s industrial gold output is expected to drop by about 14% this year, impacting companies like B2Gold Corp. Gold prices have surged recently and are trading at near all-time highs, benefiting companies involved in gold mining like B2Gold Corp. Risks: The mining industry is subject to geopolitical and environmental risks, which could impact the operations of B2Gold Corp.</description>
     </item>
     
   </channel>
