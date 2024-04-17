@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stock Price on FinanClub</title>
+    <title>Stock price on FinanClub</title>
     <link>https://finan.club/tags/stock-price/</link>
-    <description>Recent content in Stock Price on FinanClub</description>
+    <description>Recent content in Stock price on FinanClub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 09:07:15 +0000</lastBuildDate><atom:link href="https://finan.club/tags/stock-price/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 09:11:19 +0000</lastBuildDate><atom:link href="https://finan.club/tags/stock-price/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPNG</title>
+      <link>https://finan.club/us/cpng/</link>
+      <pubDate>Wed, 17 Apr 2024 09:11:19 +0000</pubDate>
+      
+      <guid>https://finan.club/us/cpng/</guid>
+      <description>score:153
+Chances: Shares of e-commerce marketplace Coupang (NYSE:CPNG) jumped 11.4% in the afternoon session after the company announced it would raise its WOW membership (paid membership service) by 58% to 7,890 won. Significantly high institutional ownership implies Coupang&amp;rsquo;s stock price is sensitive to their trading.</description>
+    </item>
+    
     <item>
       <title>RIVN</title>
       <link>https://finan.club/us/rivn/</link>
